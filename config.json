@@ -1,0 +1,64 @@
+{
+  "profile": {
+    "name": "Vaibhav Kumar",
+    "years_experience": 4,
+    "location": "Bangalore, India",
+    "summary": "AI engineer building production multi-agent LLM systems; 4 yrs Python/SQL data engineering at Razorpay scale",
+    "target_bands": { "india_lpa": [25, 60], "remote_usd": [60000, 100000] }
+  },
+  "target_roles": [
+    "AI Engineer",
+    "LLM Engineer",
+    "Agent Engineer",
+    "Forward Deployed Engineer",
+    "AI Solutions Engineer",
+    "AI Evals Engineer",
+    "AI Reliability Engineer",
+    "Senior Data Engineer",
+    "Analytics Engineer"
+  ],
+  "search_keywords": [
+    "AI engineer",
+    "LLM",
+    "agents",
+    "forward deployed engineer",
+    "evals",
+    "data engineer",
+    "RAG",
+    "solutions engineer AI"
+  ],
+  "scoring": {
+    "title_keywords": {
+      "forward deployed": 40,
+      "ai engineer": 38,
+      "llm": 36,
+      "agent": 34,
+      "eval": 34,
+      "ai reliability": 34,
+      "ai solutions": 32,
+      "solutions engineer": 24,
+      "machine learning engineer": 20,
+      "data engineer": 22,
+      "analytics engineer": 16,
+      "genai": 30,
+      "generative ai": 30,
+      "prompt": 14,
+      "rag": 28,
+      "ml ops": 18,
+      "mlops": 18,
+      "ai platform": 26
+    },
+    "description_keywords": {
+      "multi-agent": 12, "rag": 8, "retrieval": 6, "reranking": 8, "evals": 10,
+      "llm": 6, "mcp": 10, "langgraph": 6, "langchain": 4, "vllm": 6,
+      "python": 4, "sql": 3, "aws": 3, "redshift": 4, "etl": 4, "airflow": 3,
+      "kafka": 3, "spark": 3, "anthropic": 8, "openai": 6, "claude": 8, "gpt": 4,
+      "fine-tun": 4, "n8n": 8, "orchestration": 5
+    },
+    "location_boosts": { "india": 15, "bangalore": 20, "bengaluru": 20, "remote": 12, "hybrid": 4 },
+    "negative_keywords": { "intern": -60, "junior": -25, "staff": -10, "principal": -15, "director": -40, "manager": -20, "phd": -25, "10+ years": -20, "unpaid": -80 },
+    "recency_boost_days": { "1": 15, "3": 10, "7": 6, "14": 3 },
+    "salary_present_boost": 6
+  },
+  "competition_domains": ["llm", "agent", "rag", "eval", "genai", "generative ai", "nlp", "ml", "machine learning", "data", "ai", "hackathon", "kaggle"]
+}

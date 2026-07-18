@@ -1,0 +1,62 @@
+[
+  {
+    "title": "ARC Prize 2026 — ARC-AGI-2 (code competition)",
+    "platform": "Kaggle",
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026",
+    "prize": "$1,000,000+ (part of $2M ARC Prize pool)",
+    "deadline": "Nov 2, 2026",
+    "domain": "ML, reasoning, LLM",
+    "location": "Online",
+    "note": "seed: Kaggle API needs auth; check page for exact split"
+  },
+  {
+    "title": "ARC Prize — ARC-AGI-3 Agents track",
+    "platform": "arcprize.org",
+    "url": "https://arcprize.org/arc-agi/3/",
+    "prize": "$37,500 per milestone",
+    "deadline": "Sep 30, 2026",
+    "domain": "LLM, agents, interactive environments",
+    "location": "Online",
+    "note": "seed: strongest agent-domain fit"
+  },
+  {
+    "title": "ARC White-Box Estimation Challenge 2026 (Alignment Research Center)",
+    "platform": "AIcrowd",
+    "url": "https://www.aicrowd.com/challenges",
+    "prize": "$150,000+",
+    "deadline": "Jul 31, 2026",
+    "domain": "evals, interpretability, ML",
+    "location": "Online",
+    "note": "seed: AIcrowd JSON endpoint is broken; phase 1 closes ~end July"
+  },
+  {
+    "title": "Trace the Ace — National Tutoring Observatory",
+    "platform": "DrivenData",
+    "url": "https://www.drivendata.org/competitions/",
+    "prize": "$50,000",
+    "deadline": "Aug 27, 2026",
+    "domain": "ML, data science",
+    "location": "Online",
+    "note": "seed: DrivenData has no API"
+  },
+  {
+    "title": "OpenSearch Agent Skills Hackathon",
+    "platform": "OpenSearch",
+    "url": "https://opensearch.org/blog/agent-skills-hackathon/",
+    "prize": "$5,000",
+    "deadline": "Aug 17, 2026",
+    "domain": "LLM, agents, search",
+    "location": "Online",
+    "note": "seed"
+  },
+  {
+    "title": "Archestra MCP Apps Hackathon",
+    "platform": "Unstop",
+    "url": "https://unstop.com/hackathons/archestra-mcp-apps-hackathon",
+    "prize": "see page",
+    "deadline": "Jul 31, 2026",
+    "domain": "LLM, agents, MCP",
+    "location": "India / Online",
+    "note": "seed: MCP is directly his stack"
+  }
+]

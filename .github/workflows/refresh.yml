@@ -1,0 +1,26 @@
+name: Refresh jobs & competitions
+
+on:
+  schedule:
+    - cron: "30 2 * * *"   # daily 08:00 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch fresh data
+        run: python3 scripts/refresh.py
+      - name: Commit if changed
+        run: |
+          git config user.name "hireme-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "data: daily refresh $(date -u +%F)"
+          git push
+          git push origin main:gh-pages --force   # Pages serves from gh-pages

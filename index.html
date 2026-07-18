@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>hireme — what should I apply to today</title>
+<style>
+  :root {
+    --bg: #0b0e14;
+    --surface: #12161f;
+    --surface2: #171c27;
+    --border: #232a38;
+    --ink: #e8edf4;
+    --ink2: #9aa6b5;
+    --ink3: #66707f;
+    --accent: #7aa2f7;
+    --accent-dim: #2b3b63;
+    --good: #4ade80;
+    --warn: #fbbf24;
+    --danger: #f87171;
+    --prize: #4ade80;
+    --radius: 10px;
+    font-size: 15px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    padding-bottom: 80px;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .wrap { max-width: 980px; margin: 0 auto; padding: 0 20px; }
+
+  header { padding: 28px 0 10px; display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; }
+  .logo { font-size: 26px; font-weight: 700; letter-spacing: -0.5px; }
+  .logo span { color: var(--accent); }
+  .freshness { color: var(--ink3); font-size: 13px; margin-left: auto; }
+  .freshness.stale { color: var(--warn); }
+
+  /* stat tiles */
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 14px 0 20px; }
+  .tile { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 14px; }
+  .tile .label { font-size: 12px; color: var(--ink2); }
+  .tile .value { font-size: 26px; font-weight: 600; margin-top: 2px; }
+  .tile .sub { font-size: 12px; color: var(--ink3); }
+  .tile .value.prize { color: var(--prize); }
+
+  /* search row */
+  .searchrow { display: flex; gap: 8px; margin-bottom: 10px; }
+  #kw {
+    flex: 1; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+    color: var(--ink); padding: 11px 14px; font-size: 15px; outline: none;
+  }
+  #kw:focus { border-color: var(--accent-dim); }
+  button {
+    background: var(--surface2); color: var(--ink); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 10px 16px; font-size: 14px; cursor: pointer; font-family: inherit;
+  }
+  button:hover { border-color: var(--accent-dim); }
+  button.primary { background: var(--accent-dim); border-color: var(--accent-dim); color: #dbe6ff; }
+  button.small { padding: 4px 10px; font-size: 12px; border-radius: 7px; }
+
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; }
+  .chip {
+    font-size: 12.5px; color: var(--ink2); background: var(--surface); border: 1px solid var(--border);
+    border-radius: 999px; padding: 4px 12px; cursor: pointer; user-select: none;
+  }
+  .chip:hover, .chip.on { color: var(--ink); border-color: var(--accent-dim); background: var(--surface2); }
+  .chip.on { color: #dbe6ff; background: var(--accent-dim); }
+
+  /* tabs */
+  nav.tabs { display: flex; gap: 2px; border-bottom: 1px solid var(--border); margin-bottom: 16px; }
+  nav.tabs button {
+    background: none; border: none; border-bottom: 2px solid transparent; border-radius: 0;
+    color: var(--ink2); padding: 9px 16px; font-size: 14.5px;
+  }
+  nav.tabs button.active { color: var(--ink); border-bottom-color: var(--accent); }
+  nav.tabs button .n { color: var(--ink3); font-size: 12px; margin-left: 5px; }
+
+  /* filter row */
+  .filters { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 14px; font-size: 13px; color: var(--ink2); }
+  .filters select {
+    background: var(--surface); color: var(--ink); border: 1px solid var(--border);
+    border-radius: 7px; padding: 5px 8px; font-size: 13px; font-family: inherit;
+  }
+  .filters label { display: flex; align-items: center; gap: 5px; cursor: pointer; }
+
+  /* job cards */
+  .card {
+    background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 14px 16px; margin-bottom: 10px; position: relative;
+  }
+  .card.applied { opacity: 0.55; }
+  .card.saved { border-left: 3px solid var(--accent); }
+  .jobtop { display: flex; gap: 10px; align-items: baseline; }
+  .jobtitle { font-size: 15.5px; font-weight: 600; }
+  .jobtitle a { color: var(--ink); }
+  .score {
+    margin-left: auto; flex-shrink: 0; font-size: 12.5px; font-weight: 600; color: var(--accent);
+    background: var(--accent-dim); border-radius: 6px; padding: 2px 8px;
+  }
+  .jobmeta { font-size: 13px; color: var(--ink2); margin-top: 3px; display: flex; gap: 8px; flex-wrap: wrap; }
+  .jobmeta .co { color: var(--ink); font-weight: 500; }
+  .jobmeta .sal { color: var(--good); }
+  .badge { font-size: 11px; color: var(--ink3); border: 1px solid var(--border); border-radius: 5px; padding: 1px 6px; }
+  .jobdesc { font-size: 13px; color: var(--ink3); margin-top: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .actions { display: flex; gap: 6px; margin-top: 10px; }
+  .fresh-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--good); margin-right: 2px; }
+
+  /* competitions */
+  .comp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 10px; }
+  .comp { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px 16px; display: flex; flex-direction: column; gap: 6px; }
+  .comp .prize { font-size: 21px; font-weight: 700; color: var(--prize); }
+  .comp .prize.none { color: var(--ink3); font-size: 14px; font-weight: 500; }
+  .comp h3 { font-size: 14.5px; font-weight: 600; line-height: 1.35; }
+  .comp h3 a { color: var(--ink); }
+  .comp .meta { font-size: 12.5px; color: var(--ink2); }
+  .comp .deadline { font-size: 12.5px; color: var(--ink2); margin-top: auto; }
+  .comp .deadline.soon { color: var(--danger); font-weight: 600; }
+  .comp .deadline.mid { color: var(--warn); }
+
+  /* quick links */
+  .ql-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; }
+  .ql { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 13px 15px; display: block; }
+  .ql:hover { border-color: var(--accent-dim); text-decoration: none; background: var(--surface2); }
+  .ql .name { font-weight: 600; color: var(--ink); font-size: 14.5px; }
+  .ql .hint { font-size: 12px; color: var(--ink3); margin-top: 2px; }
+
+  .empty { color: var(--ink3); text-align: center; padding: 40px 0; font-size: 14px; }
+  .section-note { font-size: 12.5px; color: var(--ink3); margin: 4px 0 14px; }
+  #livestatus { font-size: 12.5px; color: var(--ink3); margin-bottom: 10px; min-height: 18px; }
+  #livestatus .err { color: var(--warn); }
+
+  footer { margin-top: 44px; padding-top: 16px; border-top: 1px solid var(--border); font-size: 12px; color: var(--ink3); }
+  footer a { color: var(--ink3); text-decoration: underline; }
+
+  @media (max-width: 640px) {
+    .jobtop { flex-wrap: wrap; }
+    .score { margin-left: 0; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="logo">hire<span>me</span></div>
+    <div style="color:var(--ink3);font-size:13.5px">what should Vaibhav apply to today</div>
+    <div class="freshness" id="freshness"></div>
+  </header>
+
+  <div class="tiles" id="tiles"></div>
+
+  <div class="searchrow">
+    <input id="kw" type="search" placeholder="keyword — e.g. AI engineer, forward deployed, evals…" autocomplete="off">
+    <button class="primary" id="livebtn" title="Query free job APIs live from your browser">Search live</button>
+  </div>
+  <div class="chips" id="rolechips"></div>
+  <div id="livestatus"></div>
+
+  <nav class="tabs">
+    <button data-tab="jobs" class="active">Apply <span class="n" id="njobs"></span></button>
+    <button data-tab="comps">Competitions <span class="n" id="ncomps"></span></button>
+    <button data-tab="links">Search everywhere</button>
+    <button data-tab="done">Applied <span class="n" id="ndone"></span></button>
+  </nav>
+
+  <section id="tab-jobs">
+    <div class="filters">
+      <select id="f-loc">
+        <option value="">Anywhere</option>
+        <option value="india">India / Bangalore</option>
+        <option value="remote">Remote</option>
+      </select>
+      <select id="f-src"><option value="">All sources</option></select>
+      <select id="f-sort">
+        <option value="score">Best fit first</option>
+        <option value="date">Newest first</option>
+      </select>
+      <label><input type="checkbox" id="f-hide" checked> hide applied &amp; hidden</label>
+    </div>
+    <div id="joblist"></div>
+  </section>
+
+  <section id="tab-comps" hidden>
+    <div class="section-note">Cash-prize competitions in your domain (LLM / agents / evals / ML / data), biggest prizes first. Refreshed daily from Devpost, HackerEarth &amp; Unstop.</div>
+    <div class="comp-grid" id="complist"></div>
+    <div class="section-note" style="margin-top:18px">These platforms block bots — worth a manual look weekly:
+      <a href="https://www.kaggle.com/competitions?sortOption=prize" target="_blank" rel="noopener">Kaggle</a> ·
+      <a href="https://lablab.ai/event" target="_blank" rel="noopener">lablab.ai</a> ·
+      <a href="https://machinehack.com/hackathons" target="_blank" rel="noopener">MachineHack</a> ·
+      <a href="https://www.drivendata.org/competitions/" target="_blank" rel="noopener">DrivenData</a> ·
+      <a href="https://www.aicrowd.com/challenges" target="_blank" rel="noopener">AIcrowd</a> ·
+      <a href="https://zindi.africa/competitions" target="_blank" rel="noopener">Zindi</a>
+    </div>
+  </section>
+
+  <section id="tab-links" hidden>
+    <div class="section-note">Your keyword, pre-filled into every platform that has no free API. Opens filtered where possible (recency, experience, India).</div>
+    <div class="ql-grid" id="qlgrid"></div>
+  </section>
+
+  <section id="tab-done" hidden>
+    <div id="donelist"></div>
+  </section>
+
+  <footer>
+    Free sources: Remotive · RemoteOK · Arbeitnow · Jobicy · Himalayas · HN Who's Hiring · 32 Greenhouse/Lever/Ashby company boards · Devpost · HackerEarth · Unstop.
+    Data refreshes daily via GitHub Actions. “Search live” hits the CORS-open APIs directly from your browser — no keys, no tracking, applied-status lives in your localStorage only.
+    <a href="https://github.com/vaibhavgit9210/hireme">source</a>
+  </footer>
+</div>
+
+<script>
+"use strict";
+/* ============================== state ============================== */
+const $ = (s, el = document) => el.querySelector(s);
+const $$ = (s, el = document) => [...el.querySelectorAll(s)];
+let CFG = null, JOBS = [], COMPS = [], LIVE = [], FETCHED_AT = null;
+const LS_KEY = "hireme-status"; // { [joburl]: "applied" | "saved" | "hidden" }
+let status_ = JSON.parse(localStorage.getItem(LS_KEY) || "{}");
+const saveStatus = () => localStorage.setItem(LS_KEY, JSON.stringify(status_));
+
+/* ============================== scoring (mirrors scripts/refresh.py) ============================== */
+function scoreJob(j) {
+  if (!CFG) return j.score || 0;
+  const s = CFG.scoring;
+  let sc = 0;
+  const t = (j.title || "").toLowerCase();
+  const blob = (t + " " + (j.desc || "") + " " + (j.tags || []).join(" ")).toLowerCase();
+  const loc = (j.location || "").toLowerCase();
+  for (const [k, v] of Object.entries(s.title_keywords)) if (t.includes(k)) sc += v;
+  for (const [k, v] of Object.entries(s.description_keywords)) if (blob.includes(k)) sc += v;
+  let locHit = false;
+  for (const [k, v] of Object.entries(s.location_boosts)) if (loc.includes(k)) { sc += v; locHit = true; }
+  if (loc && !locHit && !loc.includes("see post")) sc -= 25;
+  for (const [k, v] of Object.entries(s.negative_keywords)) if (t.includes(k)) sc += v;
+  if (j.salary) sc += s.salary_present_boost;
+  if (j.posted_at) {
+    const age = (Date.now() - Date.parse(j.posted_at)) / 864e5;
+    if (!isNaN(age)) {
+      const steps = Object.entries(s.recency_boost_days).sort((a, b) => +a[0] - +b[0]);
+      for (const [d, b] of steps) { if (age <= +d) { sc += b; break; } }
+      if (age > 45) sc -= 15;
+    }
+  }
+  return Math.round(sc);
+}
+
+/* ============================== live client-side search ============================== */
+const LIVE_SOURCES = [
+  { name: "Remotive", fn: async kw => {
+      const d = await (await fetch("https://remotive.com/api/remote-jobs?limit=40&search=" + encodeURIComponent(kw))).json();
+      return (d.jobs || []).map(j => ({ title: j.title, company: j.company_name, location: j.candidate_required_location || "Remote",
+        url: j.url, source: "Remotive", posted_at: j.publication_date, salary: j.salary || null, desc: stripHtml(j.description).slice(0, 500), tags: [j.category] }));
+  }},
+  { name: "Arbeitnow", fn: async kw => {
+      const d = await (await fetch("https://www.arbeitnow.com/api/job-board-api")).json();
+      const k = kw.toLowerCase().split(/\s+/);
+      return (d.data || []).filter(j => k.every(w => (j.title + " " + j.description + " " + (j.tags||[]).join(" ")).toLowerCase().includes(w)))
+        .map(j => ({ title: j.title, company: j.company_name, location: (j.location || "") + (j.remote ? " · Remote" : ""),
+          url: j.url, source: "Arbeitnow", posted_at: j.created_at ? new Date(j.created_at * 1000).toISOString() : null,
+          salary: null, desc: stripHtml(j.description).slice(0, 500), tags: j.tags || [] }));
+  }},
+  { name: "Jobicy", fn: async kw => {
+      const d = await (await fetch("https://jobicy.com/api/v2/remote-jobs?count=40&tag=" + encodeURIComponent(kw))).json();
+      return (d.jobs || []).map(j => ({ title: j.jobTitle, company: j.companyName, location: j.jobGeo || "Remote",
+        url: j.url, source: "Jobicy", posted_at: j.pubDate,
+        salary: j.annualSalaryMin ? `${j.salaryCurrency || "USD"} ${Math.round(j.annualSalaryMin/1000)}k–${Math.round((j.annualSalaryMax || j.annualSalaryMin)/1000)}k` : null,
+        desc: stripHtml(j.jobExcerpt || "").slice(0, 500), tags: j.jobIndustry || [] }));
+  }},
+  { name: "HN Who's Hiring", fn: async kw => {
+      const s = await (await fetch("https://hn.algolia.com/api/v1/search_by_date?query=%22who%20is%20hiring%22&tags=story,author_whoishiring&hitsPerPage=1")).json();
+      if (!s.hits?.length) return [];
+      const id = s.hits[0].objectID;
+      const c = await (await fetch(`https://hn.algolia.com/api/v1/search?tags=comment,story_${id}&query=${encodeURIComponent(kw)}&hitsPerPage=30`)).json();
+      return (c.hits || []).map(h => {
+        const text = stripHtml(h.comment_text || "");
+        return { title: "HN: " + (text.split("|")[0].trim().slice(0, 60) || "post"), company: "", location: "see post",
+          url: "https://news.ycombinator.com/item?id=" + h.objectID, source: "HN Who's Hiring",
+          posted_at: h.created_at, salary: null, desc: text.slice(0, 500), tags: [] };
+      });
+  }},
+];
+
+function stripHtml(s) { const d = document.createElement("div"); d.innerHTML = s || ""; return (d.textContent || "").replace(/\s+/g, " ").trim(); }
+
+async function liveSearch() {
+  const kw = $("#kw").value.trim() || "AI engineer";
+  const st = $("#livestatus");
+  st.textContent = "Searching " + LIVE_SOURCES.length + " free APIs for “" + kw + "”…";
+  $("#livebtn").disabled = true;
+  const results = await Promise.allSettled(LIVE_SOURCES.map(s => s.fn(kw)));
+  LIVE = [];
+  const notes = [];
+  results.forEach((r, i) => {
+    if (r.status === "fulfilled") { LIVE.push(...r.value); notes.push(`${LIVE_SOURCES[i].name} ${r.value.length}`); }
+    else notes.push(`<span class="err">${LIVE_SOURCES[i].name} ✗</span>`);
+  });
+  LIVE.forEach(j => { j.live = true; j.score = scoreJob(j); });
+  st.innerHTML = `Live: ${notes.join(" · ")}`;
+  $("#livebtn").disabled = false;
+  render();
+}
+
+/* ============================== rendering ============================== */
+function mergedJobs() {
+  const seen = new Set();
+  const all = [];
+  for (const j of [...LIVE, ...JOBS]) {
+    const key = j.url || (j.company + "|" + j.title).toLowerCase();
+    const key2 = (j.company + "|" + j.title).toLowerCase();
+    if (seen.has(key) || (j.company && j.title && seen.has(key2))) continue;
+    seen.add(key); seen.add(key2);
+    all.push(j);
+  }
+  return all;
+}
+
+function esc(s) { const d = document.createElement("div"); d.textContent = s == null ? "" : String(s); return d.innerHTML; }
+
+function ago(iso) {
+  if (!iso) return "";
+  const days = (Date.now() - Date.parse(iso)) / 864e5;
+  if (isNaN(days)) return "";
+  if (days < 1) return "today";
+  if (days < 2) return "yesterday";
+  if (days < 30) return Math.floor(days) + "d ago";
+  return Math.floor(days / 30) + "mo ago";
+}
+
+function jobCard(j) {
+  const st = status_[j.url] || "";
+  const fresh = j.posted_at && (Date.now() - Date.parse(j.posted_at)) < 3 * 864e5;
+  return `<div class="card ${st}" data-url="${esc(j.url)}">
+    <div class="jobtop">
+      <div class="jobtitle">${fresh ? '<span class="fresh-dot" title="posted in last 3 days"></span>' : ""}<a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>${j.live ? ' <span class="badge">live</span>' : ""}</div>
+      <div class="score" title="fit score vs your profile">${j.score}</div>
+    </div>
+    <div class="jobmeta">
+      ${j.company ? `<span class="co">${esc(j.company)}</span>` : ""}
+      ${j.location ? `<span>${esc(j.location)}</span>` : ""}
+      ${j.salary ? `<span class="sal">${esc(j.salary)}</span>` : ""}
+      <span class="badge">${esc(j.source)}</span>
+      ${j.posted_at ? `<span>${ago(j.posted_at)}</span>` : ""}
+    </div>
+    ${j.desc ? `<div class="jobdesc">${esc(j.desc)}</div>` : ""}
+    <div class="actions">
+      <button class="small" data-act="applied">${st === "applied" ? "✓ applied" : "mark applied"}</button>
+      <button class="small" data-act="saved">${st === "saved" ? "★ saved" : "save"}</button>
+      <button class="small" data-act="hidden">hide</button>
+    </div>
+  </div>`;
+}
+
+function render() {
+  const all = mergedJobs();
+  const loc = $("#f-loc").value, src = $("#f-src").value, sort = $("#f-sort").value, hide = $("#f-hide").checked;
+  const kw = $("#kw").value.trim().toLowerCase();
+
+  let list = all.filter(j => {
+    const st = status_[j.url];
+    if (hide && (st === "applied" || st === "hidden")) return false;
+    if (st === "hidden") return false;
+    if (loc === "india" && !/india|bangalore|bengaluru|hyderabad|pune|delhi|mumbai|gurugram|gurgaon|noida|chennai/i.test(j.location)) return false;
+    if (loc === "remote" && !/remote|anywhere|worldwide/i.test(j.location + " " + (j.tags||[]).join(" "))) return false;
+    if (src && j.source !== src) return false;
+    if (kw && !kw.split(/\s+/).every(w => (j.title + " " + j.company + " " + j.desc + " " + (j.tags||[]).join(" ")).toLowerCase().includes(w))) return false;
+    return true;
+  });
+  list.sort(sort === "date"
+    ? (a, b) => (Date.parse(b.posted_at) || 0) - (Date.parse(a.posted_at) || 0)
+    : (a, b) => b.score - a.score);
+
+  $("#joblist").innerHTML = list.length
+    ? list.slice(0, 120).map(jobCard).join("")
+    : `<div class="empty">Nothing matches. Try “Search live”, clear filters, or check the Search-everywhere tab.</div>`;
+  $("#njobs").textContent = list.length;
+
+  // applied tab
+  const done = all.filter(j => status_[j.url] === "applied");
+  $("#donelist").innerHTML = done.length ? done.map(jobCard).join("") : `<div class="empty">Nothing marked applied yet. Applications you mark live only in this browser.</div>`;
+  $("#ndone").textContent = done.length;
+
+  renderTiles(all, done);
+}
+
+function renderComps() {
+  const now = Date.now();
+  const cards = COMPS.map(c => {
+    let dl = "", cls = "";
+    if (c.deadline) {
+      const t = Date.parse(c.deadline);
+      if (!isNaN(t)) {
+        const days = Math.ceil((t - now) / 864e5);
+        if (days < 0) return "";
+        dl = days === 0 ? "closes today" : `closes in ${days}d`;
+        cls = days <= 7 ? "soon" : days <= 21 ? "mid" : "";
+      } else dl = esc(c.deadline);
+    }
+    const prize = c.prize && c.prize !== "varies" && !/^\s*$/.test(c.prize) ? esc(c.prize) : "";
+    return `<div class="comp">
+      <div class="prize ${prize ? "" : "none"}">${prize || "prize varies"}</div>
+      <h3><a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.title)}</a></h3>
+      <div class="meta">${esc(c.platform)}${c.domain ? " · " + esc(c.domain) : ""}${c.participants ? " · " + esc(c.participants) + " teams" : ""}</div>
+      ${dl ? `<div class="deadline ${cls}">${dl}</div>` : ""}
+    </div>`;
+  }).join("");
+  $("#complist").innerHTML = cards || `<div class="empty">No competitions loaded yet — data refreshes daily.</div>`;
+  $("#ncomps").textContent = COMPS.length;
+}
+
+function renderTiles(all, done) {
+  const newToday = all.filter(j => j.posted_at && (Date.now() - Date.parse(j.posted_at)) < 864e5 * 2).length;
+  const top = all.filter(j => j.score >= 50 && !status_[j.url]).length;
+  const prizePool = COMPS.reduce((s, c) => s + (c.prize_value || 0), 0);
+  $("#tiles").innerHTML = `
+    <div class="tile"><div class="label">Strong matches to apply</div><div class="value">${top}</div><div class="sub">score ≥ 50, not applied</div></div>
+    <div class="tile"><div class="label">New in last 48h</div><div class="value">${newToday}</div><div class="sub">across all sources</div></div>
+    <div class="tile"><div class="label">Open competitions</div><div class="value">${COMPS.length}</div><div class="sub">in your domain</div></div>
+    <div class="tile"><div class="label">Prize pool</div><div class="value prize">${prizePool >= 1e6 ? "$" + (prizePool / 1e6).toFixed(1) + "M+" : prizePool ? "$" + Math.round(prizePool / 1000) + "k+" : "—"}</div><div class="sub">cash across open comps</div></div>
+    <div class="tile"><div class="label">Applied</div><div class="value">${done.length}</div><div class="sub">tracked in this browser</div></div>`;
+}
+
+/* ============================== quick links ============================== */
+function quickLinks(kw) {
+  const q = encodeURIComponent(kw);
+  const qd = kw.toLowerCase().replace(/\s+/g, "-");
+  return [
+    { name: "LinkedIn (last 24h)", hint: "keyword + India + past day", url: `https://www.linkedin.com/jobs/search/?keywords=${q}&location=India&f_TPR=r86400` },
+    { name: "LinkedIn Remote", hint: "keyword + worldwide remote", url: `https://www.linkedin.com/jobs/search/?keywords=${q}&f_WT=2&f_TPR=r604800` },
+    { name: "Naukri", hint: "keyword in Bangalore", url: `https://www.naukri.com/${qd}-jobs-in-bangalore` },
+    { name: "Wellfound", hint: "startup roles", url: `https://wellfound.com/jobs?q=${q}` },
+    { name: "Instahyre", hint: "curated India startups", url: `https://www.instahyre.com/search-jobs/?q=${q}` },
+    { name: "Cutshort", hint: "India startup jobs", url: `https://cutshort.io/jobs?q=${q}` },
+    { name: "YC Work at a Startup", hint: "YC companies", url: `https://www.workatastartup.com/jobs?query=${q}` },
+    { name: "Google Jobs", hint: "aggregated everything", url: `https://www.google.com/search?q=${q}+jobs+bangalore&ibp=htl;jobs` },
+    { name: "Hirist", hint: "India tech jobs", url: `https://www.hirist.tech/search/${qd}.html` },
+    { name: "Weekday", hint: "India engineers", url: `https://www.weekday.works/jobs?search=${q}` },
+    { name: "FoundIt", hint: "ex-Monster India", url: `https://www.foundit.in/srp/results?query=${q}` },
+    { name: "HN Who's Hiring (thread)", hint: "this month's thread", url: `https://hn.algolia.com/?query=who%20is%20hiring&type=story&dateRange=pastMonth` },
+  ];
+}
+function renderLinks() {
+  const kw = $("#kw").value.trim() || "AI engineer";
+  $("#qlgrid").innerHTML = quickLinks(kw).map(l =>
+    `<a class="ql" href="${l.url}" target="_blank" rel="noopener"><div class="name">${esc(l.name)}</div><div class="hint">${esc(l.hint)}</div></a>`).join("");
+}
+
+/* ============================== events ============================== */
+$$("nav.tabs button").forEach(b => b.addEventListener("click", () => {
+  $$("nav.tabs button").forEach(x => x.classList.toggle("active", x === b));
+  ["jobs", "comps", "links", "done"].forEach(t => $("#tab-" + t).hidden = t !== b.dataset.tab);
+  if (b.dataset.tab === "links") renderLinks();
+}));
+
+document.body.addEventListener("click", e => {
+  const btn = e.target.closest("[data-act]");
+  if (!btn) return;
+  const card = btn.closest(".card");
+  const url = card.dataset.url;
+  const act = btn.dataset.act;
+  status_[url] = status_[url] === act ? undefined : act;
+  if (!status_[url]) delete status_[url];
+  saveStatus();
+  render();
+});
+
+$("#kw").addEventListener("input", () => { render(); if (!$("#tab-links").hidden) renderLinks(); });
+$("#kw").addEventListener("keydown", e => { if (e.key === "Enter") liveSearch(); });
+$("#livebtn").addEventListener("click", liveSearch);
+["#f-loc", "#f-src", "#f-sort", "#f-hide"].forEach(s => $(s).addEventListener("change", render));
+
+/* ============================== boot ============================== */
+async function boot() {
+  const [cfg, jobs, comps] = await Promise.allSettled([
+    fetch("config.json").then(r => r.json()),
+    fetch("data/jobs.json").then(r => r.json()),
+    fetch("data/competitions.json").then(r => r.json()),
+  ]);
+  if (cfg.status === "fulfilled") CFG = cfg.value;
+  if (jobs.status === "fulfilled") { JOBS = jobs.value.jobs || []; FETCHED_AT = jobs.value.fetched_at; }
+  if (comps.status === "fulfilled") COMPS = comps.value.competitions || [];
+
+  // role chips from config
+  const chips = (CFG?.target_roles || ["AI Engineer", "Forward Deployed Engineer", "Evals", "Data Engineer"]);
+  $("#rolechips").innerHTML = chips.map(r => `<span class="chip">${esc(r)}</span>`).join("");
+  $$(".chip").forEach(c => c.addEventListener("click", () => {
+    $("#kw").value = c.textContent;
+    $$(".chip").forEach(x => x.classList.toggle("on", x === c));
+    render();
+    liveSearch();
+  }));
+
+  // source filter options
+  const srcs = [...new Set(JOBS.map(j => j.source))].sort();
+  $("#f-src").innerHTML = '<option value="">All sources</option>' + srcs.map(s => `<option>${esc(s)}</option>`).join("");
+
+  if (FETCHED_AT) {
+    const h = (Date.now() - Date.parse(FETCHED_AT)) / 36e5;
+    const el = $("#freshness");
+    el.textContent = "data refreshed " + (h < 1.5 ? "just now" : h < 30 ? Math.round(h) + "h ago" : Math.round(h / 24) + "d ago");
+    if (h > 48) el.classList.add("stale");
+  } else {
+    $("#freshness").textContent = "no baked data yet — use Search live";
+  }
+
+  render();
+  renderComps();
+}
+boot();
+</script>
+</body>
+</html>
