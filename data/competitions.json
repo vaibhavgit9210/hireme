@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-07-20T05:54:30.483898+00:00",
- "count": 35,
+ "fetched_at": "2026-07-21T05:36:10.828659+00:00",
+ "count": 36,
  "competitions": [
   {
    "title": "Build with Gemini XPRIZE",
@@ -9,7 +9,7 @@
    "prize": "$ 2,000,000",
    "deadline": "Aug 17, 2026",
    "domain": "Machine Learning/AI, Education, Productivity",
-   "participants": 20508,
+   "participants": 20713,
    "location": "Online",
    "prize_value": 2000000
   },
@@ -42,9 +42,20 @@
    "prize": "$ 100,000",
    "deadline": "Jul 21, 2026",
    "domain": "Machine Learning/AI, DevOps, Productivity",
-   "participants": 43708,
+   "participants": 45371,
    "location": "Online",
    "prize_value": 100000
+  },
+  {
+   "title": "Pinch Me! I Want 50K: A Nationwide Australian Payments & Fintech Hackathon",
+   "platform": "Devpost",
+   "url": "https://pinch-me-i-want-50k.devpost.com/",
+   "prize": "$ 50,000",
+   "deadline": "Jul 22, 2026",
+   "domain": "Fintech, Machine Learning/AI, Open Ended",
+   "participants": 229,
+   "location": "Tank Stream Labs, Online",
+   "prize_value": 50000
   },
   {
    "title": "Trace the Ace — National Tutoring Observatory",
@@ -56,17 +67,6 @@
    "location": "Online",
    "note": "seed: DrivenData has no API",
    "prize_value": 50000
-  },
-  {
-   "title": "Global AI Hackathon Series with Qwen Cloud ",
-   "platform": "Devpost",
-   "url": "https://qwencloud-hackathon.devpost.com/",
-   "prize": "$ 45,000",
-   "deadline": "Jul 20, 2026",
-   "domain": "Machine Learning/AI, Design, Productivity",
-   "participants": 8397,
-   "location": "Online",
-   "prize_value": 45000
   },
   {
    "title": "ARC Prize — ARC-AGI-3 Agents track",
@@ -86,7 +86,7 @@
    "prize": "$ 32,585",
    "deadline": "Sep 05, 2026",
    "domain": "IoT, Machine Learning/AI, Beginner Friendly",
-   "participants": 810,
+   "participants": 838,
    "location": "Online",
    "prize_value": 32585
   },
@@ -97,9 +97,20 @@
    "prize": "$ 20,500",
    "deadline": "Aug 10, 2026",
    "domain": "Machine Learning/AI, DevOps, Open Ended",
-   "participants": 1081,
+   "participants": 1159,
    "location": "Online",
    "prize_value": 20500
+  },
+  {
+   "title": "The Rice University Urban Sustainability Hackathon",
+   "platform": "Devpost",
+   "url": "https://rice-urban-sustainability.devpost.com/",
+   "prize": "$ 17,500",
+   "deadline": "Sep 18, 2026",
+   "domain": "Design, Social Good, Databases",
+   "participants": 208,
+   "location": "Online",
+   "prize_value": 17500
   },
   {
    "title": "Africa Deep Tech Challenge 2026",
@@ -108,7 +119,7 @@
    "prize": "$ 16,500",
    "deadline": "Aug 25, 2026",
    "domain": "Machine Learning/AI, Productivity",
-   "participants": 1041,
+   "participants": 1067,
    "location": "Online",
    "prize_value": 16500
   },
@@ -119,7 +130,7 @@
    "prize": "$ 10,300",
    "deadline": "Jul 31, 2026",
    "domain": "Beginner Friendly, Low/No Code, Machine Learning/AI",
-   "participants": 346,
+   "participants": 358,
    "location": "Online",
    "prize_value": 10300
   },
@@ -130,19 +141,8 @@
    "prize": "$ 10,000",
    "deadline": "Aug 03, 2026",
    "domain": "Machine Learning/AI, Music/Art, Voice skills",
-   "participants": 861,
+   "participants": 887,
    "location": "Online",
-   "prize_value": 10000
-  },
-  {
-   "title": "Open Atlas - AI for Social Good Hackathon 2026, presented by Manifest",
-   "platform": "Devpost",
-   "url": "https://oa-ai-for-social-good.devpost.com/",
-   "prize": "$ 10,000",
-   "deadline": "Aug 20, 2026",
-   "domain": "Education, Fintech, Health",
-   "participants": 354,
-   "location": "India Community Centre, Milpitas, CA",
    "prize_value": 10000
   },
   {
@@ -152,7 +152,7 @@
    "prize": "$ 10,000",
    "deadline": "Jul 31, 2026",
    "domain": "Databases, DevOps, Mobile",
-   "participants": 312,
+   "participants": 322,
    "location": "ICPAC",
    "prize_value": 10000
   },
@@ -163,7 +163,7 @@
    "prize": "$ 8,750",
    "deadline": "Aug 18, 2026",
    "domain": "Machine Learning/AI, Databases, DevOps",
-   "participants": 1783,
+   "participants": 1858,
    "location": "Online",
    "prize_value": 8750
   },
@@ -174,7 +174,7 @@
    "prize": "$ 8,000",
    "deadline": "Aug 14, 2026",
    "domain": "Machine Learning/AI",
-   "participants": 1565,
+   "participants": 1617,
    "location": "Online",
    "prize_value": 8000
   },
@@ -185,7 +185,7 @@
    "prize": "$ 6,000",
    "deadline": "Aug 17, 2026",
    "domain": "Machine Learning/AI, AR/VR, E-commerce/Retail",
-   "participants": 485,
+   "participants": 531,
    "location": "Online",
    "prize_value": 6000
   },
@@ -196,7 +196,7 @@
    "prize": "₹450,000",
    "deadline": "2026-07-25",
    "domain": "hackathon",
-   "participants": 60,
+   "participants": 78,
    "location": "India",
    "prize_value": 5294
   },
@@ -218,7 +218,7 @@
    "prize": "₹200,000",
    "deadline": "2026-08-01",
    "domain": "Coding Challenge, Hackathon, Case Study, Strategy",
-   "participants": 463,
+   "participants": 724,
    "location": "India",
    "prize_value": 2352
   },
@@ -229,7 +229,7 @@
    "prize": "₹200,000",
    "deadline": "2026-08-15",
    "domain": "All",
-   "participants": 450,
+   "participants": 545,
    "location": "India",
    "prize_value": 2352
   },
@@ -240,9 +240,20 @@
    "prize": "₹200,000",
    "deadline": "2026-08-16",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Arts, Commerce, Sciences & Others",
-   "participants": 776,
+   "participants": 971,
    "location": "India",
    "prize_value": 2352
+  },
+  {
+   "title": "GBT AI Ignite 2026",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/gbt-ai-ignite-2026-go-beyond-tickets-1721794",
+   "prize": "₹175,000",
+   "deadline": "2026-08-03",
+   "domain": "All",
+   "participants": 201,
+   "location": "India",
+   "prize_value": 2058
   },
   {
    "title": "Prometheus July AI Challenge",
@@ -251,7 +262,7 @@
    "prize": "$ 1,500",
    "deadline": "Jul 30, 2026",
    "domain": "Beginner Friendly, Design, Machine Learning/AI",
-   "participants": 377,
+   "participants": 431,
    "location": "Online",
    "prize_value": 1500
   },
@@ -262,7 +273,7 @@
    "prize": "$ 1,000",
    "deadline": "Jul 31, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 486,
+   "participants": 519,
    "location": "Online",
    "prize_value": 1000
   },
@@ -273,7 +284,7 @@
    "prize": "$ 1,000",
    "deadline": "Aug 20, 2026",
    "domain": "Databases, Fintech, Quantum",
-   "participants": 352,
+   "participants": 371,
    "location": "Online",
    "prize_value": 1000
   },
@@ -284,7 +295,7 @@
    "prize": "$ 550",
    "deadline": "Aug 09, 2026",
    "domain": "AR/VR, Blockchain, Communication",
-   "participants": 415,
+   "participants": 427,
    "location": "Online",
    "prize_value": 550
   },
@@ -295,7 +306,7 @@
    "prize": "$ 500",
    "deadline": "Aug 16, 2026",
    "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 416,
+   "participants": 450,
    "location": "Online",
    "prize_value": 500
   },
@@ -306,7 +317,7 @@
    "prize": "$ 500",
    "deadline": "Jul 29, 2026",
    "domain": "Education, Productivity, Web",
-   "participants": 229,
+   "participants": 238,
    "location": "Online",
    "prize_value": 500
   },
@@ -317,9 +328,20 @@
    "prize": "₹32,000",
    "deadline": "2026-08-15",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 16,
+   "participants": 86,
    "location": "India",
    "prize_value": 376
+  },
+  {
+   "title": "Ascendant Agents",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/ascendant-agents-oblivion26-dcode-nsut-1722256",
+   "prize": "₹22,000",
+   "deadline": "2026-08-16",
+   "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
+   "participants": 23,
+   "location": "India",
+   "prize_value": 258
   },
   {
    "title": "NeuralSprint",
@@ -328,31 +350,9 @@
    "prize": "$ 150",
    "deadline": "Aug 24, 2026",
    "domain": "Machine Learning/AI, Social Good, Web",
-   "participants": 243,
+   "participants": 255,
    "location": "Online",
    "prize_value": 150
-  },
-  {
-   "title": "SmartAIthon 2026",
-   "platform": "Devpost",
-   "url": "https://smartaithon.devpost.com/",
-   "prize": "₹ 10,000",
-   "deadline": "Jul 20, 2026",
-   "domain": "Beginner Friendly, IoT, Social Good",
-   "participants": 701,
-   "location": "Online",
-   "prize_value": 117
-  },
-  {
-   "title": "HackMatriX 2026 -  National Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/hackmatrix-2026-24-hour-national-hackathon-ieee-computer-society-mits-gwalior-1701757",
-   "prize": "₹7,000",
-   "deadline": "2026-07-25",
-   "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 800,
-   "location": "India",
-   "prize_value": 82
   },
   {
    "title": "3D Websites Hackathon",
@@ -361,7 +361,7 @@
    "prize": "$ 55",
    "deadline": "Jul 31, 2026",
    "domain": "Design, Web, Beginner Friendly",
-   "participants": 467,
+   "participants": 493,
    "location": "Online",
    "prize_value": 55
   },
@@ -372,9 +372,20 @@
    "prize": "₹3,000",
    "deadline": "2026-07-31",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 1213,
+   "participants": 1403,
    "location": "India",
    "prize_value": 35
+  },
+  {
+   "title": "Girls In STEM Global Hackathon",
+   "platform": "Devpost",
+   "url": "https://girlsinstemhackathon.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Aug 05, 2026",
+   "domain": "Beginner Friendly, Low/No Code, Social Good",
+   "participants": 219,
+   "location": "Online",
+   "prize_value": 0
   },
   {
    "title": "Archestra MCP Apps Hackathon",
