@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-07-21T05:36:10.828659+00:00",
- "count": 36,
+ "fetched_at": "2026-07-22T05:34:53.383681+00:00",
+ "count": 35,
  "competitions": [
   {
    "title": "Build with Gemini XPRIZE",
@@ -9,7 +9,7 @@
    "prize": "$ 2,000,000",
    "deadline": "Aug 17, 2026",
    "domain": "Machine Learning/AI, Education, Productivity",
-   "participants": 20713,
+   "participants": 21015,
    "location": "Online",
    "prize_value": 2000000
   },
@@ -36,24 +36,13 @@
    "prize_value": 150000
   },
   {
-   "title": "OpenAI Build Week",
-   "platform": "Devpost",
-   "url": "https://openai.devpost.com/",
-   "prize": "$ 100,000",
-   "deadline": "Jul 21, 2026",
-   "domain": "Machine Learning/AI, DevOps, Productivity",
-   "participants": 45371,
-   "location": "Online",
-   "prize_value": 100000
-  },
-  {
    "title": "Pinch Me! I Want 50K: A Nationwide Australian Payments & Fintech Hackathon",
    "platform": "Devpost",
    "url": "https://pinch-me-i-want-50k.devpost.com/",
    "prize": "$ 50,000",
    "deadline": "Jul 22, 2026",
    "domain": "Fintech, Machine Learning/AI, Open Ended",
-   "participants": 229,
+   "participants": 269,
    "location": "Tank Stream Labs, Online",
    "prize_value": 50000
   },
@@ -86,7 +75,7 @@
    "prize": "$ 32,585",
    "deadline": "Sep 05, 2026",
    "domain": "IoT, Machine Learning/AI, Beginner Friendly",
-   "participants": 838,
+   "participants": 865,
    "location": "Online",
    "prize_value": 32585
   },
@@ -97,7 +86,7 @@
    "prize": "$ 20,500",
    "deadline": "Aug 10, 2026",
    "domain": "Machine Learning/AI, DevOps, Open Ended",
-   "participants": 1159,
+   "participants": 1271,
    "location": "Online",
    "prize_value": 20500
   },
@@ -108,7 +97,7 @@
    "prize": "$ 17,500",
    "deadline": "Sep 18, 2026",
    "domain": "Design, Social Good, Databases",
-   "participants": 208,
+   "participants": 213,
    "location": "Online",
    "prize_value": 17500
   },
@@ -119,7 +108,7 @@
    "prize": "$ 16,500",
    "deadline": "Aug 25, 2026",
    "domain": "Machine Learning/AI, Productivity",
-   "participants": 1067,
+   "participants": 1097,
    "location": "Online",
    "prize_value": 16500
   },
@@ -130,7 +119,7 @@
    "prize": "$ 10,300",
    "deadline": "Jul 31, 2026",
    "domain": "Beginner Friendly, Low/No Code, Machine Learning/AI",
-   "participants": 358,
+   "participants": 368,
    "location": "Online",
    "prize_value": 10300
   },
@@ -141,7 +130,7 @@
    "prize": "$ 10,000",
    "deadline": "Aug 03, 2026",
    "domain": "Machine Learning/AI, Music/Art, Voice skills",
-   "participants": 887,
+   "participants": 916,
    "location": "Online",
    "prize_value": 10000
   },
@@ -152,7 +141,7 @@
    "prize": "$ 10,000",
    "deadline": "Jul 31, 2026",
    "domain": "Databases, DevOps, Mobile",
-   "participants": 322,
+   "participants": 344,
    "location": "ICPAC",
    "prize_value": 10000
   },
@@ -163,7 +152,7 @@
    "prize": "$ 8,750",
    "deadline": "Aug 18, 2026",
    "domain": "Machine Learning/AI, Databases, DevOps",
-   "participants": 1858,
+   "participants": 1954,
    "location": "Online",
    "prize_value": 8750
   },
@@ -174,7 +163,7 @@
    "prize": "$ 8,000",
    "deadline": "Aug 14, 2026",
    "domain": "Machine Learning/AI",
-   "participants": 1617,
+   "participants": 1665,
    "location": "Online",
    "prize_value": 8000
   },
@@ -185,7 +174,7 @@
    "prize": "$ 6,000",
    "deadline": "Aug 17, 2026",
    "domain": "Machine Learning/AI, AR/VR, E-commerce/Retail",
-   "participants": 531,
+   "participants": 572,
    "location": "Online",
    "prize_value": 6000
   },
@@ -196,7 +185,7 @@
    "prize": "₹450,000",
    "deadline": "2026-07-25",
    "domain": "hackathon",
-   "participants": 78,
+   "participants": 93,
    "location": "India",
    "prize_value": 5294
   },
@@ -212,15 +201,15 @@
    "prize_value": 5000
   },
   {
-   "title": "TechNova: Igniting Brilliance (Season 3)",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/technova-igniting-brilliance-season-3-enterprise-system-solutions-private-limited-1709421",
-   "prize": "₹200,000",
-   "deadline": "2026-08-01",
-   "domain": "Coding Challenge, Hackathon, Case Study, Strategy",
-   "participants": 724,
-   "location": "India",
-   "prize_value": 2352
+   "title": "Galuxium Nexus V2",
+   "platform": "Devpost",
+   "url": "https://galuxium-nexus-v2-29411.devpost.com/",
+   "prize": "$ 2,600",
+   "deadline": "Aug 31, 2026",
+   "domain": "Enterprise, Machine Learning/AI, Productivity",
+   "participants": 200,
+   "location": "Online",
+   "prize_value": 2600
   },
   {
    "title": "INNOVIK 6.0 : International Hackathon 2026",
@@ -229,18 +218,7 @@
    "prize": "₹200,000",
    "deadline": "2026-08-15",
    "domain": "All",
-   "participants": 545,
-   "location": "India",
-   "prize_value": 2352
-  },
-  {
-   "title": "Orchestrix: Newgen x AI Club IITM",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/orchestrix-newgen-x-ai-club-iitm-iit-madras-1717439",
-   "prize": "₹200,000",
-   "deadline": "2026-08-16",
-   "domain": "Undergraduate, Postgraduate, Engineering Students, Arts, Commerce, Sciences & Others",
-   "participants": 971,
+   "participants": 609,
    "location": "India",
    "prize_value": 2352
   },
@@ -251,7 +229,7 @@
    "prize": "₹175,000",
    "deadline": "2026-08-03",
    "domain": "All",
-   "participants": 201,
+   "participants": 361,
    "location": "India",
    "prize_value": 2058
   },
@@ -262,7 +240,7 @@
    "prize": "$ 1,500",
    "deadline": "Jul 30, 2026",
    "domain": "Beginner Friendly, Design, Machine Learning/AI",
-   "participants": 431,
+   "participants": 478,
    "location": "Online",
    "prize_value": 1500
   },
@@ -271,9 +249,9 @@
    "platform": "Devpost",
    "url": "https://ml-empowerment-2.devpost.com/",
    "prize": "$ 1,000",
-   "deadline": "Jul 31, 2026",
+   "deadline": "Aug 15, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 519,
+   "participants": 539,
    "location": "Online",
    "prize_value": 1000
   },
@@ -284,7 +262,7 @@
    "prize": "$ 1,000",
    "deadline": "Aug 20, 2026",
    "domain": "Databases, Fintech, Quantum",
-   "participants": 371,
+   "participants": 395,
    "location": "Online",
    "prize_value": 1000
   },
@@ -295,7 +273,7 @@
    "prize": "$ 550",
    "deadline": "Aug 09, 2026",
    "domain": "AR/VR, Blockchain, Communication",
-   "participants": 427,
+   "participants": 438,
    "location": "Online",
    "prize_value": 550
   },
@@ -306,7 +284,7 @@
    "prize": "$ 500",
    "deadline": "Aug 16, 2026",
    "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 450,
+   "participants": 466,
    "location": "Online",
    "prize_value": 500
   },
@@ -317,7 +295,7 @@
    "prize": "$ 500",
    "deadline": "Jul 29, 2026",
    "domain": "Education, Productivity, Web",
-   "participants": 238,
+   "participants": 249,
    "location": "Online",
    "prize_value": 500
   },
@@ -328,7 +306,7 @@
    "prize": "₹32,000",
    "deadline": "2026-08-15",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 86,
+   "participants": 155,
    "location": "India",
    "prize_value": 376
   },
@@ -339,7 +317,7 @@
    "prize": "₹22,000",
    "deadline": "2026-08-16",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 23,
+   "participants": 179,
    "location": "India",
    "prize_value": 258
   },
@@ -350,9 +328,20 @@
    "prize": "$ 150",
    "deadline": "Aug 24, 2026",
    "domain": "Machine Learning/AI, Social Good, Web",
-   "participants": 255,
+   "participants": 264,
    "location": "Online",
    "prize_value": 150
+  },
+  {
+   "title": "PixxelHack 2.0 – A Web Development Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/pixxelhack-20-a-web-development-hackathon-thakur-college-of-engineering-and-technology-tcet-mumbai-1719044",
+   "prize": "₹6,000",
+   "deadline": "2026-08-03",
+   "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
+   "participants": 33,
+   "location": "India",
+   "prize_value": 70
   },
   {
    "title": "3D Websites Hackathon",
@@ -361,7 +350,7 @@
    "prize": "$ 55",
    "deadline": "Jul 31, 2026",
    "domain": "Design, Web, Beginner Friendly",
-   "participants": 493,
+   "participants": 551,
    "location": "Online",
    "prize_value": 55
   },
@@ -372,7 +361,7 @@
    "prize": "₹3,000",
    "deadline": "2026-07-31",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 1403,
+   "participants": 1514,
    "location": "India",
    "prize_value": 35
   },
@@ -383,7 +372,7 @@
    "prize": "$ 0",
    "deadline": "Aug 05, 2026",
    "domain": "Beginner Friendly, Low/No Code, Social Good",
-   "participants": 219,
+   "participants": 234,
    "location": "Online",
    "prize_value": 0
   },
