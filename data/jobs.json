@@ -1,7 +1,52 @@
 {
- "fetched_at": "2026-07-26T05:46:26.160440+00:00",
+ "fetched_at": "2026-07-27T06:05:34.223841+00:00",
  "count": 400,
  "jobs": [
+  {
+   "title": "Azure Data Engineer II - Agentic AI Platform",
+   "company": "paiqo GmbH",
+   "location": "Remote job · Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/paiqo-gmbh/remote-azure-data-engineer-ii-agentic-ai-platform-paderborn-270575",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-26T14:51:22+00:00",
+   "salary": null,
+   "desc": "We digitize decisions with data—would you like to get involved? We shape our customers' data-driven future with scalable, secure, and automated Azure platforms. As a Professional Data Platform Engineer, you will be responsible for complex data pipelines: from zero-ETL replication of operational data (mirroring) to Delta Lake-based lakehouses. Our vision: self-service data access for all departments, supported by DataOps and governance. Tasks & Responsibilities: Planning, development, and maintenance of robust batch and streaming pipelines with Azure Data Factory, MS Fabric and Databricks Integ",
+   "tags": [
+    "Paderborn",
+    "Remote"
+   ],
+   "score": 113
+  },
+  {
+   "title": "Senior Azure Data Engineer - Agentic AI Platform",
+   "company": "paiqo GmbH",
+   "location": "Remote job · Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/paiqo-gmbh/remote-senior-azure-data-engineer-agentic-ai-platform-paderborn-486076",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-26T14:51:22+00:00",
+   "salary": null,
+   "desc": "We digitize decisions with data—would you like to get involved? In the role of Senior Azure Data Engineer, you will design the architecture of modern lakehouse platforms and enable self-service data access. You will combine Azure services (OneLake, Fabric, Databricks, Mirroring) to create scalable end-to-end solutions and implement governance, security, and cost optimization strategies. Your work will lay the foundation for successful AI projects. Tasks & Responsibilities Architecture of lakehouse platforms with Fabric/OneLake, Synapse, and Delta Lake; introduction of zero-ETL data integration",
+   "tags": [
+    "Paderborn",
+    "Remote"
+   ],
+   "score": 113
+  },
+  {
+   "title": "Lead Azure Data Engineer - Agentic AI Platform",
+   "company": "paiqo GmbH",
+   "location": "Remote job · Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/paiqo-gmbh/remote-lead-azure-data-engineer-agentic-ai-platform-paderborn-239773",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-26T14:51:22+00:00",
+   "salary": null,
+   "desc": "We digitize decisions with data—would you like to get involved? As Lead Data Platform Engineer, you define the technical vision and strategy for data-driven platforms on Azure. You coordinate multiple projects, develop reference architectures, and ensure governance, compliance, and sustainability. With your expertise, you help ensure that our solutions provide the best foundation for AI and analytics initiatives. Tasks & Responsibilities: Development and implementation of the lakehouse strategy: Defining standards, roadmaps, and best practices for Fabric, Delta Lake, mirroring, and Unity Catal",
+   "tags": [
+    "Paderborn",
+    "Remote"
+   ],
+   "score": 109
+  },
   {
    "title": "Staff Forward Deployed AI Engineer",
    "company": "Turing",
@@ -27,31 +72,30 @@
    "score": 104
   },
   {
-   "title": "Applied AI Engineer, Sarvam Agents",
-   "company": "Sarvam AI",
-   "location": "Bengaluru",
-   "url": "https://jobs.ashbyhq.com/sarvam/30259734-50c3-4f1c-81cd-8bff07e585e7",
-   "source": "Ashby · Sarvam AI",
-   "posted_at": "2026-06-10T17:13:02.712+00:00",
+   "title": "Senior Forward Deployed Engineer (AI Agent) - UK",
+   "company": "cresta",
+   "location": "",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/cresta/senior-forward-deployed-engineer-ai-agent-uk-233019",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:17:09+00:00",
    "salary": null,
-   "desc": "",
+   "desc": "<div class=\"content-intro\"><p>Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to power world-class customer experiences every day.&nbsp;</p> <p>Born from the Stanford AI Lab, Cresta has raised more than $270 million from t",
    "tags": [
-    "Engineering",
     "Engineering"
    ],
-   "score": 92
+   "score": 89
   },
   {
-   "title": "Senior Data and AI Engineer - Finance",
+   "title": "Senior Forward Deployed Engineer",
    "company": "Databricks",
    "location": "Bengaluru, India",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604579002",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8501125002",
    "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:04-04:00",
+   "posted_at": "2026-07-24T19:28:59-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
-   "score": 88
+   "score": 85
   },
   {
    "title": "Software Engineer, Evals",
@@ -64,6 +108,18 @@
    "desc": "",
    "tags": [],
    "score": 85
+  },
+  {
+   "title": "Senior Data and AI Engineer - Finance",
+   "company": "Databricks",
+   "location": "Bengaluru, India",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604579002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:29:04-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 83
   },
   {
    "title": "AI Engineering Lead",
@@ -90,6 +146,36 @@
    "score": 81
   },
   {
+   "title": "AI Engineer (m/f/d)",
+   "company": "Natuvion GmbH",
+   "location": "Remote job · Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-ai-engineer-berlin-172448",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-26T20:30:09+00:00",
+   "salary": null,
+   "desc": "We’re looking for an engineer who builds AI systems that create real impact in production (not just demos) and has worked with retrieval or agent-based approaches on enterprise data. At Natuvion, we move business-critical data and processes between platforms. This data enables powerful AI — but also comes with complexity, sensitivity, and high stakes. We use AI to automate internal processes and to build intelligent features into our products, and you’ll work across both areas. We operate with strictly protected data that is never exposed to external LLMs, supported by a strong authorization m",
+   "tags": [
+    "Product Development",
+    "Remote"
+   ],
+   "score": 77
+  },
+  {
+   "title": "Applied AI Engineer, Sarvam Agents",
+   "company": "Sarvam AI",
+   "location": "Bengaluru",
+   "url": "https://jobs.ashbyhq.com/sarvam/30259734-50c3-4f1c-81cd-8bff07e585e7",
+   "source": "Ashby · Sarvam AI",
+   "posted_at": "2026-06-10T17:13:02.712+00:00",
+   "salary": null,
+   "desc": "",
+   "tags": [
+    "Engineering",
+    "Engineering"
+   ],
+   "score": 77
+  },
+  {
    "title": "Staff Data and AI Engineer, Finance",
    "company": "Databricks",
    "location": "Bengaluru, India",
@@ -99,19 +185,7 @@
    "salary": null,
    "desc": "",
    "tags": [],
-   "score": 78
-  },
-  {
-   "title": "Senior ML & AI Technical Solutions Engineer",
-   "company": "Databricks",
-   "location": "Bengaluru, India",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7845325002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:48-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 74
+   "score": 73
   },
   {
    "title": "Forward Deployed Engineer - Software Engineer - India",
@@ -127,18 +201,6 @@
     "Enterprise - Deployment"
    ],
    "score": 73
-  },
-  {
-   "title": "Staff Forward Deployed Engineer",
-   "company": "Databricks",
-   "location": "Remote - India",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8530855002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:00-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 72
   },
   {
    "title": "Forward Deployed Engineer, Agentic Platform (UK/Europe)",
@@ -216,6 +278,32 @@
    "score": 71
   },
   {
+   "title": "Forward Deployed Product Manager - AI Agent (EMEA)",
+   "company": "cresta",
+   "location": "",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/cresta/forward-deployed-product-manager-ai-agent-emea-141925",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:17:09+00:00",
+   "salary": null,
+   "desc": "<div class=\"content-intro\"><p>Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to power world-class customer experiences every day.&nbsp;</p> <p>Born from the Stanford AI Lab, Cresta has raised more than $270 million from t",
+   "tags": [
+    "Product"
+   ],
+   "score": 69
+  },
+  {
+   "title": "Senior ML & AI Technical Solutions Engineer",
+   "company": "Databricks",
+   "location": "Bengaluru, India",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7845325002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:48-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 69
+  },
+  {
    "title": "Software Engineer, Agents",
    "company": "Glean",
    "location": "Bangalore, India",
@@ -228,67 +316,30 @@
    "score": 69
   },
   {
-   "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-   "company": "Databricks",
-   "location": "Singapore",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569390002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:02-04:00",
+   "title": "Senior Software Engineer (Storage Virtualization Team)",
+   "company": "Nebius",
+   "location": "Czech Republic; Remote - Europe; United Kingdom",
+   "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-software-engineer-storage-virtualization-team-281845",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:15:50+00:00",
    "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 68
-  },
-  {
-   "title": "Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
-   "company": "Databricks",
-   "location": "Maryland; Virginia; Washington, D.C.",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:01-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 68
-  },
-  {
-   "title": "Forward Deployed Engineer (Training)",
-   "company": "Baseten",
-   "location": "San Francisco · Remote",
-   "url": "https://jobs.ashbyhq.com/baseten/454b6a44-1cad-4afe-aceb-2630c0918dac",
-   "source": "Ashby · Baseten",
-   "posted_at": "2026-07-22T23:11:36.083+00:00",
-   "salary": "$165K – $330K • Offers Equity",
-   "desc": "",
+   "desc": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p> <p>Listed on Nasdaq (NBIS) and headq",
    "tags": [
-    "EPD",
-    "Training"
+    "Backend"
    ],
    "score": 68
   },
   {
-   "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+   "title": "Staff Forward Deployed Engineer",
    "company": "Databricks",
-   "location": "Remote - California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647677002",
+   "location": "Remote - India",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8530855002",
    "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:06-04:00",
+   "posted_at": "2026-07-24T19:29:00-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
    "score": 67
-  },
-  {
-   "title": "Senior Machine Learning Engineer - GenAI Platform",
-   "company": "Databricks",
-   "location": "San Francisco, California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6954585002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:46-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 66
   },
   {
    "title": "Engineering Manager - Forward Deployed Engineering (LLM)",
@@ -306,94 +357,79 @@
    "score": 65
   },
   {
-   "title": "AI Agent Engineer",
-   "company": "Observe.AI",
-   "location": "Bengaluru",
-   "url": "https://www.observe.ai/position?gh_jid=5189295008",
-   "source": "Greenhouse · Observe.AI",
-   "posted_at": "2026-07-22T03:12:45-04:00",
+   "title": "Senior Forward Deployed Engineer (AI Agent) - Germany",
+   "company": "cresta",
+   "location": "Berlin, Germany (Hybird)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/cresta/senior-forward-deployed-engineer-ai-agent-germany-berlin-germany-hybird-163679",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:17:09+00:00",
    "salary": null,
-   "desc": "",
-   "tags": [],
+   "desc": "<div class=\"content-intro\"><p>Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to power world-class customer experiences every day.&nbsp;</p> <p>Born from the Stanford AI Lab, Cresta has raised more than $270 million from t",
+   "tags": [
+    "Engineering"
+   ],
    "score": 64
   },
   {
-   "title": "Senior Cloud Native Storage Engineer Ceph (m/w/d)",
-   "company": "noris network AG",
-   "location": "Nuremberg · Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/noris-network-ag/senior-cloud-native-storage-engineer-ceph-nuremberg-120079",
-   "source": "Arbeitnow",
-   "posted_at": "2026-07-24T18:30:28+00:00",
-   "salary": null,
-   "desc": "Die noris network AG steht für innovative, sichere und nachhaltige IT-Lösungen. Mit über 600 engagierten Mitarbeitenden entwickeln wir leistungsstarke Services in den Bereichen Cloud, Datacenter, Network & Security sowie Managed Applications – betrieben auf einer hochmodernen, mehrfach zertifizierten IT-Infrastruktur mit eigenen Hochsicherheitsrechenzentren. Seit 1993 sind wir kontinuierlich gewachsen und zählen heute zu den führenden IT-Spezialisten in Deutschland. Unser größtes Kapital? Ein starkes, diverses Team mit einem gemeinsamen Ziel: die digitale Zukunft unserer Kunden aktiv mitzugest",
+   "title": "Forward Deployed Engineer (Training)",
+   "company": "Baseten",
+   "location": "San Francisco · Remote",
+   "url": "https://jobs.ashbyhq.com/baseten/454b6a44-1cad-4afe-aceb-2630c0918dac",
+   "source": "Ashby · Baseten",
+   "posted_at": "2026-07-22T23:11:36.083+00:00",
+   "salary": "$165K – $330K • Offers Equity",
+   "desc": "",
    "tags": [
-    "Remote",
-    "Applications Administration"
+    "EPD",
+    "Training"
+   ],
+   "score": 64
+  },
+  {
+   "title": "Senior Tax Expert - Ertragssteuern (all genders)",
+   "company": "Contabo",
+   "location": "Remote (Germany)",
+   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-tax-expert-ertragssteuern-all-genders-266634",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-25T11:09:55+00:00",
+   "salary": null,
+   "desc": "Dein Gestaltungsfeld Wir suchen zum nächstmöglichen Zeitpunkt in Vollzeit und unbefristet eine:n Senior Tax Expert (m/w/d) im Kernbereich der Ertragsteuern (national und international). Wir leben Remote-First, aber Du kannst selbst wählen, ob Du durch Deine Nähe zu einem unserer Standorte (München, Köln, Hamburg, Berlin) hybrid oder ganz vor Ort arbeiten möchtest. Als unser:e neue:r Senior Tax Expert:in (Referent:in Steuern) im Kernbereich Ertragsteuern hast Du die verantwortungsvolle Aufgabe, Dich mit direkten Steuern auseinanderzusetzen und dabei in einem spannenden, dynamischen und internat",
+   "tags": [
+    "Tax",
+    "Steuern",
+    "Ertragssteuer",
+    "direkte Steuern",
+    "Contabo",
+    "IT",
+    "Cloud",
+    "Hosting",
+    "Deutschland",
+    "Homeoffice"
    ],
    "score": 63
   },
   {
-   "title": "Telefonisten für Umfragen im Homeoffice gesucht (m/w/d)",
-   "company": "IFAK Institut GmbH & Co. KG",
-   "location": "Taunusstein · Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/ifak-institut-gmbh-co-kg/telefonisten-fur-umfragen-im-homeoffice-gesucht-taunusstein-75070",
-   "source": "Arbeitnow",
-   "posted_at": "2026-07-24T13:30:50+00:00",
+   "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+   "company": "Databricks",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:29:01-04:00",
    "salary": null,
-   "desc": "Bist du kommunikativ und neugierig darauf, was Menschen denken? Dann haben wir die richtige Gelegenheit für dich! Wir, ein führenden Markt- und Sozialforschungsinstitut in Taunusstein mit dem Telefonstudio TELE-MARTRIX, suchen engagierte Telefonisten bzw. Interviewer (m/w/d) für Telefonbefragungen. Du trägst dazu bei, Einblicke in Meinungen und Einstellungen der Bevölkerung zu gewinnen. Werde Teil unseres Teams, das großen Wert auf Zusammenarbeit legt. Dich erwartet ein flexibler Minijob in der Marktforschung. Wenn du Freude daran hast, mit Menschen ins Gespräch zu kommen, dann bewirb dich jet",
-   "tags": [
-    "Remote",
-    "Market Research",
-    "Analysis"
-   ],
+   "desc": "",
+   "tags": [],
    "score": 63
   },
   {
-   "title": "Interviewer für Telefonumfragen gesucht (m/w/d)",
-   "company": "IFAK Institut GmbH & Co. KG",
-   "location": "Taunusstein · Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/ifak-institut-gmbh-co-kg/interviewer-fur-telefonumfragen-gesucht-taunusstein-309403",
-   "source": "Arbeitnow",
-   "posted_at": "2026-07-24T13:30:50+00:00",
+   "title": "Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+   "company": "Databricks",
+   "location": "Maryland; Virginia; Washington, D.C.",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:29:01-04:00",
    "salary": null,
-   "desc": "Bist du kommunikativ und neugierig darauf, was Menschen denken? Dann haben wir die richtige Gelegenheit für dich! Wir, ein führenden Markt- und Sozialforschungsinstitut in Taunusstein mit dem Telefonstudio TELE-MARTRIX, suchen engagierte Telefonisten bzw. Interviewer (m/w/d) für Telefonbefragungen. Du trägst dazu bei, Einblicke in Meinungen und Einstellungen der Bevölkerung zu gewinnen. Werde Teil unseres Teams, das großen Wert auf Zusammenarbeit legt. Dich erwartet ein flexibler Minijob in der Marktforschung. Wenn du Freude daran hast, mit Menschen ins Gespräch zu kommen, dann bewirb dich jet",
-   "tags": [
-    "Remote",
-    "Market Research",
-    "Analysis"
-   ],
-   "score": 63
-  },
-  {
-   "title": "Telefonisten für Umfragen gesucht - Minijob im Homeoffice  (m/w/d)",
-   "company": "TeleMatrix",
-   "location": "Mainz · Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/telematrix/telefonisten-fur-umfragen-gesucht-minijob-im-homeoffice-mainz-227177",
-   "source": "Arbeitnow",
-   "posted_at": "2026-07-24T13:30:49+00:00",
-   "salary": null,
-   "desc": "Du willst Dir 603 Euro pro Monat als Telefonist:in bzw. Interviewer:in der Telefonmarktforschung dazu verdienen? Dann haben wir ein Minijob-Angebot für Dich! Wir bieten Dir einen Minijob als Interviewer:in / Telefonist:in in der Telefonmarktforschung an, den Du auch zu 100% deutschlandweit aus dem Homeoffice machen kannst. Keine Anfahrt an die Arbeitsstätte, keine Zeitverschwendung - Dein neuer Job findet im Homeoffice statt. Aufgaben Wenn Du gerne telefonierst, Menschen am Telefon anhand eines vorgegebenen Fragebogens befragen willst und über gute Deutschkenntnisse verfügst, kannst Du bei uns",
-   "tags": [
-    "Remote",
-    "Market Research",
-    "Analysis"
-   ],
-   "score": 63
-  },
-  {
-   "title": "Interviewer für telefonische Umfragen - Minijob im Homeoffice  (m/w/d)",
-   "company": "TeleMatrix",
-   "location": "Mainz · Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/telematrix/interviewer-fur-telefonische-umfragen-minijob-im-homeoffice-mainz-199035",
-   "source": "Arbeitnow",
-   "posted_at": "2026-07-24T13:30:49+00:00",
-   "salary": null,
-   "desc": "Du willst Dir 603 Euro pro Monat als Interviewer:in der Telefonmarktforschung dazu verdienen? Dann haben wir ein Minijob-Angebot für Dich! Wir bieten Dir einen Minijob als Interviewer:in in der Telefonmarktforschung an, den Du auch zu 100% deutschlandweit aus dem Homeoffice machen kannst. Keine Anfahrt an die Arbeitsstätte, keine Zeitverschwendung - Dein neuer Job findet im Homeoffice statt. Aufgaben Wenn Du gerne telefonierst, Menschen am Telefon anhand eines vorgegebenen Fragebogens befragen willst und über gute Deutschkenntnisse verfügst, kannst Du bei uns als Telefon-Interviewer:in in in d",
-   "tags": [
-    "Remote",
-    "Market Research",
-    "Analysis"
-   ],
+   "desc": "",
+   "tags": [],
    "score": 63
   },
   {
@@ -409,45 +445,15 @@
    "score": 63
   },
   {
-   "title": "Offensive Security Agent Engineer",
-   "company": "OpenAI",
-   "location": "Remote - US · Remote",
-   "url": "https://jobs.ashbyhq.com/openai/dd7443fe-a7b8-4794-8dd5-cb7d14c00c64",
-   "source": "Ashby · OpenAI",
-   "posted_at": "2026-07-22T23:35:06.494+00:00",
-   "salary": "$347K – $490K • Offers Equity",
-   "desc": "",
-   "tags": [
-    "Security",
-    "Security"
-   ],
-   "score": 62
-  },
-  {
-   "title": "Senior Solutions Architect (DS/ML/GenAI/LLM)",
+   "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
    "company": "Databricks",
-   "location": "London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8340837002",
+   "location": "Remote - California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647677002",
    "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:53-04:00",
+   "posted_at": "2026-07-24T19:29:06-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
-   "score": 62
-  },
-  {
-   "title": "RVP, Forward Deployed Engineering - EMEA",
-   "company": "Cursor (Anysphere)",
-   "location": "London · Remote",
-   "url": "https://jobs.ashbyhq.com/cursor/b3320730-9b59-42b6-8b90-0f2c3ef81c15",
-   "source": "Ashby · Cursor (Anysphere)",
-   "posted_at": "2026-07-22T10:49:29.011+00:00",
-   "salary": null,
-   "desc": "",
-   "tags": [
-    "Solutions",
-    "Forward Deployment"
-   ],
    "score": 62
   },
   {
@@ -466,12 +472,12 @@
    "score": 62
   },
   {
-   "title": "Research Engineer, Agents",
-   "company": "Anthropic",
-   "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/4017544008",
-   "source": "Greenhouse · Anthropic",
-   "posted_at": "2026-07-24T16:44:12-04:00",
+   "title": "Senior Machine Learning Engineer - GenAI Platform",
+   "company": "Databricks",
+   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6954585002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:46-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
@@ -490,6 +496,18 @@
     "Engineering",
     "Engineering"
    ],
+   "score": 60
+  },
+  {
+   "title": "AI Agent Engineer",
+   "company": "Observe.AI",
+   "location": "Bengaluru",
+   "url": "https://www.observe.ai/position?gh_jid=5189295008",
+   "source": "Greenhouse · Observe.AI",
+   "posted_at": "2026-07-22T03:12:45-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
    "score": 60
   },
   {
@@ -550,6 +568,21 @@
    "score": 58
   },
   {
+   "title": "Offensive Security Agent Engineer",
+   "company": "OpenAI",
+   "location": "Remote - US · Remote",
+   "url": "https://jobs.ashbyhq.com/openai/dd7443fe-a7b8-4794-8dd5-cb7d14c00c64",
+   "source": "Ashby · OpenAI",
+   "posted_at": "2026-07-22T23:35:06.494+00:00",
+   "salary": "$347K – $490K • Offers Equity",
+   "desc": "",
+   "tags": [
+    "Security",
+    "Security"
+   ],
+   "score": 58
+  },
+  {
    "title": "Forward Deployed Engineer - Zurich",
    "company": "OpenAI",
    "location": "Zurich, Switzerland · Remote",
@@ -562,18 +595,6 @@
     "Forward Deployed Engineering",
     "Forward Deployed Engineering"
    ],
-   "score": 58
-  },
-  {
-   "title": "Senior Staff Applied AI Engineer - Context Retrieval",
-   "company": "Databricks",
-   "location": "Mountain View, California; San Francisco, California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:00-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
    "score": 58
   },
   {
@@ -592,33 +613,42 @@
    "score": 58
   },
   {
-   "title": "Head of Forward Deployed Engineering",
-   "company": "Replit",
-   "location": "Foster City, CA · Remote",
-   "url": "https://jobs.ashbyhq.com/replit/67ff0a76-7fb9-44f9-8cd2-d7a435ad29bd",
-   "source": "Ashby · Replit",
-   "posted_at": "2026-06-11T04:07:50.398+00:00",
-   "salary": "$300K – $400K • Offers Equity",
+   "title": "RVP, Forward Deployed Engineering - EMEA",
+   "company": "Cursor (Anysphere)",
+   "location": "London · Remote",
+   "url": "https://jobs.ashbyhq.com/cursor/b3320730-9b59-42b6-8b90-0f2c3ef81c15",
+   "source": "Ashby · Cursor (Anysphere)",
+   "posted_at": "2026-07-22T10:49:29.011+00:00",
+   "salary": null,
    "desc": "",
    "tags": [
-    "Engineering",
-    "Engineering"
+    "Solutions",
+    "Forward Deployment"
    ],
    "score": 58
   },
   {
-   "title": "Machine Learning Engineer (m/w/d)",
-   "company": "Rockstardevelopers GmbH",
-   "location": "Stuttgart · Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/machine-learning-engineer-stuttgart-382224",
-   "source": "Arbeitnow",
-   "posted_at": "2026-07-23T16:30:28+00:00",
+   "title": "Senior Solutions Architect (DS/ML/GenAI/LLM)",
+   "company": "Databricks",
+   "location": "London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8340837002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:53-04:00",
    "salary": null,
-   "desc": "Du baust produktive KI-Systeme (LLM, RAG, Agenten) für große Kunden im öffentlichen Sektor. Kein Prototyp für die Schublade, sondern Software, die im Regelbetrieb läuft. Wer wir sind Rockstardevelopers, gegründet 2015, Büros in Stuttgart und München. Aus hunderten Projekten für Enterprise- und Mittelstandskunden wissen wir, wie man Software baut, die im Ernstfall trägt. Seit einer Weile verschiebt sich unser Schwerpunkt Richtung KI: LLM-Anwendungen, RAG, Agenten-Systeme, die beim Kunden wirklich produktiv gehen. Genau dafür suchen wir dich. Worum es geht Unsere Kunden sind IT-Dienstleister im ",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
+   "desc": "",
+   "tags": [],
+   "score": 57
+  },
+  {
+   "title": "Research Engineer, Agents",
+   "company": "Anthropic",
+   "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/4017544008",
+   "source": "Greenhouse · Anthropic",
+   "posted_at": "2026-07-24T16:44:12-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
    "score": 56
   },
   {
@@ -652,45 +682,6 @@
    "score": 55
   },
   {
-   "title": "Staff AI Engineer, RevOps | Canada | Remote",
-   "company": "Grafana Labs",
-   "location": "Canada (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5839190004",
-   "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-24T11:09:15-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 55
-  },
-  {
-   "title": "Staff AI Engineer, RevOps | US | Remote",
-   "company": "Grafana Labs",
-   "location": "United States (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5839189004",
-   "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-24T11:09:33-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 55
-  },
-  {
-   "title": "Data Engineer, CPU & Storage",
-   "company": "OpenAI",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/openai/0c0fe7aa-24fb-4bad-aa30-3f68f1418e37",
-   "source": "Ashby · OpenAI",
-   "posted_at": "2026-07-24T20:44:16.847+00:00",
-   "salary": "$293K – $385K • Offers Equity",
-   "desc": "",
-   "tags": [
-    "Scaling",
-    "Analytics"
-   ],
-   "score": 54
-  },
-  {
    "title": "Premium Support Specialist, Weekend Coverage",
    "company": "Harvey",
    "location": "Dublin · Remote",
@@ -721,18 +712,15 @@
    "score": 54
   },
   {
-   "title": "Manager, Technical Deployment Leads (TDL), Forward Deployed Engineering (FDE)",
-   "company": "OpenAI",
-   "location": "San Francisco · Remote",
-   "url": "https://jobs.ashbyhq.com/openai/eed8496c-8e12-4d14-b8b6-6dadff0463a6",
-   "source": "Ashby · OpenAI",
-   "posted_at": "2026-07-24T16:38:07.300+00:00",
-   "salary": "$252K – $335K • Offers Equity",
+   "title": "Senior Staff Applied AI Engineer - Context Retrieval",
+   "company": "Databricks",
+   "location": "Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:29:00-04:00",
+   "salary": null,
    "desc": "",
-   "tags": [
-    "Forward Deployed Engineering",
-    "Forward Deployed Engineering"
-   ],
+   "tags": [],
    "score": 53
   },
   {
@@ -976,18 +964,6 @@
    "score": 52
   },
   {
-   "title": "Staff Software Engineer, AI Foundations (Agent Optimization)",
-   "company": "Temporal Technologies",
-   "location": "United States and Canada - Remote Opportunity",
-   "url": "https://job-boards.greenhouse.io/temporaltechnologies/jobs/5184712007",
-   "source": "Greenhouse · Temporal Technologies",
-   "posted_at": "2026-07-24T19:36:38-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 51
-  },
-  {
    "title": "HN: We are hiring full-stack and applied AI engineers, as well a",
    "company": "",
    "location": "see post",
@@ -1039,24 +1015,24 @@
    "score": 50
   },
   {
-   "title": "Staff AI Engineer - Grafana AI/ML | Canada | Remote",
+   "title": "Staff AI Engineer, RevOps | Canada | Remote",
    "company": "Grafana Labs",
    "location": "Canada (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6100673004",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5839190004",
    "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T16:16:13-04:00",
+   "posted_at": "2026-07-24T11:09:15-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
    "score": 50
   },
   {
-   "title": "Staff AI Engineer - Grafana AI/ML | USA | Remote",
+   "title": "Staff AI Engineer, RevOps | US | Remote",
    "company": "Grafana Labs",
    "location": "United States (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6100672004",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5839189004",
    "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T16:16:13-04:00",
+   "posted_at": "2026-07-24T11:09:33-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
@@ -1102,12 +1078,27 @@
    "score": 49
   },
   {
-   "title": "Manager, Forward Deployed Engineer (FDE), Life Sciences",
+   "title": "Data Engineer, CPU & Storage",
+   "company": "OpenAI",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/0c0fe7aa-24fb-4bad-aa30-3f68f1418e37",
+   "source": "Ashby · OpenAI",
+   "posted_at": "2026-07-24T20:44:16.847+00:00",
+   "salary": "$293K – $385K • Offers Equity",
+   "desc": "",
+   "tags": [
+    "Scaling",
+    "Analytics"
+   ],
+   "score": 49
+  },
+  {
+   "title": "Manager, Technical Deployment Leads (TDL), Forward Deployed Engineering (FDE)",
    "company": "OpenAI",
    "location": "San Francisco · Remote",
-   "url": "https://jobs.ashbyhq.com/openai/679cc2c7-e153-480b-8b9f-ecb69a19975a",
+   "url": "https://jobs.ashbyhq.com/openai/eed8496c-8e12-4d14-b8b6-6dadff0463a6",
    "source": "Ashby · OpenAI",
-   "posted_at": "2026-07-22T15:57:40.409+00:00",
+   "posted_at": "2026-07-24T16:38:07.300+00:00",
    "salary": "$252K – $335K • Offers Equity",
    "desc": "",
    "tags": [
@@ -1141,66 +1132,6 @@
    "score": 48
   },
   {
-   "title": "Software Engineer, Agent",
-   "company": "Vercel",
-   "location": "Hybrid - San Francisco",
-   "url": "https://job-boards.greenhouse.io/vercel/jobs/5704320004",
-   "source": "Greenhouse · Vercel",
-   "posted_at": "2026-07-22T12:50:03-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 48
-  },
-  {
-   "title": "Manager, Forward Deployed Engineering - CMEG",
-   "company": "Databricks",
-   "location": "Remote - Washington D.C.",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585019002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:03-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 47
-  },
-  {
-   "title": "Manager, Forward Deployed Engineering - Manufacturing",
-   "company": "Databricks",
-   "location": "Remote - California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585023002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:03-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 47
-  },
-  {
-   "title": "Senior Manager, Forward Deployed Engineering (Full Stack) x 2 New roles",
-   "company": "Databricks",
-   "location": "Remote - France",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439078002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:57-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 47
-  },
-  {
-   "title": "Sr. Engagement Manager, Forward Deployed Engineering - LATAM",
-   "company": "Databricks",
-   "location": "Remote - Mexico",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8530605002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:00-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 47
-  },
-  {
    "title": "GenAI Engineer",
    "company": "NTT DATA",
    "location": "LATAM",
@@ -1212,6 +1143,18 @@
    "tags": [
     "Software Engineering"
    ],
+   "score": 46
+  },
+  {
+   "title": "Staff Software Engineer, AI Foundations (Agent Optimization)",
+   "company": "Temporal Technologies",
+   "location": "United States and Canada - Remote Opportunity",
+   "url": "https://job-boards.greenhouse.io/temporaltechnologies/jobs/5184712007",
+   "source": "Greenhouse · Temporal Technologies",
+   "posted_at": "2026-07-24T19:36:38-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
    "score": 46
   },
   {
@@ -1230,72 +1173,24 @@
    "score": 46
   },
   {
-   "title": "Senior Solutions Engineer | France | Remote",
+   "title": "Staff AI Engineer - Grafana AI/ML | Canada | Remote",
    "company": "Grafana Labs",
-   "location": "France (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121630004",
+   "location": "Canada (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6100673004",
    "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T12:05:56-04:00",
+   "posted_at": "2026-07-22T16:16:13-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
    "score": 46
   },
   {
-   "title": "Senior Solutions Engineer | Netherlands | Remote",
+   "title": "Staff AI Engineer - Grafana AI/ML | USA | Remote",
    "company": "Grafana Labs",
-   "location": "Netherlands (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121640004",
+   "location": "United States (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6100672004",
    "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T12:06:49-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 46
-  },
-  {
-   "title": "Senior Solutions Engineer | Spain | Remote",
-   "company": "Grafana Labs",
-   "location": "Spain (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121672004",
-   "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T12:04:43-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 46
-  },
-  {
-   "title": "Senior Solutions Engineer | Sweden | Remote",
-   "company": "Grafana Labs",
-   "location": "Sweden (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121669004",
-   "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T12:05:14-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 46
-  },
-  {
-   "title": "Solutions Engineer | France | Remote",
-   "company": "Grafana Labs",
-   "location": "France (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121627004",
-   "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T12:05:27-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 46
-  },
-  {
-   "title": "Solutions Engineer | UK | Remote",
-   "company": "Grafana Labs",
-   "location": "United Kingdom (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121633004",
-   "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T12:06:26-04:00",
+   "posted_at": "2026-07-22T16:16:13-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
@@ -1368,8 +1263,8 @@
    "salary": "$165K – $330K • Offers Equity",
    "desc": "",
    "tags": [
-    "GTM | Solutions Architecture",
-    "GTM | Solutions Architecture"
+    "GTM",
+    "Solutions Architecture"
    ],
    "score": 45
   },
@@ -1386,18 +1281,30 @@
    "score": 44
   },
   {
-   "title": "Senior Data Engineer",
-   "company": "n8n",
-   "location": "Germany · Remote",
-   "url": "https://jobs.ashbyhq.com/n8n/bf526af6-784c-49e8-8233-d69595423b4d",
-   "source": "Ashby · n8n",
-   "posted_at": "2026-07-22T08:01:45.258+00:00",
-   "salary": null,
+   "title": "Manager, Forward Deployed Engineer (FDE), Life Sciences",
+   "company": "OpenAI",
+   "location": "San Francisco · Remote",
+   "url": "https://jobs.ashbyhq.com/openai/679cc2c7-e153-480b-8b9f-ecb69a19975a",
+   "source": "Ashby · OpenAI",
+   "posted_at": "2026-07-22T15:57:40.409+00:00",
+   "salary": "$252K – $335K • Offers Equity",
    "desc": "",
    "tags": [
-    "Operations",
-    "Operations"
+    "Forward Deployed Engineering",
+    "Forward Deployed Engineering"
    ],
+   "score": 44
+  },
+  {
+   "title": "Software Engineer, Agent",
+   "company": "Vercel",
+   "location": "Hybrid - San Francisco",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/5704320004",
+   "source": "Greenhouse · Vercel",
+   "posted_at": "2026-07-22T12:50:03-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
    "score": 44
   },
   {
@@ -1626,12 +1533,63 @@
    "score": 43
   },
   {
-   "title": "Staff Machine Learning Engineer, CustomerLake (ML/LLM)",
+   "title": "Head of Forward Deployed Engineering",
+   "company": "Replit",
+   "location": "Foster City, CA · Remote",
+   "url": "https://jobs.ashbyhq.com/replit/67ff0a76-7fb9-44f9-8cd2-d7a435ad29bd",
+   "source": "Ashby · Replit",
+   "posted_at": "2026-06-11T04:07:50.398+00:00",
+   "salary": "$300K – $400K • Offers Equity",
+   "desc": "",
+   "tags": [
+    "Engineering",
+    "Engineering"
+   ],
+   "score": 43
+  },
+  {
+   "title": "Manager, Forward Deployed Engineering - CMEG",
    "company": "Databricks",
-   "location": "New York City, New York",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614863002",
+   "location": "Remote - Washington D.C.",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585019002",
    "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:05-04:00",
+   "posted_at": "2026-07-24T19:29:03-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 42
+  },
+  {
+   "title": "Manager, Forward Deployed Engineering - Manufacturing",
+   "company": "Databricks",
+   "location": "Remote - California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585023002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:29:03-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 42
+  },
+  {
+   "title": "Senior Manager, Forward Deployed Engineering (Full Stack) x 2 New roles",
+   "company": "Databricks",
+   "location": "Remote - France",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439078002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:57-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 42
+  },
+  {
+   "title": "Sr. Engagement Manager, Forward Deployed Engineering - LATAM",
+   "company": "Databricks",
+   "location": "Remote - Mexico",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8530605002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:29:00-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
@@ -1668,84 +1626,72 @@
    "score": 42
   },
   {
-   "title": "Senior Machine Learning Engineer, Developer Advocacy | Canada | Remote",
+   "title": "Senior Solutions Engineer | France | Remote",
    "company": "Grafana Labs",
-   "location": "Canada (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121756004",
+   "location": "France (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121630004",
    "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T09:45:38-04:00",
+   "posted_at": "2026-07-22T12:05:56-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
    "score": 42
   },
   {
-   "title": "Senior Machine Learning Engineer, Developer Advocacy | Germany | Remote",
+   "title": "Senior Solutions Engineer | Netherlands | Remote",
    "company": "Grafana Labs",
-   "location": "Germany (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121947004",
+   "location": "Netherlands (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121640004",
    "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T09:45:50-04:00",
+   "posted_at": "2026-07-22T12:06:49-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
    "score": 42
   },
   {
-   "title": "Senior Machine Learning Engineer, Developer Advocacy | Ireland | Remote",
-   "company": "Grafana Labs",
-   "location": "Republic of Ireland (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121948004",
-   "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T09:46:04-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 42
-  },
-  {
-   "title": "Senior Machine Learning Engineer, Developer Advocacy | Spain | Remote",
+   "title": "Senior Solutions Engineer | Spain | Remote",
    "company": "Grafana Labs",
    "location": "Spain (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121949004",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121672004",
    "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T09:46:17-04:00",
+   "posted_at": "2026-07-22T12:04:43-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
    "score": 42
   },
   {
-   "title": "Senior Machine Learning Engineer, Developer Advocacy | Sweden | Remote",
+   "title": "Senior Solutions Engineer | Sweden | Remote",
    "company": "Grafana Labs",
    "location": "Sweden (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121954004",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121669004",
    "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T09:46:44-04:00",
+   "posted_at": "2026-07-22T12:05:14-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
    "score": 42
   },
   {
-   "title": "Senior Machine Learning Engineer, Developer Advocacy | UK | Remote",
+   "title": "Solutions Engineer | France | Remote",
+   "company": "Grafana Labs",
+   "location": "France (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121627004",
+   "source": "Greenhouse · Grafana Labs",
+   "posted_at": "2026-07-22T12:05:27-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 42
+  },
+  {
+   "title": "Solutions Engineer | UK | Remote",
    "company": "Grafana Labs",
    "location": "United Kingdom (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121956004",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121633004",
    "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T09:46:53-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 42
-  },
-  {
-   "title": "Senior Machine Learning Engineer, Developer Advocacy | US | Remote",
-   "company": "Grafana Labs",
-   "location": "United States (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121755004",
-   "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T09:47:02-04:00",
+   "posted_at": "2026-07-22T12:06:26-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
@@ -1764,19 +1710,119 @@
    "score": 41
   },
   {
-   "title": "Engineering Manager, FDE Agentic Platform",
-   "company": "Cohere",
-   "location": "Middle East · Remote",
-   "url": "https://jobs.ashbyhq.com/cohere/bb0c781f-b2ca-47fb-90bf-ee13dbf58718",
-   "source": "Ashby · Cohere",
-   "posted_at": "2026-07-24T20:04:44.949+00:00",
+   "title": "Senior Software Engineer (YDB Team)",
+   "company": "Nebius",
+   "location": "Czech Republic; Remote - Europe; United Kingdom",
+   "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-software-engineer-ydb-team-48438",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:15:50+00:00",
    "salary": null,
-   "desc": "",
+   "desc": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p> <p>Listed on Nasdaq (NBIS) and headq",
    "tags": [
-    "Agentic Platform",
-    "Agentic Platform"
+    "Backend"
    ],
-   "score": 41
+   "score": 40
+  },
+  {
+   "title": "Senior Software Engineer (Token Factory)",
+   "company": "Nebius",
+   "location": "Amsterdam, Czech Republic; Remote - Europe; United Kingdom",
+   "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-software-engineer-token-factory-489348",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:15:50+00:00",
+   "salary": null,
+   "desc": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p> <p>Listed on Nasdaq (NBIS) and headq",
+   "tags": [
+    "Backend"
+   ],
+   "score": 40
+  },
+  {
+   "title": "Senior Software Engineer (C++)",
+   "company": "Nebius",
+   "location": "Czech Republic; Remote - Europe; United Kingdom",
+   "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-software-engineer-c-339587",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:15:50+00:00",
+   "salary": null,
+   "desc": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p> <p>Listed on Nasdaq (NBIS) and headq",
+   "tags": [
+    "Backend"
+   ],
+   "score": 40
+  },
+  {
+   "title": "Senior Site Reliability Engineer — Token Factory (Inference Platform)",
+   "company": "Nebius",
+   "location": "Amsterdam, Netherlands; Berlin, United Kingdom; Prague, Czech Republic; Remote - Europe",
+   "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-site-reliability-engineer-token-factory-inference-platform-125814",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:15:49+00:00",
+   "salary": null,
+   "desc": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p> <p>Listed on Nasdaq (NBIS) and headq",
+   "tags": [
+    "SRE"
+   ],
+   "score": 40
+  },
+  {
+   "title": "Senior ML Engineer (Token Factory)",
+   "company": "Nebius",
+   "location": "Amsterdam, Netherlands; Berlin, United Kingdom; Prague, Czech Republic; Remote - Europe",
+   "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-ml-engineer-token-factory-30647",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:15:49+00:00",
+   "salary": null,
+   "desc": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p> <p>Listed on Nasdaq (NBIS) and headq",
+   "tags": [
+    "ML"
+   ],
+   "score": 40
+  },
+  {
+   "title": "Senior Backend Developer (Token Factory)",
+   "company": "Nebius",
+   "location": "Amsterdam, Netherlands; Berlin, United Kingdom; Prague, Czech Republic; Remote - Europe",
+   "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-senior-backend-developer-token-factory-349593",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:15:49+00:00",
+   "salary": null,
+   "desc": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p> <p>Listed on Nasdaq (NBIS) and headq",
+   "tags": [
+    "Backend"
+   ],
+   "score": 40
+  },
+  {
+   "title": "Werkstudent*in Machine Learning - Fokus Sustainability",
+   "company": "Pacemaker",
+   "location": "Remote (Deutschland)",
+   "url": "https://www.arbeitnow.com/jobs/companies/pacemaker/remote-werkstudentin-machine-learning-fokus-sustainability-185590",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-26T17:09:08+00:00",
+   "salary": null,
+   "desc": "DEIN UMFELD UND TEAM Du begeisterst dich für Machine Learning, Software Engineering und den Einsatz von KI für nachhaltige Anwendungsfälle? Dann werde Teil unseres Teams der Sustainability Management Platform und unterstütze uns dabei, Sustainability Manager mit modernen ML- und LLM-basierten Systemen in ihrem Arbeitsalltag zu entlasten. Du wirkst am Aufbau von KI-Komponenten, Datenpipelines und Modellierungslogiken mit, die unseren Kunden dabei helfen, fundierte und nachhaltige Entscheidungen zu treffen. DEIN VERANTWORTUNGSBEREICH Du unterstützt die Entwicklung unserer KI-Systeme (u. a. LLM-b",
+   "tags": [
+    "Machine Learning",
+    "Sustainability",
+    "IT",
+    "Working Student",
+    "Werkstudium",
+    "Computer Science",
+    "Software Engineering",
+    "Use cases",
+    "SMP",
+    "Sustainability Management Platform",
+    "LLM",
+    "AI",
+    "KI",
+    "Python",
+    "SQL",
+    "Prototyping",
+    "Accounting",
+    "Nachhaltigkeit"
+   ],
+   "score": 40
   },
   {
    "title": "Data Engineer, Scaling Analytics",
@@ -1815,6 +1861,21 @@
    "salary": null,
    "desc": "",
    "tags": [],
+   "score": 40
+  },
+  {
+   "title": "Senior Data Engineer",
+   "company": "n8n",
+   "location": "Germany · Remote",
+   "url": "https://jobs.ashbyhq.com/n8n/bf526af6-784c-49e8-8233-d69595423b4d",
+   "source": "Ashby · n8n",
+   "posted_at": "2026-07-22T08:01:45.258+00:00",
+   "salary": null,
+   "desc": "",
+   "tags": [
+    "Operations",
+    "Operations"
+   ],
    "score": 40
   },
   {
@@ -1986,6 +2047,90 @@
    "url": "https://www.observe.ai/position?gh_jid=5254531008",
    "source": "Greenhouse · Observe.AI",
    "posted_at": "2026-06-12T19:13:49-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 38
+  },
+  {
+   "title": "Senior Machine Learning Engineer, Developer Advocacy | Canada | Remote",
+   "company": "Grafana Labs",
+   "location": "Canada (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121756004",
+   "source": "Greenhouse · Grafana Labs",
+   "posted_at": "2026-07-22T09:45:38-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 38
+  },
+  {
+   "title": "Senior Machine Learning Engineer, Developer Advocacy | Germany | Remote",
+   "company": "Grafana Labs",
+   "location": "Germany (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121947004",
+   "source": "Greenhouse · Grafana Labs",
+   "posted_at": "2026-07-22T09:45:50-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 38
+  },
+  {
+   "title": "Senior Machine Learning Engineer, Developer Advocacy | Ireland | Remote",
+   "company": "Grafana Labs",
+   "location": "Republic of Ireland (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121948004",
+   "source": "Greenhouse · Grafana Labs",
+   "posted_at": "2026-07-22T09:46:04-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 38
+  },
+  {
+   "title": "Senior Machine Learning Engineer, Developer Advocacy | Spain | Remote",
+   "company": "Grafana Labs",
+   "location": "Spain (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121949004",
+   "source": "Greenhouse · Grafana Labs",
+   "posted_at": "2026-07-22T09:46:17-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 38
+  },
+  {
+   "title": "Senior Machine Learning Engineer, Developer Advocacy | Sweden | Remote",
+   "company": "Grafana Labs",
+   "location": "Sweden (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121954004",
+   "source": "Greenhouse · Grafana Labs",
+   "posted_at": "2026-07-22T09:46:44-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 38
+  },
+  {
+   "title": "Senior Machine Learning Engineer, Developer Advocacy | UK | Remote",
+   "company": "Grafana Labs",
+   "location": "United Kingdom (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121956004",
+   "source": "Greenhouse · Grafana Labs",
+   "posted_at": "2026-07-22T09:46:53-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 38
+  },
+  {
+   "title": "Senior Machine Learning Engineer, Developer Advocacy | US | Remote",
+   "company": "Grafana Labs",
+   "location": "United States (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121755004",
+   "source": "Greenhouse · Grafana Labs",
+   "posted_at": "2026-07-22T09:47:02-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
@@ -2214,6 +2359,18 @@
     "Core Product & Platform",
     "Core Product & Platform | API"
    ],
+   "score": 37
+  },
+  {
+   "title": "Staff Machine Learning Engineer, CustomerLake (ML/LLM)",
+   "company": "Databricks",
+   "location": "New York City, New York",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614863002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:29:05-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
    "score": 37
   },
   {
@@ -2490,6 +2647,21 @@
    "score": 36
   },
   {
+   "title": "Engineering Manager, FDE Agentic Platform",
+   "company": "Cohere",
+   "location": "Middle East · Remote",
+   "url": "https://jobs.ashbyhq.com/cohere/bb0c781f-b2ca-47fb-90bf-ee13dbf58718",
+   "source": "Ashby · Cohere",
+   "posted_at": "2026-07-24T20:04:44.949+00:00",
+   "salary": null,
+   "desc": "",
+   "tags": [
+    "Agentic Platform",
+    "Agentic Platform"
+   ],
+   "score": 36
+  },
+  {
    "title": "Senior Solutions Engineer | Toronto | Remote",
    "company": "Grafana Labs",
    "location": "Canada (Remote)",
@@ -2514,17 +2686,43 @@
    "score": 36
   },
   {
-   "title": "Recruiter (m/w/d) - Remote",
-   "company": "Dost - Officedienstleistung",
-   "location": "Würzburg · Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/dost-officedienstleistung/recruiter-remote-wurzburg-279018",
+   "title": "Senior Software Engineer (m/w/d) | Fullstack für SaaS-Produkte",
+   "company": "Avenit Ag",
+   "location": "Remote in Deutschland",
+   "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-saas-produkte-326309",
    "source": "Arbeitnow",
-   "posted_at": "2026-07-24T09:00:32+00:00",
+   "posted_at": "2026-07-25T11:09:44+00:00",
    "salary": null,
-   "desc": "Wir suchen im Auftrag unseres Klienten T. Eilers & Partner Verstärkung im Bereich Recruiting und Personalgewinnung. T. Eilers & Partner unterstützt kleine und mittelständische Unternehmen sowie private Haushalte dabei, Einnahmen und Ausgaben nachhaltig zu optimieren. Zur Verstärkung unseres Teams suchen wir motivierte Mitarbeiter (m/w/d), die neue Talente für unser Unternehmen gewinnen und den gesamten Recruiting-Prozess begleiten. Du rekrutierst ausschließlich für T. Eilers & Partner. Wir sind keine Zeitarbeitsfirma und keine Personalvermittlung. Die Tätigkeit erfolgt vollständig remote über ",
+   "desc": "Das gibt es zu tun Du willst Software bauen, die nicht nur heute funktioniert, sondern auch morgen noch tragfähig ist? In unserem agilen Entwicklungsteam entwickelst du ein wachsendes SaaS-Produkt und gestaltest die zugrunde liegende Architektur aktiv mit. Der Fokus liegt auf skalierbaren Systemen, klaren Strukturen und nachhaltiger Qualität, von der Datenhaltung über APIs bis hin zur Anwendung. Das gibt es zu tun Architektur & Umsetzung: verteilte Systeme und Microservices entwerfen, weiterentwickeln und skalieren, immer mit Blick auf Wartbarkeit und Stabilität SaaS-Produkt entwickeln : zentr",
    "tags": [
-    "Remote",
-    "Recruitment and Selection"
+    "Senior Full-Stack Developer",
+    "Senior Fullstack Entwickler",
+    "SaaS",
+    "KI",
+    "AI",
+    "Produktentwicklung",
+    "Product Development",
+    "Software Development"
+   ],
+   "score": 35
+  },
+  {
+   "title": "Senior Software Engineer (m/w/d) | Fullstack für KI-Produkte",
+   "company": "Avenit Ag",
+   "location": "Remote in Deutschland",
+   "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-357712",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-25T11:09:44+00:00",
+   "salary": null,
+   "desc": "Das gibt es zu tun Du willst mit solider Architektur und sauberem Code echte Produkte voranbringen? In unserem agilen Entwicklungsteam baust du die nächste Ausbaustufe der Vusyon-Produktfamilie – inklusive moderner KI-Funktionen. Full-Stack ist für dich selbstverständlich. Architektur & Umsetzung: verteilte Microservices entwerfen, implementieren und skalieren – primär mit Node.js/NestJS Fullstack liefern: performante APIs bauen und Vue.js-Frontends entwickeln – vom Datenmodell bis zur UI KI-Features integrieren: Vektorsuche und RAG-Workflows mit Weaviate einbinden und produktionsreif betreibe",
+   "tags": [
+    "Senior Full-Stack Developer",
+    "Senior Full Stack Entwickler",
+    "KI",
+    "AI",
+    "Software Development",
+    "Produktentwicklung",
+    "SaaS"
    ],
    "score": 35
   },
@@ -2571,18 +2769,15 @@
    "score": 35
   },
   {
-   "title": "Applied AI Engineer, GTM Growth Engineering",
-   "company": "OpenAI",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/openai/38e3c4bf-a632-405e-9619-b87382ca2472",
-   "source": "Ashby · OpenAI",
-   "posted_at": "2026-07-25T00:11:32.458+00:00",
-   "salary": "$230K – $385K • Offers Equity",
-   "desc": "",
-   "tags": [
-    "Go To Market",
-    "Growth"
-   ],
+   "title": "Werkstudent (m/w/d) – AI Engineering (von Ort)",
+   "company": "Assetmetrix Gmbh",
+   "location": "München",
+   "url": "https://www.arbeitnow.com/jobs/companies/assetmetrix-gmbh/werkstudent-ai-engineering-von-ort-munchen-38743",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-26T23:09:29+00:00",
+   "salary": null,
+   "desc": "Deine Mission Als Werkstudent:in im Bereich AI Engineering unterstützt Du uns beim Aufbau und Betrieb KI-gestützter Produkte für die Finanzbranche. Du arbeitest an der Schnittstelle von Software, Data und AI, evaluierst Modellqualität, entwickelst Automatisierungen und hilfst dabei, skalierbare Lösungen für reale Business-Probleme zu bauen. Dabei sammelst Du hands-on Erfahrung mit modernen AI-Technologien in einem produktionsnahen Umfeld. Evaluation & Daten Aufbau und Betrieb von Evaluations-Pipelines für LLM-basierte Systeme Analyse von Metriken, Identifikation von Edge Cases und Tracking der",
+   "tags": [],
    "score": 34
   },
   {
@@ -2599,6 +2794,39 @@
     "Customer Success"
    ],
    "score": 34
+  },
+  {
+   "title": "Staff AI Engineer",
+   "company": "workato",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/workato/staff-ai-engineer-berlin-78828",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-25T14:57:11+00:00",
+   "salary": null,
+   "desc": "<div class=\"content-intro\"><h1><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>About Workato</strong></span></h1> <p>Workato delivers enterprise infrastructure for the agentic era, redefining iPaaS and helping enterprises unify data, applications, processes, and AI into a single, governed platform. A leader in Enterprise MCP and trusted by 50% of the Fortune 500, Workato’s cloud-native architecture connects every application, data source, and process to power real-time orchestration at scale. With enterprise-grade security and continuous innovation at its core, Workato provide",
+   "tags": [
+    "Product & Engineering"
+   ],
+   "score": 33
+  },
+  {
+   "title": "AI Solution Architect (w/m/d)",
+   "company": "Virtual Solution Ag",
+   "location": "Remote in Germany",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual-solution-ag/remote-ai-solution-architect-457402",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-25T11:09:21+00:00",
+   "salary": null,
+   "desc": "Deine Aufgaben Du gestaltest den Einsatz von Künstlicher Intelligenz in unserem Unternehmen und unseren Softwareprodukten. Gemeinsam mit Product Management, Entwicklung und Fachbereichen identifizierst du Einsatzmöglichkeiten, bewertest Technologien und entwickelst skalierbare KI-Lösungen – von der Idee bis zum produktiven Betrieb. Dabei verantwortest Du die technische KI-Strategie sowie den Aufbau einer zukunftsfähigen AI- und LLM-Plattform. Du entwickelst und verantwortest die technische KI-Strategie sowie eine AI-Referenzarchitektur Du bewertest, wählst aus und integrierst geeignete KI-Tech",
+   "tags": [
+    "ai",
+    "artificial intelligence",
+    "ki",
+    "künstliche intelligenz",
+    "solution architect",
+    "lösungsarchitekt"
+   ],
+   "score": 33
   },
   {
    "title": "Member of Technical Staff (Forward Deployed Engineer, Applied AI)",
@@ -2685,20 +2913,6 @@
    "score": 32
   },
   {
-   "title": "Senior Software Engineer (Storage) - remote in the US",
-   "company": "Mirantis",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/149690-senior-software-engineer-storage-remote-in-the-us",
-   "source": "Jobicy",
-   "posted_at": "2026-07-24T07:39:48+00:00",
-   "salary": null,
-   "desc": "Company DescriptionAbout MirantisMirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the…",
-   "tags": [
-    "Software Engineering"
-   ],
-   "score": 31
-  },
-  {
    "title": "B2B Growth Marketing - Agents",
    "company": "ElevenLabs",
    "location": "United Kingdom · Remote",
@@ -2774,195 +2988,12 @@
    "score": 31
   },
   {
-   "title": "Freiberufliche Teamleitung (m/w/d) - Remote / Homeoffice",
-   "company": "Life and Fit Vital Balance Jennifer Witke",
-   "location": "Bischofsheim in der Rhön · Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/life-and-fit-vital-balance-jennifer-witke/freiberufliche-teamleitung-remote-homeoffice-bischofsheim-in-der-rhon-377611",
-   "source": "Arbeitnow",
-   "posted_at": "2026-07-23T20:00:26+00:00",
-   "salary": null,
-   "desc": "Suchen Sie nach einer flexiblen und ortsunabhängigen Tätigkeit, die Ihre Leidenschaft für Sport, Gesundheit und Ernährung mit Führungsqualitäten verbindet? Bei Life & Fit Vital Balance bieten wir Ihnen die Möglichkeit, als Freiberufliche Teamleitung (m/w/d) im Homeoffice tätig zu werden. In dieser Rolle koordinieren Sie ein engagiertes Team, unterstützen die Organisation und tragen zur erfolgreichen Umsetzung unserer Mission bei. Wir legen großen Wert auf persönliche Weiterentwicklung und eine wertschätzende Zusammenarbeit in einem modernen, digitalen Arbeitsumfeld. Wenn Sie selbstständig, zuv",
-   "tags": [
-    "Remote",
-    "Marketing and Communication"
-   ],
-   "score": 30
-  },
-  {
-   "title": "Forward Deployed Engineer",
-   "company": "Databricks",
-   "location": "Seoul, South Korea",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540455002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:00-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 30
-  },
-  {
-   "title": "Forward Deployed Engineer - Emerging Enterprise & DNB",
-   "company": "Databricks",
-   "location": "London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439047002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:57-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 30
-  },
-  {
-   "title": "Forward Deployed Engineer - FDE (Fullstack)",
-   "company": "Databricks",
-   "location": "Munich, Germany",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554531002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:01-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 30
-  },
-  {
-   "title": "Forward Deployed Engineer (FDE) - Public Sector",
-   "company": "Databricks",
-   "location": "United States",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611108002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:05-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 30
-  },
-  {
-   "title": "Head of AI Forward Deployed Engineering (FDE), Public Sector",
-   "company": "Databricks",
-   "location": "Maryland; Virginia; Washington, D.C.",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585021002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:03-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 30
-  },
-  {
-   "title": "Senior Forward Deployed Engineer",
-   "company": "Databricks",
-   "location": "London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8367942002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:54-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 30
-  },
-  {
-   "title": "Senior Forward Deployed Engineer - Full stack",
-   "company": "Databricks",
-   "location": "London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8598430002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:04-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 30
-  },
-  {
-   "title": "Senior Forward Deployed Engineer, Full Stack",
-   "company": "Databricks",
-   "location": "London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8396801002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:55-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 30
-  },
-  {
    "title": "Sr. Forward Deployed Engineer",
    "company": "Databricks",
    "location": "Singapore",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8534142002",
    "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:00-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 30
-  },
-  {
-   "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-   "company": "Databricks",
-   "location": "Chicago, Illinois",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:53-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 30
-  },
-  {
-   "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
-   "company": "Databricks",
-   "location": "Mountain View, California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647743002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:59-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 30
-  },
-  {
-   "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-   "company": "Databricks",
-   "location": "Philadelphia, Pennsylvania",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:57-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 30
-  },
-  {
-   "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
-   "company": "Databricks",
-   "location": "Philadelphia, Pennsylvania",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494148002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:54-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 30
-  },
-  {
-   "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
-   "company": "Databricks",
-   "location": "Philadelphia, Pennsylvania",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494155002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:53-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 30
-  },
-  {
-   "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
-   "company": "Databricks",
-   "location": "Dallas, Texas",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8456975002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:56-04:00",
+   "posted_at": "2026-07-27T00:47:47-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
@@ -2995,6 +3026,21 @@
    "tags": [
     "Finance",
     "Finance"
+   ],
+   "score": 29
+  },
+  {
+   "title": "Applied AI Engineer, GTM Growth Engineering",
+   "company": "OpenAI",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/38e3c4bf-a632-405e-9619-b87382ca2472",
+   "source": "Ashby · OpenAI",
+   "posted_at": "2026-07-25T00:11:32.458+00:00",
+   "salary": "$230K – $385K • Offers Equity",
+   "desc": "",
+   "tags": [
+    "Go To Market",
+    "Growth"
    ],
    "score": 29
   },
@@ -3053,14 +3099,56 @@
    "score": 29
   },
   {
-   "title": "Senior Applied AI Engineer",
-   "company": "Databricks",
-   "location": "Belgrade, Serbia",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:50-04:00",
+   "title": "Solutions Architect DACH",
+   "company": "Nebius",
+   "location": "",
+   "url": "https://www.arbeitnow.com/jobs/companies/nebius/solutions-architect-dach-51696",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:15:50+00:00",
    "salary": null,
-   "desc": "",
+   "desc": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p> <p>Listed on Nasdaq (NBIS) and headq",
+   "tags": [
+    "Solutions Architecture"
+   ],
+   "score": 28
+  },
+  {
+   "title": "Senior Backend Engineer",
+   "company": "Nebius",
+   "location": "",
+   "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-backend-engineer-44929",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:15:49+00:00",
+   "salary": null,
+   "desc": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p> <p>Listed on Nasdaq (NBIS) and headq",
+   "tags": [
+    "Backend"
+   ],
+   "score": 28
+  },
+  {
+   "title": "Key Customers Solutions Architect EMEA",
+   "company": "Nebius",
+   "location": "",
+   "url": "https://www.arbeitnow.com/jobs/companies/nebius/key-customers-solutions-architect-emea-435632",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:15:49+00:00",
+   "salary": null,
+   "desc": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p> <p>Listed on Nasdaq (NBIS) and headq",
+   "tags": [
+    "Solutions Architecture"
+   ],
+   "score": 28
+  },
+  {
+   "title": "(Senior) AI Engineer (m/f/d) Embodied AI & Learning from Egocentric Videos",
+   "company": "Agile Robots SE",
+   "location": "Germany, Munich (HQ)",
+   "url": "https://www.arbeitnow.com/jobs/companies/agile-robots-se/senior-ai-engineer-embodied-ai-learning-from-egocentric-videos-germany-munich-hq-425385",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-25T20:09:41+00:00",
+   "salary": null,
+   "desc": "Find more English Speaking Jobs in Germany on Arbeitnow",
    "tags": [],
    "score": 28
   },
@@ -3080,16 +3168,80 @@
    "score": 28
   },
   {
-   "title": "Growth Marketing Manager, Agent Stack",
-   "company": "Vercel",
-   "location": "Hybrid - San Francisco, New York City, Austin",
-   "url": "https://job-boards.greenhouse.io/vercel/jobs/6016765004",
-   "source": "Greenhouse · Vercel",
-   "posted_at": "2026-07-22T12:50:03-04:00",
+   "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "location": "Homeoffice · Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-462901",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-26T08:50:45+00:00",
    "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 28
+   "desc": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Justice. DEINE MISSION Als Kubernetes Administrator/Private Cloud Engineer (m/w/d) stellst du sicher, dass unsere Container-Infrastruktur reibungslos läuft und z",
+   "tags": [
+    "Customer Cluster Justice",
+    "Remote"
+   ],
+   "score": 27
+  },
+  {
+   "title": "AI Solution Architect (m/w/d)",
+   "company": "virtual7 GmbH",
+   "location": "Homeoffice · Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-171944",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-26T08:50:45+00:00",
+   "salary": null,
+   "desc": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Cluster Environment, Transportation & Energy. DEINE MISSION Als AI Solution Architect (m/w/d) gestaltest du die KI-/ML-Gesamtarchitektur für komplexe Enterprise-Umgebunge",
+   "tags": [
+    "Customer Cluster Environment",
+    "Transportation & Energy",
+    "Remote"
+   ],
+   "score": 27
+  },
+  {
+   "title": "Senior Fullstack Engineer",
+   "company": "Mlabs",
+   "location": "Germany · Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/mlabs/remote-senior-fullstack-engineer-germany-388392",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-25T11:42:02+00:00",
+   "salary": null,
+   "desc": "Location: Remote - Europe preferred, must be able to work European hours Remote | Full-time Compensation: $120K - $150K Our client is a dynamic, forward-thinking, fully remote organization with an ambitious roadmap and a strong commitment to engineering excellence. Seeking a Senior Fullstack Engineer to work at the intersection of frontend and backend development. In this role, the engineer will build and maintain both a React-based trading user interface and the TypeScript backend services that power high-performance trading platforms. The position involves full feature ownership—from craftin",
+   "tags": [
+    "RLL",
+    "Remote"
+   ],
+   "score": 27
+  },
+  {
+   "title": "Senior (Rust/C++) Backend Engineer",
+   "company": "Mlabs",
+   "location": "Germany · Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/mlabs/remote-senior-rust-c-backend-engineer-germany-388279",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-25T11:42:02+00:00",
+   "salary": null,
+   "desc": "Location: Remote - Europe Remote | Full-time Compensation: $120K - $200K We are hiring on behalf of our client, a fast-paced, dynamic, and fully remote team in the decentralized finance (DeFi) and Web3 space who is seeking an experienced Senior Backend Engineer. The employer operates with an ambitious roadmap and a strong commitment to engineering rigor, high-grade security, and rapid execution. As a Senior Backend Engineer, the selected candidate will play a critical role in designing, developing, and maintaining robust, high-throughput, and scalable backend systems. This role extends beyond ",
+   "tags": [
+    "RLL",
+    "Remote"
+   ],
+   "score": 27
+  },
+  {
+   "title": "Senior Backend Engineer (Go) (m/w/d)",
+   "company": "Recare Deutschland GmbH",
+   "location": "Remote job · Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-backend-engineer-go-berlin-341619",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-25T11:31:01+00:00",
+   "salary": null,
+   "desc": "About us As one of Germany's leading HealthTech companies, we are transforming discharge management by making it technology driven, patient centered, and free of bureaucracy. In addition to our market leading SaaS platform, we are developing AI solutions that radically simplify processes in clinics and for aftercare providers, relieve the burden on healthcare professionals, and put the focus back on patients. We currently connect over two thirds of all German hospitals with more than 650 rehabilitation clinics, and over 25,000 care and homecare providers. With around 120 employees from a broad",
+   "tags": [
+    "Engineering",
+    "Remote"
+   ],
+   "score": 27
   },
   {
    "title": "Praktikant Marketing Automation mit KI (m/w/d) in remote / Homeoffice",
@@ -3107,17 +3259,75 @@
    "score": 27
   },
   {
-   "title": "Technical Product Specialist (m/w/d)",
-   "company": "ASUS Computer GmbH",
-   "location": "Ratingen · Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/asus-computer-gmbh/technical-product-specialist-ratingen-136219",
+   "title": "Working Student AI & Innovation (m/f/d)",
+   "company": "Rehau New Ventures",
+   "location": "Remote Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/rehau-new-ventures/remote-working-student-ai-innovation-196029",
    "source": "Arbeitnow",
-   "posted_at": "2026-07-24T07:00:48+00:00",
+   "posted_at": "2026-07-26T14:09:22+00:00",
    "salary": null,
-   "desc": "Standort: 40880 Ratingen | Bereich: Systems BG - Commercial | Einstieg: Ab sofort | Anstellungsart: Vollzeit | Homeoffice: hybrid oder remote | Befristung: Nein ÜBER ASUS Als vielfach ausgezeichnetes Unternehmen liegt unsere Leidenschaft in der Innovation. Wir entwickeln Produkte für das digitale Leben der Gegenwart sowie Zukunft. Vom Fortune Magazin wurden wir mehrfach als eine der „World’s Most Admired Companies“ ausgezeichnet. Wir bei ASUS träumen nicht nur von Möglichkeiten. Wir entwickeln Produkte für das digitale Leben der Zukunft und suchen Talente, die unsere Vision „In Search of Incre",
+   "desc": "Noch im Master-Studium, aber schon bereit, echte Innovation zu gestalten? Dann bist du bei uns richtig. Wir sind REHAU New Ventures, die Corporate-Venturing-Einheit der REHAU Group. Die REHAU Group ist ein internationales Familienunternehmen mit mehr als 13.000 Mitarbeitenden weltweit. Unsere polymerbasierten Lösungen prägen nachhaltiges Bauen, moderne Mobilität und smarte industrielle Anwendungen. Als eigenständige Einheit kombinieren wir die Ressourcen eines globalen Unternehmens mit dem Spirit der Startup-Welt. Wir treiben Innovation nicht nur strategisch, sondern vor allem praktisch voran ",
+   "tags": [],
+   "score": 27
+  },
+  {
+   "title": "Praktikant / Werkstudent Finance (m/w/d)",
+   "company": "Fishing King Gmbh",
+   "location": "Remote - Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/fishing-king-gmbh/remote-praktikant-werkstudent-finance-426136",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-25T20:10:23+00:00",
+   "salary": null,
+   "desc": "Deine Aufgaben Liquidität, Reporting und Finanzmodellierung. Zahlen sind dein Ding, du arbeitest präzise und zuverlässig, und du willst Finance nicht aus dem Lehrbuch, sondern im echten Unternehmensalltag lernen? In dieser Rolle wirst du zur direkten Unterstützung unseres Team Lead Finance und arbeitest an erfolgskritischen Finance-Themen mit. Du bekommst tiefe Einblicke in die Steuerung einer Unternehmensgruppe und packst mit Hands-on-Mentalität im Tagesgeschäft mit an. Deine Aufgaben auf den Punkt gebracht: Cash Management & Liquidität: Du unterstützt beim wöchentlichen Finance-Check, bei de",
+   "tags": [],
+   "score": 27
+  },
+  {
+   "title": "Head of People & Culture / HR (m/w/d)",
+   "company": "InkuPlay UG (haftungsbeschränkt)",
+   "location": "Biesenthal · Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/inkuplay-ug-haftungsbeschrankt/head-of-people-culture-hr-biesenthal-163623",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-26T10:30:27+00:00",
+   "salary": null,
+   "desc": "InkuPlay ist ein wachsendes Unternehmen aus den Bereichen Gaming, Esports, digitale Plattformen, Content, Community und Partnerschaften. Wir befinden uns in einer Phase des strukturellen Aufbaus und der Professionalisierung. Dafür suchen wir eine erfahrene Persönlichkeit, die unsere Personalorganisation nicht nur verwaltet, sondern aktiv gestaltet. Als Head of People & Culture / HR übernimmst du die Verantwortung für den Aufbau moderner, rechtssicherer und skalierbarer Personalstrukturen. Du arbeitest eng mit dem Founder & CEO, dem operativen Management, den Führungskräften sowie externen arbe",
    "tags": [
     "Remote",
-    "Helpdesk"
+    "HR"
+   ],
+   "score": 27
+  },
+  {
+   "title": "Chief Marketing Officer (m/w/d)",
+   "company": "InkuPlay UG (haftungsbeschränkt)",
+   "location": "Biesenthal · Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/inkuplay-ug-haftungsbeschrankt/chief-marketing-officer-biesenthal-255944",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-26T10:30:26+00:00",
+   "salary": null,
+   "desc": "InkuPlay ist ein wachstumsorientiertes Unternehmen aus dem Gaming- und E-Sports-Umfeld. Wir entwickeln Marken, Communities, digitale Formate und Partnerschaften an der Schnittstelle von Gaming, Entertainment, Content, Creator Economy und E-Sports. Unser Ziel ist es, InkuPlay als moderne, international relevante Gaming- und E-Sports-Marke zu etablieren. Dafür suchen wir eine unternehmerisch denkende Führungspersönlichkeit, die unsere Marketingstrategie entwickelt, unsere Markenpositionierung schärft und nachhaltiges Wachstum vorantreibt. Als Chief Marketing Officer (m/w/d) übernimmst du die Ges",
+   "tags": [
+    "Remote",
+    "Strategic Marketing"
+   ],
+   "score": 27
+  },
+  {
+   "title": "Senior Tax Expert - VAT (all genders)",
+   "company": "Contabo",
+   "location": "Remote (Germany)",
+   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-tax-expert-vat-all-genders-207910",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-25T11:09:55+00:00",
+   "salary": null,
+   "desc": "Dein Gestaltungsfeld Wir suchen zum nächstmöglichen Zeitpunkt in Vollzeit und unbefristet eine:n Senior Tax Expert (m/w/d) im Kernbereich VAT (nationale und internationale VAT). Wir leben Remote-First, aber Du kannst selbst wählen, ob Du durch Deine Nähe zu einem unserer Standorte (München, Köln, Hamburg, Berlin) hybrid oder ganz vor Ort arbeiten möchtest. Als unser:e neue:r Senior Tax Expert:in (Referent:in Steuern) im Kernbereich VAT hast Du die verantwortungsvolle Aufgabe, Dich mit indirekten Steuern auseinanderzusetzen und dabei in einem spannenden, dynamischen und internationalen Umfeld t",
+   "tags": [
+    "indirekte Steuern",
+    "Tax",
+    "Contabo",
+    "IT",
+    "Hosting",
+    "VAT"
    ],
    "score": 27
   },
@@ -3148,36 +3358,6 @@
    "tags": [
     "Remote",
     "Finance"
-   ],
-   "score": 27
-  },
-  {
-   "title": "Werkstudent Softwareentwicklung (m/w/d)",
-   "company": "bessr.",
-   "location": "Schwäbisch Hall · Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/bessr/werkstudent-softwareentwicklung-schwabisch-hall-356489",
-   "source": "Arbeitnow",
-   "posted_at": "2026-07-24T08:00:49+00:00",
-   "salary": null,
-   "desc": "bessr. ist eine KI-gestützte Ernährungs-App aus dem Raum Schwäbisch Hall. Wir tracken Mahlzeiten per Sprache oder Barcode und rechnen in Echtzeit Makros und über 30 Mikronährstoffe, mit KI-Beratung auf der deutschen Lebensmitteldatenbank. Kernfunktionen bleiben kostenlos und werbefrei. Wir sind ein vierköpfiges, EXIST-gefördertes Gründerteam, die App ist live in der Alpha. Aufgaben Du baust am Produkt mit, nicht an der Seitenlinie, je nach Stärke im Frontend, Backend oder auf der Mobile-Seite. Konkret arbeiten wir an der Nährwert-Engine, der KI-Beratung und gerade am Mobile-Port. Unser Stack: ",
-   "tags": [
-    "Remote",
-    "Software Development"
-   ],
-   "score": 27
-  },
-  {
-   "title": "Senior Typescript Developer (f/m/d)",
-   "company": "Sidestream",
-   "location": "Cologne · Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-311511",
-   "source": "Arbeitnow",
-   "posted_at": "2026-07-24T07:00:47+00:00",
-   "salary": null,
-   "desc": "Why Join Sidestream? At Sidestream, we’re building a team of committed, explorative and witty individuals who love pushing boundaries while having fun. Here’s what you can expect: Impactful Work: Contribute to projects that matter, whether it’s digitalizing leading companies, developing open-source tool or innovating with blockchain and AI. Learning & Growth: Gain mentoring from experienced professionals and access to proven processes that prepare you for success in a fast-paced tech environment. Our Culture of Excellence: Embrace modern systems like the Entrepreneurial Operating System (EOS) ",
-   "tags": [
-    "Remote",
-    "Software Development"
    ],
    "score": 27
   },
@@ -3317,54 +3497,48 @@
    "score": 27
   },
   {
-   "title": "Auftragskoordinator Produktionsplanung (m/w/d)",
-   "company": "MY Humancapital GmbH",
-   "location": "Munich",
-   "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/auftragskoordinator-produktionsplanung-munich-146365",
-   "source": "Arbeitnow",
-   "posted_at": "2026-07-24T17:00:34+00:00",
+   "title": "Senior Software Engineer (Storage) - remote in the US",
+   "company": "Mirantis",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/149690-senior-software-engineer-storage-remote-in-the-us",
+   "source": "Jobicy",
+   "posted_at": "2026-07-24T07:39:48+00:00",
    "salary": null,
-   "desc": "Auftragskoordinator Produktionsplanung (m/w/d) - Vollzeit | München Im Auftrag unseres Partnerunternehmens in München suchen wir Sie zum nächstmöglichen Zeitpunkt als „Auftragskoordinator Produktionsplanung (m/w/d)“ . Aufgaben Als Produktionsplaner (m/w/d) erstellen und steuern Sie standortübergreifende Produktions- und Grobplanungen unter Berücksichtigung von Kapazitäten und Terminen Sie prüfen Kundenaufträge auf Realisierbarkeit, steuern die Einlastung im ERP-System und überwachen Fertigungsressourcen sowie Produktionsabläufe Darüber hinaus optimieren Sie Bestände, Dispositionsparameter und ",
+   "desc": "Company DescriptionAbout MirantisMirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the…",
    "tags": [
-    "Consulting"
+    "Software Engineering"
    ],
    "score": 26
   },
   {
-   "title": "Software Engineer, Storage",
-   "company": "Glean",
-   "location": "Mountain View, CA",
-   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4610281005",
-   "source": "Greenhouse · Glean",
-   "posted_at": "2026-07-24T15:07:27-04:00",
+   "title": "Senior Manager Data Analytics (w/m/d)",
+   "company": "Eraneos",
+   "location": "Hamburg, München, Düsseldorf, remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-466945",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-26T14:09:20+00:00",
    "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 26
-  },
-  {
-   "title": "Manager, Solutions Engineering | NorBen | Remote",
-   "company": "Grafana Labs",
-   "location": "Netherlands (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121600004",
-   "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T12:02:35-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 26
-  },
-  {
-   "title": "Manager, Solutions Engineering | SEMEA | Remote",
-   "company": "Grafana Labs",
-   "location": "Israel (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121609004",
-   "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-22T12:03:47-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 26
+   "desc": "Das findest Du bei uns Wir sind ein technisches, umsetzungsorientiertes Spin-Off einer global agierenden Managementberatung. Zu unseren Kunden gehören primär DAX und Fortune Global 500 Unternehmen, die wir zu Fragen in den Bereichen Analytics, Big Data und Machine Learning beraten. Wir übernehmen in der Gruppe die Entwicklung von individuellen und datengetriebenen Lösungen, um so unsere Kunden in KI-gestützte Unternehmen zu transformieren. Wir bieten ein internationales Arbeitsumfeld mit agilen Teams und kreativen Startup-Methoden sowie eine überdurchschnittliche Vergütung und zahlreiche Zusat",
+   "tags": [
+    "Machine Learning",
+    "Softwareentwicklung",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Python",
+    "Warehousing",
+    "SQL",
+    "NoSQL",
+    "Solution Engineer",
+    "Management",
+    "KI",
+    "DBT",
+    "Date Architecture",
+    "Analytics",
+    "ELT",
+    "Databricks"
+   ],
+   "score": 25
   },
   {
    "title": "Senior Machine Learning Engineer, GenAI Security",
@@ -3440,6 +3614,162 @@
    "score": 25
   },
   {
+   "title": "Forward Deployed Engineer",
+   "company": "Databricks",
+   "location": "Seoul, South Korea",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540455002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:29:00-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 25
+  },
+  {
+   "title": "Forward Deployed Engineer - Emerging Enterprise & DNB",
+   "company": "Databricks",
+   "location": "London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439047002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:57-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 25
+  },
+  {
+   "title": "Forward Deployed Engineer - FDE (Fullstack)",
+   "company": "Databricks",
+   "location": "Munich, Germany",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554531002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:29:01-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 25
+  },
+  {
+   "title": "Forward Deployed Engineer (FDE) - Public Sector",
+   "company": "Databricks",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611108002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:29:05-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 25
+  },
+  {
+   "title": "Head of AI Forward Deployed Engineering (FDE), Public Sector",
+   "company": "Databricks",
+   "location": "Maryland; Virginia; Washington, D.C.",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585021002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:29:03-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 25
+  },
+  {
+   "title": "Senior Forward Deployed Engineer - Full stack",
+   "company": "Databricks",
+   "location": "London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8598430002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:29:04-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 25
+  },
+  {
+   "title": "Senior Forward Deployed Engineer, Full Stack",
+   "company": "Databricks",
+   "location": "London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8396801002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:55-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 25
+  },
+  {
+   "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+   "company": "Databricks",
+   "location": "Los Angeles, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:53-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 25
+  },
+  {
+   "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+   "company": "Databricks",
+   "location": "Mountain View, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647743002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:59-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 25
+  },
+  {
+   "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+   "company": "Databricks",
+   "location": "New York City, New York",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592942002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:57-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 25
+  },
+  {
+   "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+   "company": "Databricks",
+   "location": "Philadelphia, Pennsylvania",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494148002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:54-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 25
+  },
+  {
+   "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+   "company": "Databricks",
+   "location": "New York City, New York",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:53-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 25
+  },
+  {
+   "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
+   "company": "Databricks",
+   "location": "Austin, Texas",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494137002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:55-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 25
+  },
+  {
    "title": "Machine Learning Engineer, Vision",
    "company": "Sarvam AI",
    "location": "Bengaluru",
@@ -3482,36 +3812,6 @@
    "score": 25
   },
   {
-   "title": "Strategist, Agent Development - Financial Services",
-   "company": "Sierra",
-   "location": "San Francisco, CA",
-   "url": "https://jobs.ashbyhq.com/sierra/2a76bb97-2719-413c-94ad-775553e63abd",
-   "source": "Ashby · Sierra",
-   "posted_at": "2026-07-22T19:37:43.997+00:00",
-   "salary": "$150K – $300K • Offers Equity",
-   "desc": "",
-   "tags": [
-    "Product",
-    "Agent Strategist"
-   ],
-   "score": 25
-  },
-  {
-   "title": "Strategist, Agent Development - Retail",
-   "company": "Sierra",
-   "location": "San Francisco, CA",
-   "url": "https://jobs.ashbyhq.com/sierra/02382d7f-0fb2-4ba3-89af-caf20a448e3a",
-   "source": "Ashby · Sierra",
-   "posted_at": "2026-07-22T19:39:34.563+00:00",
-   "salary": "$150K – $300K • Offers Equity",
-   "desc": "",
-   "tags": [
-    "Product",
-    "Agent Strategist"
-   ],
-   "score": 25
-  },
-  {
    "title": "Data Engineer",
    "company": "Baseten",
    "location": "San Francisco · Remote",
@@ -3527,40 +3827,44 @@
    "score": 25
   },
   {
-   "title": "Staff+ Software Engineer, Safeguards Evals",
-   "company": "Anthropic",
-   "location": "San Francisco, CA | New York City, NY",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5251671008",
-   "source": "Greenhouse · Anthropic",
-   "posted_at": "2026-07-24T07:40:21-04:00",
+   "title": "Growth Marketing Manager, Agent Stack",
+   "company": "Vercel",
+   "location": "Hybrid - San Francisco, New York City, Austin",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6016765004",
+   "source": "Greenhouse · Vercel",
+   "posted_at": "2026-07-22T12:50:03-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
    "score": 24
   },
   {
-   "title": "Lead Adoption Architect - Agent Bricks",
-   "company": "Databricks",
-   "location": "United States",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423972002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:53-04:00",
+   "title": "Senior Sales Engineer - Germany",
+   "company": "zscaler",
+   "location": "",
+   "url": "https://www.arbeitnow.com/jobs/companies/zscaler/senior-sales-engineer-germany-325530",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T02:55:17+00:00",
    "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 24
+   "desc": "<div class=\"content-intro\"><p>About <strong>Zscaler</strong></p> <p>Zscaler accelerates digital transformation to ensure our customers can be more agile, efficient, resilient, and secure. As an <strong>AI-forward enterprise</strong>, we are constantly pushing the envelope, leveraging the world’s largest security data lake to power our cloud-native Zero Trust Exchange platform. This innovation protects our customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location.</p> <p>Here, <strong>impact in your role matters more than title</strong> an",
+   "tags": [
+    "EMEA Field Sales"
+   ],
+   "score": 23
   },
   {
-   "title": "Sr Software Engineer, Agentic Applications",
-   "company": "Databricks",
-   "location": "Mountain View, California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8220814002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:52-04:00",
+   "title": "Senior Backend Engineer - Databases Pyroscope | Germany | Remote",
+   "company": "grafanalabs",
+   "location": "",
+   "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-backend-engineer-databases-pyroscope-germany-remote-178269",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-25T08:55:50+00:00",
    "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 24
+   "desc": "<div class=\"content-intro\"><p>Grafana Labs, the company behind the open observability cloud, is founded on the principles of open source, open standards, open ecosystems, and open culture. Grafana Cloud, our fully managed observability platform, is flexible and built for scale. With Grafana Cloud's actually useful AI, organizations can see, understand, and act on all their disparate data to move at the speed of their ambitions. Today, more than 35 million users and 7,000+ customers – including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce – trust Grafana Labs to ensure reliability of",
+   "tags": [
+    "R&D : Databases"
+   ],
+   "score": 23
   },
   {
    "title": "Machine Learning Engineer, Distributed Data Systems - Robotics",
@@ -3578,19 +3882,16 @@
    "score": 23
   },
   {
-   "title": "Freiberufliche Unterstützung im digitalen Backoffice (m/w/d) - Remote / Homeoffice",
-   "company": "Life and Fit Vital Balance Jennifer Witke",
-   "location": "Bischofsheim in der Rhön · Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/life-and-fit-vital-balance-jennifer-witke/freiberufliche-unterstutzung-im-digitalen-backoffice-remote-homeoffice-bischofsheim-in-der-rhon-414029",
-   "source": "Arbeitnow",
-   "posted_at": "2026-07-23T20:00:26+00:00",
+   "title": "Senior Applied AI Engineer",
+   "company": "Databricks",
+   "location": "Belgrade, Serbia",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:50-04:00",
    "salary": null,
-   "desc": "Life & Fit Vital Balance sucht motivierte Verstärkung für den Bereich Digitales Backoffice . Du arbeitest gerne strukturiert, organisierst digitale Abläufe und möchtest dir deine Arbeitszeit flexibel einteilen? Dann freuen wir uns, dich kennenzulernen. Die Tätigkeit erfolgt auf freiberuflicher Basis und kann vollständig remote im Homeoffice ausgeübt werden. Nach einer umfassenden Einarbeitung übernimmst du eigenständig organisatorische und administrative Aufgaben innerhalb unseres Teams. Aufgaben Unterstützung bei der Organisation und Koordination von digitalen Projekten im Backoffice. Erstell",
-   "tags": [
-    "Remote",
-    "Marketing and Communication"
-   ],
-   "score": 22
+   "desc": "",
+   "tags": [],
+   "score": 23
   },
   {
    "title": "HN: Full-Stack Developer",
@@ -3605,12 +3906,24 @@
    "score": 22
   },
   {
-   "title": "AI Solutions Architect (Pre-sales) - Strategic Accounts",
-   "company": "Databricks",
-   "location": "Amsterdam, Netherlands",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8501390002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:59-04:00",
+   "title": "Manager, Solutions Engineering | NorBen | Remote",
+   "company": "Grafana Labs",
+   "location": "Netherlands (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121600004",
+   "source": "Greenhouse · Grafana Labs",
+   "posted_at": "2026-07-22T12:02:35-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 22
+  },
+  {
+   "title": "Manager, Solutions Engineering | SEMEA | Remote",
+   "company": "Grafana Labs",
+   "location": "Israel (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121609004",
+   "source": "Greenhouse · Grafana Labs",
+   "posted_at": "2026-07-22T12:03:47-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
@@ -3679,6 +3992,18 @@
    "url": "https://job-boards.greenhouse.io/turing/jobs/6007383004",
    "source": "Greenhouse · Turing",
    "posted_at": "2026-07-20T20:30:21-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 21
+  },
+  {
+   "title": "Software Engineer, Storage",
+   "company": "Glean",
+   "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4610281005",
+   "source": "Greenhouse · Glean",
+   "posted_at": "2026-07-24T15:07:27-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
@@ -4015,6 +4340,21 @@
    "score": 21
   },
   {
+   "title": "Strategist, Agent Development - Financial Services",
+   "company": "Sierra",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/sierra/2a76bb97-2719-413c-94ad-775553e63abd",
+   "source": "Ashby · Sierra",
+   "posted_at": "2026-07-22T19:37:43.997+00:00",
+   "salary": "$150K – $300K • Offers Equity",
+   "desc": "",
+   "tags": [
+    "Product",
+    "Agent Strategist"
+   ],
+   "score": 21
+  },
+  {
    "title": "GTM Operations Analyst, Agent Development",
    "company": "Sierra",
    "location": "San Francisco, CA",
@@ -4056,6 +4396,21 @@
    "tags": [
     "Operations",
     "GTM Operations"
+   ],
+   "score": 21
+  },
+  {
+   "title": "Strategist, Agent Development - Retail",
+   "company": "Sierra",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/sierra/02382d7f-0fb2-4ba3-89af-caf20a448e3a",
+   "source": "Ashby · Sierra",
+   "posted_at": "2026-07-22T19:39:34.563+00:00",
+   "salary": "$150K – $300K • Offers Equity",
+   "desc": "",
+   "tags": [
+    "Product",
+    "Agent Strategist"
    ],
    "score": 21
   },
@@ -4105,6 +4460,34 @@
    "score": 21
   },
   {
+   "title": "Technical Product Manager - Soperator",
+   "company": "Nebius",
+   "location": "Amsterdam, Netherlands; Berlin, Czech Republic; Remote - Europe",
+   "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-technical-product-manager-soperator-180146",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:15:50+00:00",
+   "salary": null,
+   "desc": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p> <p>Listed on Nasdaq (NBIS) and headq",
+   "tags": [
+    "Technology Product"
+   ],
+   "score": 20
+  },
+  {
+   "title": "Product Manager - Security",
+   "company": "Nebius",
+   "location": "Amsterdam, Netherlands; Berlin, United Kingdom; Prague, Czech Republic; Remote - Europe",
+   "url": "https://www.arbeitnow.com/jobs/companies/nebius/remote-product-manager-security-423829",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:15:49+00:00",
+   "salary": null,
+   "desc": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p> <p>Listed on Nasdaq (NBIS) and headq",
+   "tags": [
+    "Technology Product"
+   ],
+   "score": 20
+  },
+  {
    "title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
    "company": "Binance",
    "location": "APAC",
@@ -4119,42 +4502,15 @@
    "score": 20
   },
   {
-   "title": "Software Engineer - GenAI inference",
-   "company": "Databricks",
-   "location": "San Francisco, California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:51-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 20
-  },
-  {
    "title": "Sr. Staff Forward Deployed Engineer",
    "company": "Databricks",
    "location": "Singapore",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8555674002",
    "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:01-04:00",
+   "posted_at": "2026-07-27T00:47:53-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
-   "score": 20
-  },
-  {
-   "title": "Member of Technical Staff (AI Software Engineer, Agents)",
-   "company": "Perplexity",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/Perplexity/bfb392f2-086e-4187-b69c-2a231b8c3290",
-   "source": "Ashby · Perplexity",
-   "posted_at": "2026-07-24T21:13:29.167+00:00",
-   "salary": "$220K – $405K • Offers Equity",
-   "desc": "",
-   "tags": [
-    "AI Research & Systems",
-    "AI Research & Systems"
-   ],
    "score": 20
   },
   {
@@ -4180,6 +4536,20 @@
    "desc": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wra",
    "tags": [
     "Software Development"
+   ],
+   "score": 19
+  },
+  {
+   "title": "Sr UX Designer",
+   "company": "beyondtrust",
+   "location": "Hybrid Tel Aviv, Israel",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/beyondtrust/sr-ux-designer-hybrid-tel-aviv-israel-442927",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:16:57+00:00",
+   "salary": null,
+   "desc": "<p>BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio.</p> <p>Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself.<br><br><strong><span data-teams=\"true\">This is a hybrid position (3 days in the Tel Aviv office, 2 days work from home - negotiable)</span></strong></p> <p><u>The Role</u></p",
+   "tags": [
+    "User Experience"
    ],
    "score": 19
   },
@@ -4224,6 +4594,18 @@
    "score": 19
   },
   {
+   "title": "Staff+ Software Engineer, Safeguards Evals",
+   "company": "Anthropic",
+   "location": "San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5251671008",
+   "source": "Greenhouse · Anthropic",
+   "posted_at": "2026-07-24T07:40:21-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 19
+  },
+  {
    "title": "Analytics Engineer, Safety Systems",
    "company": "OpenAI",
    "location": "San Francisco · Remote",
@@ -4251,6 +4633,30 @@
     "Scaling",
     "Datacenter Design"
    ],
+   "score": 19
+  },
+  {
+   "title": "Lead Adoption Architect - Agent Bricks",
+   "company": "Databricks",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423972002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:53-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 19
+  },
+  {
+   "title": "Sr Software Engineer, Agentic Applications",
+   "company": "Databricks",
+   "location": "Mountain View, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8220814002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:52-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
    "score": 19
   },
   {
@@ -4297,48 +4703,6 @@
     "Core Platform"
    ],
    "score": 19
-  },
-  {
-   "title": "Forward Deployed Engineer (AI & Creative Transformation) - Marketing",
-   "company": "Truelogic",
-   "location": "LATAM",
-   "url": "https://jobicy.com/jobs/149184-forward-deployed-engineer-ai-creative-transformation-marketing",
-   "source": "Jobicy",
-   "posted_at": "2026-07-12T03:12:02+00:00",
-   "salary": null,
-   "desc": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin…",
-   "tags": [
-    "Software Engineering"
-   ],
-   "score": 18
-  },
-  {
-   "title": "Forward Deployed Engineer (AI & Business Transformation) – Technology & Creative Network",
-   "company": "Truelogic",
-   "location": "LATAM",
-   "url": "https://jobicy.com/jobs/149183-forward-deployed-engineer-ai-business-transformation-technology-creative-network",
-   "source": "Jobicy",
-   "posted_at": "2026-07-12T03:12:01+00:00",
-   "salary": null,
-   "desc": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin…",
-   "tags": [
-    "Software Engineering"
-   ],
-   "score": 18
-  },
-  {
-   "title": "Forward Deployed Expert - Agency",
-   "company": "Truelogic",
-   "location": "LATAM",
-   "url": "https://jobicy.com/jobs/149179-forward-deployed-expert-agency",
-   "source": "Jobicy",
-   "posted_at": "2026-07-12T03:11:55+00:00",
-   "salary": null,
-   "desc": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin…",
-   "tags": [
-    "Business Development"
-   ],
-   "score": 18
   },
   {
    "title": "HN: Weave Bio",
@@ -4426,6 +4790,18 @@
    "score": 17
   },
   {
+   "title": "AI Solutions Architect (Pre-sales) - Strategic Accounts",
+   "company": "Databricks",
+   "location": "Amsterdam, Netherlands",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8501390002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:59-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 17
+  },
+  {
    "title": "Staff Data Engineer",
    "company": "Sarvam AI",
    "location": "Bengaluru",
@@ -4451,26 +4827,6 @@
    "desc": "",
    "tags": [],
    "score": 17
-  },
-  {
-   "title": "Machine Learning Engineer",
-   "company": "Hire Hangar",
-   "location": "Argentina, Belize, Colombia, Dominican Republic, Honduras, Mexico, Nicaragua, Panama, Peru",
-   "url": "https://himalayas.app/companies/hire-hangar/jobs/machine-learning-engineer-8947244169",
-   "source": "Himalayas",
-   "posted_at": "2026-07-26T03:07:12+00:00",
-   "salary": "USD 2k–4k",
-   "desc": "Join Hire Hangar and work with fast-growing global companies while building a long-term career.",
-   "tags": [
-    "Machine-Learning-Engineer",
-    "AI-Machine-Learning-Engineer",
-    "Machine-Learning-Engineer-Jobs",
-    "ML-AI-Engineer",
-    "Machine-Learning-Engineering-Jobs",
-    "Applied-Machine-Learning-Engineer",
-    "AI-ML-Engineer"
-   ],
-   "score": 16
   },
   {
    "title": "HN: CoreConnect",
@@ -4500,6 +4856,76 @@
    "score": 16
   },
   {
+   "title": "Enterprise Account Executive, EMEA",
+   "company": "cresta",
+   "location": "",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/cresta/enterprise-account-executive-emea-125403",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:17:09+00:00",
+   "salary": null,
+   "desc": "<div class=\"content-intro\"><p>Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to power world-class customer experiences every day.&nbsp;</p> <p>Born from the Stanford AI Lab, Cresta has raised more than $270 million from t",
+   "tags": [
+    "Sales"
+   ],
+   "score": 15
+  },
+  {
+   "title": "Enterprise Account Executive II",
+   "company": "sumologic",
+   "location": "",
+   "url": "https://www.arbeitnow.com/jobs/companies/sumologic/enterprise-account-executive-ii-273336",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-25T23:55:42+00:00",
+   "salary": null,
+   "desc": "<p>We are looking for a seasoned Enterprise Sales Executive to reinforce our leadership in the SaaS machine data analytics space. As an Enterprise Sales Executive, you will be a key member of our sales organization, responsible for driving revenues within your assigned territory. We’re looking for software sales executives who have deep experience opening mid and large enterprise accounts. We seek individuals who are driven to be a top performer in sales, helping make Sumo Logic the next big machine data analytics success.</p> <p><strong>What will you be doing?</strong></p> <ul> <li>Manage the",
+   "tags": [
+    "Enterprise Sales"
+   ],
+   "score": 15
+  },
+  {
+   "title": "Enterprise Account Executive",
+   "company": "Coveoen",
+   "location": "",
+   "url": "https://www.arbeitnow.com/jobs/companies/coveoen/enterprise-account-executive-49124",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T02:56:12+00:00",
+   "salary": null,
+   "desc": "<h2>Sell transformative AI solutions to some of the most innovative enterprises in EMEA.</h2> <p data-start=\"351\" data-end=\"545\">Are you passionate about the transformative power of artificial intelligence (AI)? Join Coveo and help bring cutting-edge AI solutions to leading enterprise organizations across the EMEA market.</p> <p data-start=\"547\" data-end=\"806\">At Coveo, we build AI-powered solutions that deliver hyper-relevant and personalized digital experiences. Our platform combines enterprise AI and generative AI to help businesses drive profitability while creating meaningful customer and",
+   "tags": [
+    "Enterprise & Commercial Sales"
+   ],
+   "score": 15
+  },
+  {
+   "title": "Forward Deployed Engineer (AI & Creative Transformation) - Marketing",
+   "company": "Truelogic",
+   "location": "LATAM",
+   "url": "https://jobicy.com/jobs/149184-forward-deployed-engineer-ai-creative-transformation-marketing",
+   "source": "Jobicy",
+   "posted_at": "2026-07-12T03:12:02+00:00",
+   "salary": null,
+   "desc": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin…",
+   "tags": [
+    "Software Engineering"
+   ],
+   "score": 15
+  },
+  {
+   "title": "Forward Deployed Engineer (AI & Business Transformation) – Technology & Creative Network",
+   "company": "Truelogic",
+   "location": "LATAM",
+   "url": "https://jobicy.com/jobs/149183-forward-deployed-engineer-ai-business-transformation-technology-creative-network",
+   "source": "Jobicy",
+   "posted_at": "2026-07-12T03:12:01+00:00",
+   "salary": null,
+   "desc": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin…",
+   "tags": [
+    "Software Engineering"
+   ],
+   "score": 15
+  },
+  {
    "title": "Senior Product Scientist, Agentic Growth & Marketing",
    "company": "Headspace",
    "location": "USA",
@@ -4514,16 +4940,16 @@
    "score": 15
   },
   {
-   "title": "Medicare Sales Field Agent - Montgomery, AL",
-   "company": "Humana",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/147012-medicare-sales-field-agent-montgomery-al",
+   "title": "Forward Deployed Expert - Agency",
+   "company": "Truelogic",
+   "location": "LATAM",
+   "url": "https://jobicy.com/jobs/149179-forward-deployed-expert-agency",
    "source": "Jobicy",
-   "posted_at": "2026-07-18T19:00:03+00:00",
+   "posted_at": "2026-07-12T03:11:55+00:00",
    "salary": null,
-   "desc": "Become a part of our caring community With over 10 million sales interactions annually, Humana understands that while great products are important, it’s the quality of our service that truly defines us. We know that when our members and prospects have delightful and memorable experiences, it strengthens their connection with us and enables us to put…",
+   "desc": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin…",
    "tags": [
-    "Sales"
+    "Business Development"
    ],
    "score": 15
   },
@@ -4669,6 +5095,18 @@
    "score": 15
   },
   {
+   "title": "Software Engineer - GenAI inference",
+   "company": "Databricks",
+   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002",
+   "source": "Greenhouse · Databricks",
+   "posted_at": "2026-07-24T19:28:51-04:00",
+   "salary": null,
+   "desc": "",
+   "tags": [],
+   "score": 15
+  },
+  {
    "title": "Senior Forward Deployed Engineer",
    "company": "Postman",
    "location": "San Francisco, California, United States",
@@ -4693,6 +5131,21 @@
    "score": 15
   },
   {
+   "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+   "company": "Perplexity",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/Perplexity/bfb392f2-086e-4187-b69c-2a231b8c3290",
+   "source": "Ashby · Perplexity",
+   "posted_at": "2026-07-24T21:13:29.167+00:00",
+   "salary": "$220K – $405K • Offers Equity",
+   "desc": "",
+   "tags": [
+    "AI Research & Systems",
+    "AI Research & Systems"
+   ],
+   "score": 15
+  },
+  {
    "title": "People Partner, Agent Development",
    "company": "Sierra",
    "location": "San Francisco, CA",
@@ -4704,36 +5157,6 @@
    "tags": [
     "Operations",
     "HR"
-   ],
-   "score": 15
-  },
-  {
-   "title": "Software Engineer, Agent (Dutch speaking)",
-   "company": "Sierra",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/sierra/ae8840cd-f46e-4c96-87b1-53fedf40f94d",
-   "source": "Ashby · Sierra",
-   "posted_at": "2026-06-10T21:12:57.089+00:00",
-   "salary": "£150K – £315K • Offers Equity",
-   "desc": "",
-   "tags": [
-    "Engineering",
-    "Agent Engineering"
-   ],
-   "score": 15
-  },
-  {
-   "title": "Strategist, Agent Development (Dutch speaking)",
-   "company": "Sierra",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/sierra/611a6f2c-b6f8-4dfd-9ae8-4b0b986ac258",
-   "source": "Ashby · Sierra",
-   "posted_at": "2026-06-10T21:13:21.753+00:00",
-   "salary": "£125K – £245K • Offers Equity",
-   "desc": "",
-   "tags": [
-    "Product",
-    "Agent Strategist"
    ],
    "score": 15
   },
@@ -4861,258 +5284,6 @@
    "score": 14
   },
   {
-   "title": "Pre-sales Senior Technical Solutions Engineer (AI/ML - Digital Native Business) x2",
-   "company": "Databricks",
-   "location": "London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8613435002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:05-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Pre-sales Senior Technical Solutions Engineer (Data and AI)",
-   "company": "Databricks",
-   "location": "London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614459002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:05-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Pre-sales Senior Technical Solutions Engineer (Data and AI) x4",
-   "company": "Databricks",
-   "location": "London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8406090002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:55-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Senior Solutions Engineer",
-   "company": "Databricks",
-   "location": "Denmark",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8239195002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:52-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Senior Specialist Solutions Engineer (AI/ML)",
-   "company": "Databricks",
-   "location": "London, United Kingdom",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8600818002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:04-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Senior Technical Solutions Engineer (Platform)",
-   "company": "Databricks",
-   "location": "Tokyo, Japan",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8351765002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:53-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Sr. Solutions Engineer",
-   "company": "Databricks",
-   "location": "Mexico City",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8606312002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:04-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Sr. Solutions Engineer - FSI",
-   "company": "Databricks",
-   "location": "Toronto, Canada",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569631002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:02-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Sr. Solutions Engineer (Indonesia)",
-   "company": "Databricks",
-   "location": "Singapore",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8623640002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:05-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Sr. Solutions Engineer - MFG",
-   "company": "Databricks",
-   "location": "Boston, Massachusetts",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8417654002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:55-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Sr. Solutions Engineer (Pre-sales) - Kansai Region",
-   "company": "Databricks",
-   "location": "Japan",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8437030002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:57-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Sr. Solutions Engineer - Public Sector (Defense Industrial Base)",
-   "company": "Databricks",
-   "location": "McLean, Virginia; Washington, D.C.",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8584983002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:03-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Sr. Solutions Engineer - Public Sector (DoW - 4th Estate)",
-   "company": "Databricks",
-   "location": "Maryland; Virginia; Washington, D.C.",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8415025002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:55-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Sr. Solutions Engineer, Retail - CPG",
-   "company": "Databricks",
-   "location": "Illinois",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7507778002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:44-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Sr. Staff Fullstack Engineer, Agentic Applications",
-   "company": "Databricks",
-   "location": "Mountain View, California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8220902002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:52-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Sr Technical Solutions Engineering",
-   "company": "Databricks",
-   "location": "McLean, Virginia",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8589172002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:44-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Staff Fullstack Engineer, Agentic Applications",
-   "company": "Databricks",
-   "location": "Mountain View, California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8220840002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:52-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Staff Research Engineer, Data Agents",
-   "company": "Databricks",
-   "location": "San Francisco, California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604954002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:04-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Staff Software Engineer, Agentic Applications",
-   "company": "Databricks",
-   "location": "Mountain View, California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635182002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:06-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Staff Software Engineer - Agent Quality",
-   "company": "Databricks",
-   "location": "New York City, New York",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8532681002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:47-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
-   "title": "Director of Forward Deployed Engineering",
-   "company": "Vercel",
-   "location": "Hybrid - San Francisco, New York City, Austin",
-   "url": "https://job-boards.greenhouse.io/vercel/jobs/6120051004",
-   "source": "Greenhouse · Vercel",
-   "posted_at": "2026-07-22T12:50:03-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 14
-  },
-  {
    "title": "Senior AI Engineer",
    "company": "Lemon.io",
    "location": "Northern America, LATAM, Europe, APAC",
@@ -5123,6 +5294,20 @@
    "desc": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working",
    "tags": [
     "Artificial Intelligence"
+   ],
+   "score": 13
+  },
+  {
+   "title": "Principal Solutions Architect",
+   "company": "Nebius",
+   "location": "",
+   "url": "https://www.arbeitnow.com/jobs/companies/nebius/principal-solutions-architect-221626",
+   "source": "Arbeitnow",
+   "posted_at": "2026-07-27T03:15:49+00:00",
+   "salary": null,
+   "desc": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI.</p> <p>Listed on Nasdaq (NBIS) and headq",
+   "tags": [
+    "Solutions Architecture"
    ],
    "score": 13
   },
@@ -5192,21 +5377,6 @@
    "score": 13
   },
   {
-   "title": "Senior Consultant Azure Data Engineer (m/w/d)",
-   "company": "Kubidat GmbH",
-   "location": "Mannheim",
-   "url": "https://www.arbeitnow.com/jobs/companies/kubidat-gmbh/senior-consultant-azure-data-engineer-mannheim-157148",
-   "source": "Arbeitnow",
-   "posted_at": "2026-07-24T18:00:30+00:00",
-   "salary": null,
-   "desc": "Als Senior Consultant Azure Data Engineer unterstützt du ein strategisches Daten- und Reporting-Transformationsvorhabens mit Zielplattform Microsoft-Fabric. Der Fokus liegt auf der technischen Konzeption und Implementierung von Microsoft Fabric, beginnend mit PoC- und Pilot-Szenarien für ein gemeinsames Reporting aus SAS 9.4 und SAP BW mittels Power BI. Ziel ist es, die interne IT zu befähigen, die Plattform mittel- bis langfristig eigenständig weiterzuentwickeln und zu betreiben sowie eine fundierte Entscheidungsgrundlage für die Ablösung bestehender DWH-Plattformen zu schaffen. Aufgaben Zu D",
-   "tags": [
-    "Consulting",
-    "Engineering"
-   ],
-   "score": 12
-  },
-  {
    "title": "Canada- Sr Application Engineer (Salesforce-Agentforce Ai)",
    "company": "PointClickCare",
    "location": "Canada",
@@ -5221,6 +5391,20 @@
    "score": 12
   },
   {
+   "title": "Medicare Sales Field Agent - Montgomery, AL",
+   "company": "Humana",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/147012-medicare-sales-field-agent-montgomery-al",
+   "source": "Jobicy",
+   "posted_at": "2026-07-18T19:00:03+00:00",
+   "salary": null,
+   "desc": "Become a part of our caring community With over 10 million sales interactions annually, Humana understands that while great products are important, it’s the quality of our service that truly defines us. We know that when our members and prospects have delightful and memorable experiences, it strengthens their connection with us and enables us to put…",
+   "tags": [
+    "Sales"
+   ],
+   "score": 12
+  },
+  {
    "title": "HN: Catalyst·Wayfare AI",
    "company": "",
    "location": "see post",
@@ -5229,30 +5413,6 @@
    "posted_at": "2026-07-08T16:24:22Z",
    "salary": null,
    "desc": "Catalyst·Wayfare AI | Lead AI Engineer + Agent Builders | Remote (US) | Full-time + Contract | https://www.catalystwayfare.ai/careers We build and ship production AI systems for mid-market enterprises in regulated and technical domains — finance, energy, industrials, healthcare. We do not stop at PowerPoint AI strategy. We ship working systems alongside our clients' engineering teams. Small teams, deep expertise, real autonomy on real work. Hiring: [1] Lead AI Engineer, Agentic Systems — Technical lead for multi-agent systems embedded in core workflows of engineering-savvy clients. Architect t",
-   "tags": [],
-   "score": 12
-  },
-  {
-   "title": "Specialist Solutions Architect - Data Engineering & Warehousing",
-   "company": "Databricks",
-   "location": "United States",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8570023002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:03-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 12
-  },
-  {
-   "title": "Sr. Specialist Solutions Architect - Data Engineering & Warehousing",
-   "company": "Databricks",
-   "location": "United States",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568122002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:02-04:00",
-   "salary": null,
-   "desc": "",
    "tags": [],
    "score": 12
   },
@@ -5354,32 +5514,6 @@
    "score": 11
   },
   {
-   "title": "Senior Director, Solutions Engineering | Americas | Remote",
-   "company": "Grafana Labs",
-   "location": "United States (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6126959004",
-   "source": "Greenhouse · Grafana Labs",
-   "posted_at": "2026-07-24T17:21:07-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 11
-  },
-  {
-   "title": "(Senior) Machine Learning Engineer, Robot Learning (m/f/d)",
-   "company": "Batch Robotics GmbH",
-   "location": "Munich",
-   "url": "https://www.arbeitnow.com/jobs/companies/batch-robotics-gmbh/senior-machine-learning-engineer-robot-learning-munich-424832",
-   "source": "Arbeitnow",
-   "posted_at": "2026-07-24T15:30:43+00:00",
-   "salary": null,
-   "desc": "Batch Robotics is revolutionizing how robots operate in factories — not through rigid programming or teaching by human demonstration, but with smart perception and AI intelligence. We are a team of 4 motivated people with +25 years of experience in industry and robotics. Our mission is to make robots smarter and more flexible, enabling batch-size-1 automation for surface treatment economically. Our technology helps factories in Europe to remain competitive with intelligent robotics. We are now looking for a Senior Machine Learning Engineer with technical excellence and entrepreneurial drive to",
-   "tags": [
-    "Software Development"
-   ],
-   "score": 10
-  },
-  {
    "title": "Applied Data Scientist / Machine Learning Engineer (Decision Intelligence)",
    "company": "WorkWave",
    "location": "USA",
@@ -5390,43 +5524,6 @@
    "desc": "We are looking for a product-minded Applied Data Scientist or Machine Learning Engineer to help build, ship, and scale ML-powered products that directly improve how our customers make decisions, operate their businesses, and serve their own users.This is not a research-only role, nor is it a service-oriented internal analytics position. We want someone who has…",
    "tags": [
     "Data Science &amp; Analytics"
-   ],
-   "score": 10
-  },
-  {
-   "title": "Machine Learning Engineer",
-   "company": "ManTech",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/144376-machine-learning-engineer-3",
-   "source": "Jobicy",
-   "posted_at": "2026-07-24T10:30:09+00:00",
-   "salary": null,
-   "desc": "General information Requisition # R67616 Locations USA-Remote Work Posting Date 05/19/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description & Requirements Elevate your career with MANTECH International Corporation! Join a dynamic team dedicated to national security through cutting-edge technology. Since 1968, MANTECH has led in delivering advanced solutions to government…",
-   "tags": [
-    "Software Engineering"
-   ],
-   "score": 10
-  },
-  {
-   "title": "Senior Machine Learning Engineer | Remota - 134420 (Alphaville - Barueri, BR, 06",
-   "company": "gft",
-   "location": "Brazil",
-   "url": "https://himalayas.app/companies/gft/jobs/senior-machine-learning-engineer-remota-134420-alphaville-barueri-br-06",
-   "source": "Himalayas",
-   "posted_at": "2026-07-26T03:15:11+00:00",
-   "salary": null,
-   "desc": "O que buscamos:Profissional com experiência em Inteligência Artificial e Machine Learning para atuar no desenvolvimento e sustentação de soluções escaláveis em produção, com foco em IA Generativa, Agentic AI, MLOps e construção de serviços de alta performance.",
-   "tags": [
-    "Machine-Learning-Engineering",
-    "AI-Engineering",
-    "Generative-AI-Development",
-    "MLOps-Engineering",
-    "Senior-ML-Engineer",
-    "Remote-Senior-AI-Engineer",
-    "Senior-AI-ML-Engineer",
-    "Sr.-Staff-Machine-Learning-Engineer",
-    "Senior-Staff-Machine-Learning-Engineer",
-    "Senior-Applied-ML-Engineer"
    ],
    "score": 10
   },
@@ -5473,40 +5570,30 @@
    "score": 10
   },
   {
-   "title": "Field Technical Program Manager, Forward Deployed Engineering - LATAM",
-   "company": "Databricks",
-   "location": "Sao Paulo, Brazil",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423289002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:55-04:00",
+   "title": "Director of Forward Deployed Engineering",
+   "company": "Vercel",
+   "location": "Hybrid - San Francisco, New York City, Austin",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6120051004",
+   "source": "Greenhouse · Vercel",
+   "posted_at": "2026-07-22T12:50:03-04:00",
    "salary": null,
    "desc": "",
    "tags": [],
    "score": 10
   },
   {
-   "title": "Manager, Forward Deployed Engineering",
-   "company": "Databricks",
-   "location": "Sydney, Australia",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8445817002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:28:57-04:00",
+   "title": "Senior Software Engineer, Backend (AI Agent Integrations)",
+   "company": "Cresta",
+   "location": "Canada",
+   "url": "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations",
+   "source": "Jobicy",
+   "posted_at": "2026-07-10T14:23:09+00:00",
    "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 10
-  },
-  {
-   "title": "Manager, Forward Deployed Engineering - Public Sector",
-   "company": "Databricks",
-   "location": "Maryland; Virginia; Washington, D.C.",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8629163002",
-   "source": "Greenhouse · Databricks",
-   "posted_at": "2026-07-24T19:29:06-04:00",
-   "salary": null,
-   "desc": "",
-   "tags": [],
-   "score": 10
+   "desc": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to…",
+   "tags": [
+    "Software Engineering"
+   ],
+   "score": 9
   }
  ]
 }
