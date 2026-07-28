@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-07-27T06:05:34.223841+00:00",
+ "fetched_at": "2026-07-28T05:32:15.175844+00:00",
  "count": 36,
  "competitions": [
   {
@@ -9,7 +9,7 @@
    "prize": "$ 2,000,000",
    "deadline": "Aug 17, 2026",
    "domain": "Machine Learning/AI, Education, Productivity",
-   "participants": 22283,
+   "participants": 22478,
    "location": "Online",
    "prize_value": 2000000
   },
@@ -64,7 +64,7 @@
    "prize": "$ 32,585",
    "deadline": "Sep 05, 2026",
    "domain": "IoT, Machine Learning/AI, Beginner Friendly",
-   "participants": 955,
+   "participants": 962,
    "location": "Online",
    "prize_value": 32585
   },
@@ -75,7 +75,7 @@
    "prize": "$ 20,500",
    "deadline": "Aug 10, 2026",
    "domain": "Machine Learning/AI, DevOps, Open Ended",
-   "participants": 1987,
+   "participants": 2057,
    "location": "Online",
    "prize_value": 20500
   },
@@ -86,7 +86,7 @@
    "prize": "$ 16,500",
    "deadline": "Aug 25, 2026",
    "domain": "Machine Learning/AI, Productivity",
-   "participants": 1183,
+   "participants": 1198,
    "location": "Online",
    "prize_value": 16500
   },
@@ -97,9 +97,20 @@
    "prize": "$ 10,300",
    "deadline": "Jul 31, 2026",
    "domain": "Beginner Friendly, Low/No Code, Machine Learning/AI",
-   "participants": 418,
+   "participants": 434,
    "location": "Online",
    "prize_value": 10300
+  },
+  {
+   "title": "Agentic Cinema: The Blockbuster Hackathon",
+   "platform": "Devpost",
+   "url": "https://agentic-cinema.devpost.com/",
+   "prize": "$ 10,000",
+   "deadline": "Sep 07, 2026",
+   "domain": "Databases, Machine Learning/AI, Open Ended",
+   "participants": 1362,
+   "location": "Online",
+   "prize_value": 10000
   },
   {
    "title": "Backblaze Generative Media Hackathon: Build with Genblaze on B2",
@@ -108,7 +119,7 @@
    "prize": "$ 10,000",
    "deadline": "Aug 03, 2026",
    "domain": "Machine Learning/AI, Music/Art, Voice skills",
-   "participants": 1101,
+   "participants": 1131,
    "location": "Online",
    "prize_value": 10000
   },
@@ -119,7 +130,7 @@
    "prize": "$ 10,000",
    "deadline": "Sep 14, 2026",
    "domain": "Communication, Enterprise, Machine Learning/AI",
-   "participants": 338,
+   "participants": 384,
    "location": "Online",
    "prize_value": 10000
   },
@@ -130,19 +141,8 @@
    "prize": "$ 10,000",
    "deadline": "Jul 31, 2026",
    "domain": "Databases, DevOps, Mobile",
-   "participants": 415,
+   "participants": 428,
    "location": "ICPAC",
-   "prize_value": 10000
-  },
-  {
-   "title": "Code Carnage",
-   "platform": "Devpost",
-   "url": "https://code-carnage.devpost.com/",
-   "prize": "$ 10,000",
-   "deadline": "Aug 18, 2026",
-   "domain": "Beginner Friendly, Education, Machine Learning/AI",
-   "participants": 340,
-   "location": "Online",
    "prize_value": 10000
   },
   {
@@ -152,7 +152,7 @@
    "prize": "₹800,000",
    "deadline": "2026-08-06",
    "domain": "All",
-   "participants": 2013,
+   "participants": 2443,
    "location": "India",
    "prize_value": 9411
   },
@@ -163,7 +163,7 @@
    "prize": "$ 8,750",
    "deadline": "Aug 18, 2026",
    "domain": "Machine Learning/AI, Databases, DevOps",
-   "participants": 2385,
+   "participants": 2476,
    "location": "Online",
    "prize_value": 8750
   },
@@ -174,7 +174,7 @@
    "prize": "$ 8,176",
    "deadline": "Jul 31, 2026",
    "domain": "Beginner Friendly, Education, Open Ended",
-   "participants": 275,
+   "participants": 301,
    "location": "Online",
    "prize_value": 8176
   },
@@ -185,7 +185,7 @@
    "prize": "$ 8,000",
    "deadline": "Aug 14, 2026",
    "domain": "Machine Learning/AI",
-   "participants": 1833,
+   "participants": 1860,
    "location": "Online",
    "prize_value": 8000
   },
@@ -196,7 +196,7 @@
    "prize": "$ 6,000",
    "deadline": "Aug 17, 2026",
    "domain": "Machine Learning/AI, AR/VR, E-commerce/Retail",
-   "participants": 786,
+   "participants": 802,
    "location": "Online",
    "prize_value": 6000
   },
@@ -218,9 +218,31 @@
    "prize": "$ 1,500",
    "deadline": "Jul 30, 2026",
    "domain": "Beginner Friendly, Design, Machine Learning/AI",
-   "participants": 737,
+   "participants": 799,
    "location": "Online",
    "prize_value": 1500
+  },
+  {
+   "title": "Techfusion Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/techfusion-hackathon-malla-reddy-mr-deemed-university-1726419",
+   "prize": "₹120,000",
+   "deadline": "2026-08-21",
+   "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
+   "participants": 2,
+   "location": "India",
+   "prize_value": 1411
+  },
+  {
+   "title": "Open Innovation  Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/open-innovation-hackathon-hakitxmrdu-malla-reddy-deemed-to-be-university-1725253",
+   "prize": "₹120,000",
+   "deadline": "2026-08-21",
+   "domain": "All",
+   "participants": 3,
+   "location": "India",
+   "prize_value": 1411
   },
   {
    "title": "ML Empowerment Build Challenge 2.0",
@@ -229,7 +251,7 @@
    "prize": "$ 1,000",
    "deadline": "Aug 15, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 648,
+   "participants": 663,
    "location": "Online",
    "prize_value": 1000
   },
@@ -240,7 +262,7 @@
    "prize": "$ 1,000",
    "deadline": "Aug 20, 2026",
    "domain": "Databases, Fintech, Quantum",
-   "participants": 476,
+   "participants": 494,
    "location": "Online",
    "prize_value": 1000
   },
@@ -251,7 +273,7 @@
    "prize": "$ 550",
    "deadline": "Aug 09, 2026",
    "domain": "AR/VR, Blockchain, Communication",
-   "participants": 480,
+   "participants": 487,
    "location": "Online",
    "prize_value": 550
   },
@@ -262,7 +284,7 @@
    "prize": "$ 500",
    "deadline": "Aug 16, 2026",
    "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 585,
+   "participants": 628,
    "location": "Online",
    "prize_value": 500
   },
@@ -273,7 +295,7 @@
    "prize": "$ 500",
    "deadline": "Jul 29, 2026",
    "domain": "Education, Productivity, Web",
-   "participants": 307,
+   "participants": 314,
    "location": "Online",
    "prize_value": 500
   },
@@ -284,7 +306,7 @@
    "prize": "₹22,000",
    "deadline": "2026-08-16",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 569,
+   "participants": 624,
    "location": "India",
    "prize_value": 258
   },
@@ -295,7 +317,7 @@
    "prize": "$ 150",
    "deadline": "Aug 24, 2026",
    "domain": "Machine Learning/AI, Social Good, Web",
-   "participants": 312,
+   "participants": 318,
    "location": "Online",
    "prize_value": 150
   },
@@ -306,7 +328,7 @@
    "prize": "₹10,000",
    "deadline": "2026-08-14",
    "domain": "All",
-   "participants": 433,
+   "participants": 872,
    "location": "India",
    "prize_value": 117
   },
@@ -317,7 +339,7 @@
    "prize": "₹6,000",
    "deadline": "2026-08-03",
    "domain": "All",
-   "participants": 210,
+   "participants": 244,
    "location": "India",
    "prize_value": 70
   },
@@ -328,7 +350,7 @@
    "prize": "$ 55",
    "deadline": "Jul 31, 2026",
    "domain": "Design, Web, Beginner Friendly",
-   "participants": 752,
+   "participants": 775,
    "location": "Online",
    "prize_value": 55
   },
@@ -339,18 +361,7 @@
    "prize": "₹3,000",
    "deadline": "2026-08-21",
    "domain": "All",
-   "participants": 228,
-   "location": "India",
-   "prize_value": 35
-  },
-  {
-   "title": "MemoryVerse AI '26",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/memoryverse-ai-26-wooble-1720010",
-   "prize": "₹3,000",
-   "deadline": "2026-07-31",
-   "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 1722,
+   "participants": 294,
    "location": "India",
    "prize_value": 35
   },
@@ -361,7 +372,7 @@
    "prize": "₹1,700",
    "deadline": "2026-08-07",
    "domain": "All",
-   "participants": 380,
+   "participants": 482,
    "location": "India",
    "prize_value": 20
   },
@@ -372,20 +383,9 @@
    "prize": "₹1,750",
    "deadline": "2026-08-09",
    "domain": "All",
-   "participants": 924,
+   "participants": 1097,
    "location": "India",
    "prize_value": 20
-  },
-  {
-   "title": "Girls In STEM Global Hackathon",
-   "platform": "Devpost",
-   "url": "https://girlsinstemhackathon.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Aug 05, 2026",
-   "domain": "Beginner Friendly, Low/No Code, Social Good",
-   "participants": 276,
-   "location": "Online",
-   "prize_value": 0
   },
   {
    "title": "Archestra MCP Apps Hackathon",
