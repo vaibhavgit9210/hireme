@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-08-01T05:41:31.254476+00:00",
- "count": 38,
+ "fetched_at": "2026-08-02T05:42:01.585351+00:00",
+ "count": 39,
  "competitions": [
   {
    "title": "Build with Gemini XPRIZE",
@@ -9,7 +9,7 @@
    "prize": "$ 2,000,000",
    "deadline": "Aug 17, 2026",
    "domain": "Machine Learning/AI, Education, Productivity",
-   "participants": 23310,
+   "participants": 23463,
    "location": "Online",
    "prize_value": 2000000
   },
@@ -23,6 +23,17 @@
    "location": "Online",
    "note": "seed: Kaggle API needs auth; check page for exact split",
    "prize_value": 1000000
+  },
+  {
+   "title": "Reverie Hacks 2026",
+   "platform": "Devpost",
+   "url": "https://reverie-hacks-2026.devpost.com/",
+   "prize": "$ 166,770",
+   "deadline": "Aug 17, 2026",
+   "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
+   "participants": 466,
+   "location": "Online",
+   "prize_value": 166770
   },
   {
    "title": "ARC White-Box Estimation Challenge 2026 (Alignment Research Center)",
@@ -42,7 +53,7 @@
    "prize": "$ 75,000",
    "deadline": "Sep 07, 2026",
    "domain": "Databases, Machine Learning/AI, Open Ended",
-   "participants": 2430,
+   "participants": 2607,
    "location": "Online",
    "prize_value": 75000
   },
@@ -75,7 +86,7 @@
    "prize": "$ 32,785",
    "deadline": "Sep 05, 2026",
    "domain": "IoT, Machine Learning/AI, Beginner Friendly",
-   "participants": 1039,
+   "participants": 1052,
    "location": "Online",
    "prize_value": 32785
   },
@@ -86,7 +97,7 @@
    "prize": "₹2,588,000",
    "deadline": "2026-08-16",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 433,
+   "participants": 493,
    "location": "India",
    "prize_value": 30447
   },
@@ -97,7 +108,7 @@
    "prize": "$ 20,500",
    "deadline": "Aug 10, 2026",
    "domain": "Machine Learning/AI, DevOps, Open Ended",
-   "participants": 2359,
+   "participants": 2404,
    "location": "Online",
    "prize_value": 20500
   },
@@ -108,7 +119,7 @@
    "prize": "$ 17,500",
    "deadline": "Sep 18, 2026",
    "domain": "Design, Social Good, Databases",
-   "participants": 249,
+   "participants": 253,
    "location": "Online",
    "prize_value": 17500
   },
@@ -119,7 +130,7 @@
    "prize": "$ 16,500",
    "deadline": "Aug 25, 2026",
    "domain": "Machine Learning/AI, Productivity",
-   "participants": 1327,
+   "participants": 1354,
    "location": "Online",
    "prize_value": 16500
   },
@@ -130,7 +141,7 @@
    "prize": "$ 10,000",
    "deadline": "Sep 14, 2026",
    "domain": "Communication, Enterprise, Machine Learning/AI",
-   "participants": 1082,
+   "participants": 1381,
    "location": "Online",
    "prize_value": 10000
   },
@@ -141,7 +152,7 @@
    "prize": "$ 10,000",
    "deadline": "Aug 03, 2026",
    "domain": "Machine Learning/AI, Music/Art, Voice skills",
-   "participants": 1221,
+   "participants": 1249,
    "location": "Online",
    "prize_value": 10000
   },
@@ -152,7 +163,7 @@
    "prize": "₹800,000",
    "deadline": "2026-08-06",
    "domain": "All",
-   "participants": 3948,
+   "participants": 4216,
    "location": "India",
    "prize_value": 9411
   },
@@ -163,7 +174,7 @@
    "prize": "$ 8,750",
    "deadline": "Aug 18, 2026",
    "domain": "Machine Learning/AI, Databases, DevOps",
-   "participants": 2705,
+   "participants": 2750,
    "location": "Online",
    "prize_value": 8750
   },
@@ -174,7 +185,7 @@
    "prize": "$ 8,000",
    "deadline": "Aug 14, 2026",
    "domain": "Machine Learning/AI",
-   "participants": 2009,
+   "participants": 2040,
    "location": "Online",
    "prize_value": 8000
   },
@@ -185,7 +196,7 @@
    "prize": "$ 6,000",
    "deadline": "Aug 17, 2026",
    "domain": "Machine Learning/AI, AR/VR, E-commerce/Retail",
-   "participants": 910,
+   "participants": 931,
    "location": "Online",
    "prize_value": 6000
   },
@@ -207,7 +218,7 @@
    "prize": "$ 2,600",
    "deadline": "Aug 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 271,
+   "participants": 277,
    "location": "Online",
    "prize_value": 2600
   },
@@ -218,7 +229,7 @@
    "prize": "₹120,000",
    "deadline": "2026-08-21",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 31,
+   "participants": 33,
    "location": "India",
    "prize_value": 1411
   },
@@ -229,7 +240,7 @@
    "prize": "₹120,000",
    "deadline": "2026-08-21",
    "domain": "All",
-   "participants": 47,
+   "participants": 52,
    "location": "India",
    "prize_value": 1411
   },
@@ -240,7 +251,7 @@
    "prize": "₹100,000",
    "deadline": "2026-08-19",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 82,
+   "participants": 86,
    "location": "India",
    "prize_value": 1176
   },
@@ -251,7 +262,7 @@
    "prize": "$ 1,000",
    "deadline": "Aug 15, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 787,
+   "participants": 811,
    "location": "Online",
    "prize_value": 1000
   },
@@ -262,7 +273,7 @@
    "prize": "$ 1,000",
    "deadline": "Aug 20, 2026",
    "domain": "Databases, Fintech, Quantum",
-   "participants": 557,
+   "participants": 572,
    "location": "Online",
    "prize_value": 1000
   },
@@ -273,7 +284,7 @@
    "prize": "$ 1,000",
    "deadline": "Aug 05, 2026",
    "domain": "E-commerce/Retail, Fintech, Machine Learning/AI",
-   "participants": 233,
+   "participants": 244,
    "location": "",
    "prize_value": 1000
   },
@@ -284,7 +295,7 @@
    "prize": "₹60,000",
    "deadline": "2026-09-07",
    "domain": "All",
-   "participants": 132,
+   "participants": 192,
    "location": "India",
    "prize_value": 705
   },
@@ -295,7 +306,7 @@
    "prize": "$ 550",
    "deadline": "Aug 09, 2026",
    "domain": "AR/VR, Blockchain, Communication",
-   "participants": 523,
+   "participants": 543,
    "location": "Online",
    "prize_value": 550
   },
@@ -306,7 +317,7 @@
    "prize": "₹45,000",
    "deadline": "2026-08-15",
    "domain": "Fresher, Undergraduate, Postgraduate, Engineering Students",
-   "participants": 38,
+   "participants": 65,
    "location": "India",
    "prize_value": 529
   },
@@ -317,7 +328,7 @@
    "prize": "$ 500",
    "deadline": "Aug 16, 2026",
    "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 721,
+   "participants": 735,
    "location": "Online",
    "prize_value": 500
   },
@@ -328,7 +339,7 @@
    "prize": "₹20,000",
    "deadline": "2026-08-10",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 246,
+   "participants": 265,
    "location": "India",
    "prize_value": 235
   },
@@ -339,7 +350,7 @@
    "prize": "$ 150",
    "deadline": "Aug 24, 2026",
    "domain": "Machine Learning/AI, Social Good, Web",
-   "participants": 346,
+   "participants": 354,
    "location": "Online",
    "prize_value": 150
   },
@@ -350,7 +361,7 @@
    "prize": "₹10,000",
    "deadline": "2026-08-14",
    "domain": "All",
-   "participants": 1690,
+   "participants": 1783,
    "location": "India",
    "prize_value": 117
   },
@@ -361,20 +372,9 @@
    "prize": "$ 55",
    "deadline": "Aug 31, 2026",
    "domain": "Design, Web, Beginner Friendly",
-   "participants": 877,
+   "participants": 901,
    "location": "Online",
    "prize_value": 55
-  },
-  {
-   "title": "EchoSphere: Agora Conversational AI Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/echosphere-agora-conversational-ai-hackathon-knotic-1723695",
-   "prize": "₹3,000",
-   "deadline": "2026-08-21",
-   "domain": "All",
-   "participants": 556,
-   "location": "India",
-   "prize_value": 35
   },
   {
    "title": "Puzzle Masters Hackathon 2026",
@@ -383,7 +383,7 @@
    "prize": "₹1,700",
    "deadline": "2026-08-15",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 274,
+   "participants": 293,
    "location": "India",
    "prize_value": 20
   },
@@ -394,7 +394,7 @@
    "prize": "₹1,700",
    "deadline": "2026-08-07",
    "domain": "All",
-   "participants": 649,
+   "participants": 688,
    "location": "India",
    "prize_value": 20
   },
@@ -405,7 +405,18 @@
    "prize": "$ 0",
    "deadline": "Aug 05, 2026",
    "domain": "Beginner Friendly, Low/No Code, Social Good",
-   "participants": 311,
+   "participants": 315,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "RLC Hacks 2026",
+   "platform": "Devpost",
+   "url": "https://rlc-hacks-30705.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Aug 04, 2026",
+   "domain": "Cybersecurity, Machine Learning/AI, Social Good",
+   "participants": 252,
    "location": "Online",
    "prize_value": 0
   },
