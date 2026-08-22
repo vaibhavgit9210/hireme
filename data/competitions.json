@@ -1,17 +1,17 @@
 {
- "fetched_at": "2026-08-21T03:30:31.123327+00:00",
- "count": 34,
+ "fetched_at": "2026-08-22T03:21:37.281507+00:00",
+ "count": 35,
  "competitions": [
   {
    "title": "Reverie Hacks 2026",
    "platform": "Devpost",
    "url": "https://reverie-hacks-2026.devpost.com/",
-   "prize": "$ 2,206,164",
+   "prize": "$ 2,808,064",
    "deadline": "Aug 24, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 1882,
+   "participants": 1938,
    "location": "Online",
-   "prize_value": 2206164
+   "prize_value": 2808064
   },
   {
    "title": "ARC Prize 2026 — ARC-AGI-2 (code competition)",
@@ -31,7 +31,7 @@
    "prize": "$ 180,000",
    "deadline": "Aug 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 6296,
+   "participants": 6716,
    "location": "Online",
    "prize_value": 180000
   },
@@ -53,7 +53,7 @@
    "prize": "$ 148,445",
    "deadline": "Sep 21, 2026",
    "domain": "Machine Learning/AI, Social Good, Beginner Friendly",
-   "participants": 270,
+   "participants": 302,
    "location": "Online",
    "prize_value": 148445
   },
@@ -64,7 +64,7 @@
    "prize": "$ 75,000",
    "deadline": "Sep 09, 2026",
    "domain": "Databases, Machine Learning/AI, Open Ended",
-   "participants": 6899,
+   "participants": 7369,
    "location": "Online",
    "prize_value": 75000
   },
@@ -86,18 +86,7 @@
    "prize": "$ 40,000",
    "deadline": "Sep 14, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 4081,
-   "location": "Online",
-   "prize_value": 40000
-  },
-  {
-   "title": "AWS Trainium Frontier Competition",
-   "platform": "Devpost",
-   "url": "https://trainium-frontier.devpost.com/",
-   "prize": "$ 40,000",
-   "deadline": "Oct 01, 2026",
-   "domain": "Machine Learning/AI",
-   "participants": 426,
+   "participants": 4312,
    "location": "Online",
    "prize_value": 40000
   },
@@ -108,7 +97,7 @@
    "prize": "$ 39,500",
    "deadline": "Sep 03, 2026",
    "domain": "IoT, Low/No Code, Machine Learning/AI",
-   "participants": 825,
+   "participants": 853,
    "location": "Santa Clara Convention Center and Online",
    "prize_value": 39500
   },
@@ -130,9 +119,20 @@
    "prize": "$ 35,785",
    "deadline": "Sep 05, 2026",
    "domain": "IoT, Machine Learning/AI, Beginner Friendly",
-   "participants": 1678,
+   "participants": 1691,
    "location": "Online",
    "prize_value": 35785
+  },
+  {
+   "title": "AI Builders Hackathon",
+   "platform": "Devpost",
+   "url": "https://ai-builders-hackathon-2026.devpost.com/",
+   "prize": "$ 33,900",
+   "deadline": "Sep 15, 2026",
+   "domain": "Machine Learning/AI, Open Ended, Beginner Friendly",
+   "participants": 1937,
+   "location": "Online",
+   "prize_value": 33900
   },
   {
    "title": "The Rice University Urban Sustainability Hackathon",
@@ -141,7 +141,7 @@
    "prize": "$ 17,500",
    "deadline": "Sep 18, 2026",
    "domain": "Design, Social Good, Databases",
-   "participants": 332,
+   "participants": 335,
    "location": "Online",
    "prize_value": 17500
   },
@@ -152,7 +152,7 @@
    "prize": "$ 16,500",
    "deadline": "Aug 25, 2026",
    "domain": "Machine Learning/AI, Productivity",
-   "participants": 1752,
+   "participants": 1764,
    "location": "Online",
    "prize_value": 16500
   },
@@ -163,7 +163,7 @@
    "prize": "$ 10,000",
    "deadline": "Sep 14, 2026",
    "domain": "Communication, Enterprise, Machine Learning/AI",
-   "participants": 2336,
+   "participants": 2362,
    "location": "Online",
    "prize_value": 10000
   },
@@ -185,9 +185,20 @@
    "prize": "$ 3,979",
    "deadline": "Aug 31, 2026",
    "domain": "Machine Learning/AI, Open Ended, Social Good",
-   "participants": 396,
+   "participants": 412,
    "location": "Online",
    "prize_value": 3979
+  },
+  {
+   "title": "DataForge 2026",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/dataforge-2026-iit-kharagpur-1739346",
+   "prize": "₹300,000",
+   "deadline": "2026-08-28",
+   "domain": "All",
+   "participants": 0,
+   "location": "India",
+   "prize_value": 3529
   },
   {
    "title": "Galuxium Nexus V2",
@@ -196,20 +207,31 @@
    "prize": "$ 2,600",
    "deadline": "Aug 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 397,
+   "participants": 405,
    "location": "Online",
    "prize_value": 2600
   },
   {
-   "title": "Innovik 6.0 – International Hackathon 2026",
+   "title": "EC-Council HackAI Challenge: RACEx360",
    "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/innovik-60-international-hackathon-2026-vikrant-institute-of-technology-and-management-indore-1731748",
-   "prize": "₹200,000",
-   "deadline": "2026-08-24",
-   "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 81,
+   "url": "https://unstop.com/hackathons/ec-council-hackai-challenge-racex360-reva-academy-for-corporate-excellence-bangalore-karnataka-1739884",
+   "prize": "₹175,000",
+   "deadline": "2026-09-17",
+   "domain": "All",
+   "participants": 5,
    "location": "India",
-   "prize_value": 2352
+   "prize_value": 2058
+  },
+  {
+   "title": "NextStep Hacks 2026",
+   "platform": "Devpost",
+   "url": "https://nextstep2026.devpost.com/",
+   "prize": "$ 1,750",
+   "deadline": "Sep 13, 2026",
+   "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
+   "participants": 241,
+   "location": "Online",
+   "prize_value": 1750
   },
   {
    "title": "The Great Agent Hackathon",
@@ -218,7 +240,7 @@
    "prize": "₹ 100,000",
    "deadline": "Aug 25, 2026",
    "domain": "Enterprise, Machine Learning/AI, Open Ended",
-   "participants": 264,
+   "participants": 286,
    "location": "Freshworks",
    "prize_value": 1176
   },
@@ -229,9 +251,20 @@
    "prize": "$ 1,000",
    "deadline": "Aug 24, 2026",
    "domain": "Databases, Fintech, Quantum",
-   "participants": 886,
+   "participants": 908,
    "location": "Online",
    "prize_value": 1000
+  },
+  {
+   "title": "AI Product Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/ai-product-hackathon-product-space-1742507",
+   "prize": "₹71,000",
+   "deadline": "2026-08-30",
+   "domain": "All",
+   "participants": 84,
+   "location": "India",
+   "prize_value": 835
   },
   {
    "title": "Suvidha AI Virtual Hackathon",
@@ -240,20 +273,20 @@
    "prize": "$ 800",
    "deadline": "Aug 22, 2026",
    "domain": "Beginner Friendly, Low/No Code, Machine Learning/AI",
-   "participants": 280,
+   "participants": 310,
    "location": "Online",
    "prize_value": 800
   },
   {
-   "title": "AUREX'26 - Classical Tamil's First Lingual Tech Hackathon",
+   "title": "Data Analytics Hackathon",
    "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/aurex26-classical-tamils-first-lingual-tech-hackathon-central-institute-of-classical-tamil-cict-1736281",
-   "prize": "₹60,000",
-   "deadline": "2026-09-01",
-   "domain": "Undergraduate, Postgraduate, Engineering Students, Fresher",
-   "participants": 398,
+   "url": "https://unstop.com/hackathons/data-analytics-hackathon-gradient-1742481",
+   "prize": "₹59,500",
+   "deadline": "2026-09-06",
+   "domain": "All",
+   "participants": 149,
    "location": "India",
-   "prize_value": 705
+   "prize_value": 700
   },
   {
    "title": "Build Beyond Hackathon",
@@ -262,31 +295,9 @@
    "prize": "$ 500",
    "deadline": "Aug 22, 2026",
    "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 1293,
+   "participants": 1344,
    "location": "Online",
    "prize_value": 500
-  },
-  {
-   "title": "AI Innovation Hackathon 2026 – Build Real-World AI Solutions",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/ai-innovation-hackathon-2026-build-real-world-ai-solutions-bharat-academix-1737263",
-   "prize": "₹37,100",
-   "deadline": "2026-08-29",
-   "domain": "All",
-   "participants": 4011,
-   "location": "India",
-   "prize_value": 436
-  },
-  {
-   "title": "Mirage CTF 2.0",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/mirage-ctf-20-amrita-vishwa-vidyapeetham-avv-chennai-1736179",
-   "prize": "₹20,000",
-   "deadline": "2026-09-04",
-   "domain": "All",
-   "participants": 153,
-   "location": "India",
-   "prize_value": 235
   },
   {
    "title": "NeuralSprint",
@@ -295,7 +306,7 @@
    "prize": "$ 150",
    "deadline": "Aug 24, 2026",
    "domain": "Machine Learning/AI, Social Good, Web",
-   "participants": 599,
+   "participants": 621,
    "location": "Online",
    "prize_value": 150
   },
@@ -306,7 +317,7 @@
    "prize": "₹10,000",
    "deadline": "2026-08-27",
    "domain": "All",
-   "participants": 178,
+   "participants": 266,
    "location": "India",
    "prize_value": 117
   },
@@ -317,7 +328,7 @@
    "prize": "$ 100",
    "deadline": "Sep 04, 2026",
    "domain": "Beginner Friendly, Health, Machine Learning/AI",
-   "participants": 1012,
+   "participants": 1035,
    "location": "Online",
    "prize_value": 100
   },
@@ -328,7 +339,7 @@
    "prize": "$ 55",
    "deadline": "Aug 31, 2026",
    "domain": "Design, Web, Beginner Friendly",
-   "participants": 1303,
+   "participants": 1337,
    "location": "Online",
    "prize_value": 55
   },
@@ -337,9 +348,9 @@
    "platform": "Devpost",
    "url": "https://pixel-forge-ai-hackathon-08.devpost.com/",
    "prize": "$ 0",
-   "deadline": "Aug 22, 2026",
+   "deadline": "Aug 23, 2026",
    "domain": "Beginner Friendly, Web, Machine Learning/AI",
-   "participants": 726,
+   "participants": 768,
    "location": "Online",
    "prize_value": 0
   },
@@ -350,7 +361,7 @@
    "prize": "$ 0",
    "deadline": "Aug 24, 2026",
    "domain": "Enterprise, Fintech, Productivity",
-   "participants": 398,
+   "participants": 408,
    "location": "Online",
    "prize_value": 0
   },
@@ -361,7 +372,7 @@
    "prize": "$ 0",
    "deadline": "Sep 01, 2026",
    "domain": "Beginner Friendly, Education, Machine Learning/AI",
-   "participants": 250,
+   "participants": 256,
    "location": "Online",
    "prize_value": 0
   },
