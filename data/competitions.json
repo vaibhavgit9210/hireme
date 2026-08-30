@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-08-29T09:19:32.186487+00:00",
- "count": 35,
+ "fetched_at": "2026-08-30T08:30:14.003881+00:00",
+ "count": 37,
  "competitions": [
   {
    "title": "ARC Prize 2026 — ARC-AGI-2 (code competition)",
@@ -20,7 +20,7 @@
    "prize": "$ 180,000",
    "deadline": "Aug 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 11310,
+   "participants": 11671,
    "location": "Online",
    "prize_value": 180000
   },
@@ -42,7 +42,7 @@
    "prize": "$ 149,525",
    "deadline": "Sep 21, 2026",
    "domain": "Machine Learning/AI, Social Good, Beginner Friendly",
-   "participants": 496,
+   "participants": 517,
    "location": "Online",
    "prize_value": 149525
   },
@@ -53,7 +53,7 @@
    "prize": "$ 75,000",
    "deadline": "Sep 09, 2026",
    "domain": "Databases, Machine Learning/AI, Open Ended",
-   "participants": 8675,
+   "participants": 8778,
    "location": "Online",
    "prize_value": 75000
   },
@@ -64,7 +64,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 678,
+   "participants": 973,
    "location": "Online",
    "prize_value": 50000
   },
@@ -86,7 +86,7 @@
    "prize": "$ 40,000",
    "deadline": "Sep 14, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 5849,
+   "participants": 6093,
    "location": "Online",
    "prize_value": 40000
   },
@@ -97,7 +97,7 @@
    "prize": "$ 39,500",
    "deadline": "Sep 03, 2026",
    "domain": "IoT, Low/No Code, Machine Learning/AI",
-   "participants": 1192,
+   "participants": 1221,
    "location": "Santa Clara Convention Center and Online",
    "prize_value": 39500
   },
@@ -119,7 +119,7 @@
    "prize": "$ 35,785",
    "deadline": "Sep 05, 2026",
    "domain": "IoT, Machine Learning/AI, Beginner Friendly",
-   "participants": 1803,
+   "participants": 1814,
    "location": "Online",
    "prize_value": 35785
   },
@@ -130,7 +130,7 @@
    "prize": "$ 35,000",
    "deadline": "Sep 03, 2026",
    "domain": "Machine Learning/AI, E-commerce/Retail, Web",
-   "participants": 3663,
+   "participants": 4207,
    "location": "Online",
    "prize_value": 35000
   },
@@ -141,7 +141,7 @@
    "prize": "$ 34,500",
    "deadline": "Sep 01, 2026",
    "domain": "Machine Learning/AI, Cybersecurity, E-commerce/Retail",
-   "participants": 3037,
+   "participants": 3069,
    "location": "Online",
    "prize_value": 34500
   },
@@ -152,7 +152,7 @@
    "prize": "$ 33,900",
    "deadline": "Sep 15, 2026",
    "domain": "Machine Learning/AI, Open Ended, Beginner Friendly",
-   "participants": 2403,
+   "participants": 2451,
    "location": "Online",
    "prize_value": 33900
   },
@@ -163,7 +163,7 @@
    "prize": "$ 17,500",
    "deadline": "Sep 18, 2026",
    "domain": "Design, Social Good, Databases",
-   "participants": 361,
+   "participants": 365,
    "location": "Online",
    "prize_value": 17500
   },
@@ -174,7 +174,7 @@
    "prize": "$ 12,000",
    "deadline": "Oct 27, 2026",
    "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 802,
+   "participants": 845,
    "location": "Online",
    "prize_value": 12000
   },
@@ -185,7 +185,7 @@
    "prize": "$ 10,000",
    "deadline": "Sep 14, 2026",
    "domain": "Communication, Enterprise, Machine Learning/AI",
-   "participants": 2573,
+   "participants": 2594,
    "location": "Online",
    "prize_value": 10000
   },
@@ -196,7 +196,7 @@
    "prize": "₹500,000",
    "deadline": "2026-09-03",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 33,
+   "participants": 39,
    "location": "India",
    "prize_value": 5882
   },
@@ -207,7 +207,7 @@
    "prize": "₹500,000",
    "deadline": "2026-09-03",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 109,
+   "participants": 119,
    "location": "India",
    "prize_value": 5882
   },
@@ -229,9 +229,20 @@
    "prize": "$ 3,979",
    "deadline": "Aug 31, 2026",
    "domain": "Machine Learning/AI, Open Ended, Social Good",
-   "participants": 555,
+   "participants": 577,
    "location": "Online",
    "prize_value": 3979
+  },
+  {
+   "title": "Powernext-AI",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/powernext-ai-manipal-institute-of-technology-bengaluru-1745296",
+   "prize": "₹300,000",
+   "deadline": "2026-09-10",
+   "domain": "Undergraduate, Engineering Students",
+   "participants": 80,
+   "location": "India",
+   "prize_value": 3529
   },
   {
    "title": "Galuxium Nexus V2",
@@ -240,7 +251,7 @@
    "prize": "$ 2,600",
    "deadline": "Oct 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 473,
+   "participants": 474,
    "location": "Online",
    "prize_value": 2600
   },
@@ -251,7 +262,7 @@
    "prize": "₹200,000",
    "deadline": "2026-09-20",
    "domain": "Experienced Professionals",
-   "participants": 1,
+   "participants": 26,
    "location": "India",
    "prize_value": 2352
   },
@@ -262,7 +273,7 @@
    "prize": "$ 1,750",
    "deadline": "Sep 13, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 378,
+   "participants": 396,
    "location": "Online",
    "prize_value": 1750
   },
@@ -271,9 +282,9 @@
    "platform": "Devpost",
    "url": "https://august-ai-challenge-31059.devpost.com/",
    "prize": "$ 1,500",
-   "deadline": "Aug 31, 2026",
+   "deadline": "Sep 03, 2026",
    "domain": "Beginner Friendly, Design, Machine Learning/AI",
-   "participants": 405,
+   "participants": 435,
    "location": "Online",
    "prize_value": 1500
   },
@@ -284,7 +295,7 @@
    "prize": "₹ 100,000",
    "deadline": "Aug 30, 2026",
    "domain": "Enterprise, Machine Learning/AI, Open Ended",
-   "participants": 543,
+   "participants": 569,
    "location": "Freshworks",
    "prize_value": 1176
   },
@@ -295,7 +306,7 @@
    "prize": "$ 1,000",
    "deadline": "Aug 31, 2026",
    "domain": "IoT, Machine Learning/AI, Social Good",
-   "participants": 263,
+   "participants": 280,
    "location": "Online",
    "prize_value": 1000
   },
@@ -306,20 +317,9 @@
    "prize": "₹40,000",
    "deadline": "2026-09-25",
    "domain": "All",
-   "participants": 67,
+   "participants": 82,
    "location": "India",
    "prize_value": 470
-  },
-  {
-   "title": "Agentic AI Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/agentic-ai-hackathon-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742838",
-   "prize": "₹35,000",
-   "deadline": "2026-09-10",
-   "domain": "All",
-   "participants": 2221,
-   "location": "India",
-   "prize_value": 411
   },
   {
    "title": "Hack The Horizon 2.0 – 24-Hour Hackathon",
@@ -328,7 +328,7 @@
    "prize": "₹30,000",
    "deadline": "2026-09-04",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 26,
+   "participants": 29,
    "location": "India",
    "prize_value": 352
   },
@@ -339,7 +339,7 @@
    "prize": "$ 100",
    "deadline": "Sep 04, 2026",
    "domain": "Beginner Friendly, Health, Machine Learning/AI",
-   "participants": 1219,
+   "participants": 1234,
    "location": "Online",
    "prize_value": 100
   },
@@ -350,7 +350,7 @@
    "prize": "$ 55",
    "deadline": "Aug 31, 2026",
    "domain": "Design, Web, Beginner Friendly",
-   "participants": 1491,
+   "participants": 1515,
    "location": "Online",
    "prize_value": 55
   },
@@ -361,9 +361,20 @@
    "prize": "₹1,750",
    "deadline": "2026-09-13",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 72,
+   "participants": 97,
    "location": "India",
    "prize_value": 20
+  },
+  {
+   "title": "Midnight Hackathon: August 2026",
+   "platform": "Devpost",
+   "url": "https://midnight-hackathon-august-2026.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Aug 30, 2026",
+   "domain": "Beginner Friendly, Blockchain",
+   "participants": 331,
+   "location": "New York, NY, USA",
+   "prize_value": 0
   },
   {
    "title": "AI YES :International Youth AI Competition",
@@ -372,7 +383,18 @@
    "prize": "$ 0",
    "deadline": "Sep 01, 2026",
    "domain": "Beginner Friendly, Education, Machine Learning/AI",
-   "participants": 300,
+   "participants": 305,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "Code for Humanity",
+   "platform": "Devpost",
+   "url": "https://code-for-humanity.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Jan 15, 2027",
+   "domain": "Education, Machine Learning/AI, Web",
+   "participants": 253,
    "location": "Online",
    "prize_value": 0
   },
