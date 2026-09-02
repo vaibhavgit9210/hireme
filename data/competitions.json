@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-01T07:57:12.380211+00:00",
+ "fetched_at": "2026-09-02T07:17:24.257444+00:00",
  "count": 32,
  "competitions": [
   {
@@ -20,9 +20,20 @@
    "prize": "$ 591,585",
    "deadline": "Oct 02, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 575,
+   "participants": 638,
    "location": "Online",
    "prize_value": 591585
+  },
+  {
+   "title": "Global Innovation Build Challenge V2",
+   "platform": "Devpost",
+   "url": "https://gibc-v2.devpost.com/",
+   "prize": "$ 156,525",
+   "deadline": "Sep 21, 2026",
+   "domain": "Machine Learning/AI, Social Good, Beginner Friendly",
+   "participants": 632,
+   "location": "Online",
+   "prize_value": 156525
   },
   {
    "title": "ARC White-Box Estimation Challenge 2026 (Alignment Research Center)",
@@ -36,24 +47,13 @@
    "prize_value": 150000
   },
   {
-   "title": "Global Innovation Build Challenge V2",
-   "platform": "Devpost",
-   "url": "https://gibc-v2.devpost.com/",
-   "prize": "$ 149,525",
-   "deadline": "Sep 21, 2026",
-   "domain": "Machine Learning/AI, Social Good, Beginner Friendly",
-   "participants": 603,
-   "location": "Online",
-   "prize_value": 149525
-  },
-  {
    "title": "Build, Ship, Shape: Amazon Developer Hackathon",
    "platform": "Devpost",
    "url": "https://amazonappdev2026.devpost.com/",
    "prize": "$ 138,000",
    "deadline": "Oct 23, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 222,
+   "participants": 607,
    "location": "Online",
    "prize_value": 138000
   },
@@ -64,7 +64,7 @@
    "prize": "$ 75,000",
    "deadline": "Sep 09, 2026",
    "domain": "Databases, Machine Learning/AI, Open Ended",
-   "participants": 9023,
+   "participants": 9158,
    "location": "Online",
    "prize_value": 75000
   },
@@ -75,7 +75,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 1503,
+   "participants": 1747,
    "location": "Online",
    "prize_value": 50000
   },
@@ -97,7 +97,7 @@
    "prize": "$ 40,000",
    "deadline": "Sep 14, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 6686,
+   "participants": 6872,
    "location": "Online",
    "prize_value": 40000
   },
@@ -108,7 +108,7 @@
    "prize": "$ 39,500",
    "deadline": "Sep 03, 2026",
    "domain": "IoT, Low/No Code, Machine Learning/AI",
-   "participants": 1283,
+   "participants": 1313,
    "location": "Santa Clara Convention Center and Online",
    "prize_value": 39500
   },
@@ -130,7 +130,7 @@
    "prize": "$ 35,785",
    "deadline": "Sep 05, 2026",
    "domain": "IoT, Machine Learning/AI, Beginner Friendly",
-   "participants": 1857,
+   "participants": 1874,
    "location": "Online",
    "prize_value": 35785
   },
@@ -141,7 +141,7 @@
    "prize": "$ 35,000",
    "deadline": "Sep 03, 2026",
    "domain": "Machine Learning/AI, E-commerce/Retail, Web",
-   "participants": 5247,
+   "participants": 5754,
    "location": "Online",
    "prize_value": 35000
   },
@@ -152,9 +152,20 @@
    "prize": "$ 33,900",
    "deadline": "Sep 15, 2026",
    "domain": "Machine Learning/AI, Open Ended, Beginner Friendly",
-   "participants": 2563,
+   "participants": 2609,
    "location": "Online",
    "prize_value": 33900
+  },
+  {
+   "title": "OpenCV AI Competition 2026, powered by AWS",
+   "platform": "Devpost",
+   "url": "https://opencv26.devpost.com/",
+   "prize": "$ 20,250",
+   "deadline": "Oct 27, 2026",
+   "domain": "IoT, Machine Learning/AI, Serverless",
+   "participants": 1000,
+   "location": "Online",
+   "prize_value": 20250
   },
   {
    "title": "The Rice University Urban Sustainability Hackathon",
@@ -163,20 +174,9 @@
    "prize": "$ 17,500",
    "deadline": "Sep 18, 2026",
    "domain": "Design, Social Good, Databases",
-   "participants": 374,
+   "participants": 375,
    "location": "Online",
    "prize_value": 17500
-  },
-  {
-   "title": "OpenCV AI Competition 2026, powered by AWS",
-   "platform": "Devpost",
-   "url": "https://opencv26.devpost.com/",
-   "prize": "$ 12,000",
-   "deadline": "Oct 27, 2026",
-   "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 954,
-   "location": "Online",
-   "prize_value": 12000
   },
   {
    "title": "CALL-E: Your Code Is Calling",
@@ -185,7 +185,7 @@
    "prize": "$ 10,000",
    "deadline": "Sep 14, 2026",
    "domain": "Communication, Enterprise, Machine Learning/AI",
-   "participants": 2657,
+   "participants": 2696,
    "location": "Online",
    "prize_value": 10000
   },
@@ -207,7 +207,7 @@
    "prize": "₹300,000",
    "deadline": "2026-09-10",
    "domain": "Undergraduate, Engineering Students",
-   "participants": 366,
+   "participants": 495,
    "location": "India",
    "prize_value": 3529
   },
@@ -218,7 +218,7 @@
    "prize": "$ 2,600",
    "deadline": "Oct 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 484,
+   "participants": 505,
    "location": "Online",
    "prize_value": 2600
   },
@@ -229,7 +229,7 @@
    "prize": "₹200,000",
    "deadline": "2026-09-20",
    "domain": "Experienced Professionals",
-   "participants": 72,
+   "participants": 97,
    "location": "India",
    "prize_value": 2352
   },
@@ -240,7 +240,7 @@
    "prize": "₹175,000",
    "deadline": "2026-09-20",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 431,
+   "participants": 476,
    "location": "India",
    "prize_value": 2058
   },
@@ -251,7 +251,7 @@
    "prize": "$ 1,750",
    "deadline": "Sep 13, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 443,
+   "participants": 474,
    "location": "Online",
    "prize_value": 1750
   },
@@ -262,7 +262,7 @@
    "prize": "$ 1,500",
    "deadline": "Sep 03, 2026",
    "domain": "Beginner Friendly, Design, Machine Learning/AI",
-   "participants": 475,
+   "participants": 498,
    "location": "Online",
    "prize_value": 1500
   },
@@ -273,7 +273,18 @@
    "prize": "$ 1,500",
    "deadline": "Sep 20, 2026",
    "domain": "Beginner Friendly, Design, Machine Learning/AI",
-   "participants": 248,
+   "participants": 270,
+   "location": "Online",
+   "prize_value": 1500
+  },
+  {
+   "title": "SPEED October AI Challenge",
+   "platform": "Devpost",
+   "url": "https://prometheus-september-ai-2.devpost.com/",
+   "prize": "$ 1,500",
+   "deadline": "Oct 14, 2026",
+   "domain": "Machine Learning/AI, Beginner Friendly, Design",
+   "participants": 207,
    "location": "Online",
    "prize_value": 1500
   },
@@ -284,7 +295,7 @@
    "prize": "$ 1,247",
    "deadline": "Sep 17, 2026",
    "domain": "Blockchain, Machine Learning/AI, Cybersecurity",
-   "participants": 229,
+   "participants": 240,
    "location": "Online",
    "prize_value": 1247
   },
@@ -295,31 +306,20 @@
    "prize": "$ 100",
    "deadline": "Sep 04, 2026",
    "domain": "Beginner Friendly, Health, Machine Learning/AI",
-   "participants": 1272,
+   "participants": 1297,
    "location": "Online",
    "prize_value": 100
   },
   {
-   "title": "3D Websites Hackathon",
-   "platform": "Devpost",
-   "url": "https://3d-websites-hackathon.devpost.com/",
-   "prize": "$ 55",
-   "deadline": "Sep 02, 2026",
-   "domain": "Design, Web, Beginner Friendly",
-   "participants": 1568,
-   "location": "Online",
-   "prize_value": 55
-  },
-  {
-   "title": "AI YES :International Youth AI Competition",
-   "platform": "Devpost",
-   "url": "https://ai-yes-competition-30441.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Sep 01, 2026",
-   "domain": "Beginner Friendly, Education, Machine Learning/AI",
-   "participants": 324,
-   "location": "Online",
-   "prize_value": 0
+   "title": "BOSS $1000 Contributor Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/boss-1000-contributor-hackathon-boss-console-1747592",
+   "prize": "₹1,000",
+   "deadline": "2026-09-15",
+   "domain": "All",
+   "participants": 229,
+   "location": "India",
+   "prize_value": 11
   },
   {
    "title": "Code for Humanity",
@@ -328,7 +328,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 275,
+   "participants": 278,
    "location": "Online",
    "prize_value": 0
   },
@@ -339,7 +339,7 @@
    "prize": "$ 0",
    "deadline": "Sep 22, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 227,
+   "participants": 235,
    "location": "Online",
    "prize_value": 0
   },
