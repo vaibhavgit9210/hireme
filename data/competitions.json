@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-09-07T07:30:37.403076+00:00",
- "count": 34,
+ "fetched_at": "2026-09-08T07:23:35.881408+00:00",
+ "count": 37,
  "competitions": [
   {
    "title": "GatewayHacks 2026 | Software & AI ",
@@ -9,7 +9,7 @@
    "prize": "$ 1,007,085",
    "deadline": "Oct 02, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 936,
+   "participants": 999,
    "location": "Online",
    "prize_value": 1007085
   },
@@ -31,7 +31,7 @@
    "prize": "$ 156,525",
    "deadline": "Sep 21, 2026",
    "domain": "Machine Learning/AI, Social Good, Beginner Friendly",
-   "participants": 791,
+   "participants": 827,
    "location": "Online",
    "prize_value": 156525
   },
@@ -53,7 +53,7 @@
    "prize": "$ 138,000",
    "deadline": "Oct 23, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 2636,
+   "participants": 3135,
    "location": "Online",
    "prize_value": 138000
   },
@@ -64,7 +64,7 @@
    "prize": "$ 75,000",
    "deadline": "Sep 09, 2026",
    "domain": "Databases, Machine Learning/AI, Open Ended",
-   "participants": 9764,
+   "participants": 9898,
    "location": "Online",
    "prize_value": 75000
   },
@@ -75,7 +75,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 2745,
+   "participants": 2947,
    "location": "Online",
    "prize_value": 50000
   },
@@ -97,7 +97,7 @@
    "prize": "$ 40,000",
    "deadline": "Sep 14, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 7962,
+   "participants": 8136,
    "location": "Online",
    "prize_value": 40000
   },
@@ -119,7 +119,7 @@
    "prize": "$ 35,785",
    "deadline": "Sep 13, 2026",
    "domain": "IoT, Machine Learning/AI, Beginner Friendly",
-   "participants": 2025,
+   "participants": 2040,
    "location": "Online",
    "prize_value": 35785
   },
@@ -130,7 +130,7 @@
    "prize": "$ 33,900",
    "deadline": "Sep 15, 2026",
    "domain": "Machine Learning/AI, Open Ended, Beginner Friendly",
-   "participants": 2896,
+   "participants": 2938,
    "location": "Online",
    "prize_value": 33900
   },
@@ -141,7 +141,7 @@
    "prize": "$ 20,250",
    "deadline": "Oct 27, 2026",
    "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 1245,
+   "participants": 1295,
    "location": "Online",
    "prize_value": 20250
   },
@@ -152,7 +152,7 @@
    "prize": "$ 17,500",
    "deadline": "Sep 18, 2026",
    "domain": "Design, Social Good, Databases",
-   "participants": 396,
+   "participants": 401,
    "location": "Online",
    "prize_value": 17500
   },
@@ -163,7 +163,7 @@
    "prize": "$ 10,000",
    "deadline": "Sep 14, 2026",
    "domain": "Communication, Enterprise, Machine Learning/AI",
-   "participants": 2900,
+   "participants": 2953,
    "location": "Online",
    "prize_value": 10000
   },
@@ -174,7 +174,7 @@
    "prize": "₹525,000",
    "deadline": "2026-09-16",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 178,
+   "participants": 254,
    "location": "India",
    "prize_value": 6176
   },
@@ -196,7 +196,7 @@
    "prize": "$ 2,944",
    "deadline": "Oct 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 595,
+   "participants": 599,
    "location": "Online",
    "prize_value": 2944
   },
@@ -207,9 +207,20 @@
    "prize": "₹250,000",
    "deadline": "2026-09-25",
    "domain": "All",
-   "participants": 1335,
+   "participants": 1534,
    "location": "India",
    "prize_value": 2941
+  },
+  {
+   "title": "Amazon ML Challenge 2026",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/crp-amazon-ml-challenge-2026-amazon-1743604",
+   "prize": "₹225,000",
+   "deadline": "2026-09-20",
+   "domain": "Engineering Students, Postgraduate, Undergraduate",
+   "participants": 1259,
+   "location": "India",
+   "prize_value": 2647
   },
   {
    "title": "AI Content Engine Hackathon",
@@ -218,7 +229,7 @@
    "prize": "$ 2,000",
    "deadline": "Sep 08, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 205,
+   "participants": 247,
    "location": "Online",
    "prize_value": 2000
   },
@@ -229,7 +240,7 @@
    "prize": "$ 1,750",
    "deadline": "Sep 13, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 585,
+   "participants": 621,
    "location": "Online",
    "prize_value": 1750
   },
@@ -240,9 +251,20 @@
    "prize": "$ 1,710",
    "deadline": "Sep 14, 2026",
    "domain": "IoT, Machine Learning/AI, Social Good",
-   "participants": 245,
+   "participants": 281,
    "location": "Online",
    "prize_value": 1710
+  },
+  {
+   "title": "Agnitia 2026 : 36 Hours National Level Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/agnitia-2026-36-hours-national-level-hackathon-prestige-institute-of-engineering-management-and-research-pimr-1750621",
+   "prize": "₹125,000",
+   "deadline": "2026-09-24",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 6,
+   "location": "India",
+   "prize_value": 1470
   },
   {
    "title": "COMPSPHERE 12",
@@ -251,20 +273,20 @@
    "prize": "$ 1,247",
    "deadline": "Sep 17, 2026",
    "domain": "Blockchain, Machine Learning/AI, Cybersecurity",
-   "participants": 285,
+   "participants": 302,
    "location": "Online",
    "prize_value": 1247
   },
   {
-   "title": "Global Innovation Hackathon 2026 – Build for a Better Future",
+   "title": "CONVERGENCE 2k26: 24Hr Hardware Hackathon",
    "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/global-innovation-hackathon-2026-build-for-a-better-future-bharat-academix-1748404",
-   "prize": "₹83,000",
-   "deadline": "2026-09-16",
-   "domain": "All",
-   "participants": 1964,
+   "url": "https://unstop.com/hackathons/convergence-2k26-24hr-hardware-hackathon-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-t-1750727",
+   "prize": "₹60,000",
+   "deadline": "2026-09-13",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Arts, Commerce, Sciences & Others",
+   "participants": 11,
    "location": "India",
-   "prize_value": 976
+   "prize_value": 705
   },
   {
    "title": "Singularity Hackathon",
@@ -273,7 +295,7 @@
    "prize": "₹60,000",
    "deadline": "2026-09-30",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 65,
+   "participants": 67,
    "location": "India",
    "prize_value": 705
   },
@@ -284,7 +306,7 @@
    "prize": "₹50,000",
    "deadline": "2026-09-28",
    "domain": "Undergraduate, Engineering Students",
-   "participants": 23,
+   "participants": 27,
    "location": "India",
    "prize_value": 588
   },
@@ -294,10 +316,21 @@
    "url": "https://unstop.com/hackathons/hackindore-40-24hour-national-hackathon-shri-g-s-institute-of-technology-science-indore-1744202",
    "prize": "₹40,000",
    "deadline": "2026-09-18",
-   "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 5,
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 15,
    "location": "India",
    "prize_value": 470
+  },
+  {
+   "title": "Tejas India Hackathon 2026",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/tejas-india-hackathon-2026-government-engineering-college-gec-sheikhpura-1744276",
+   "prize": "₹22,000",
+   "deadline": "2026-09-15",
+   "domain": "All",
+   "participants": 119,
+   "location": "India",
+   "prize_value": 258
   },
   {
    "title": "Hack2Heal 2.0 - Global Healthcare Innovation Hackathon",
@@ -306,7 +339,7 @@
    "prize": "$ 100",
    "deadline": "Sep 10, 2026",
    "domain": "Health, Machine Learning/AI, Beginner Friendly",
-   "participants": 227,
+   "participants": 259,
    "location": "Online",
    "prize_value": 100
   },
@@ -317,7 +350,7 @@
    "prize": "₹ 2,500",
    "deadline": "Sep 26, 2026",
    "domain": "Fintech, Machine Learning/AI, Beginner Friendly",
-   "participants": 220,
+   "participants": 231,
    "location": "Online",
    "prize_value": 29
   },
@@ -328,7 +361,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 312,
+   "participants": 316,
    "location": "Online",
    "prize_value": 0
   },
@@ -339,7 +372,7 @@
    "prize": "$ 0",
    "deadline": "Sep 22, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 254,
+   "participants": 257,
    "location": "Online",
    "prize_value": 0
   },
@@ -350,7 +383,7 @@
    "prize": "$ 0",
    "deadline": "Sep 20, 2026",
    "domain": "Databases, Machine Learning/AI, Web",
-   "participants": 224,
+   "participants": 228,
    "location": "Online",
    "prize_value": 0
   },
@@ -361,7 +394,7 @@
    "prize": "$ 0",
    "deadline": "Jan 14, 2027",
    "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 187,
+   "participants": 196,
    "location": "Online",
    "prize_value": 0
   },
