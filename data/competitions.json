@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-09T07:32:06.054814+00:00",
+ "fetched_at": "2026-09-10T07:28:27.812577+00:00",
  "count": 39,
  "competitions": [
   {
@@ -9,7 +9,7 @@
    "prize": "$ 1,007,085",
    "deadline": "Oct 02, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 1074,
+   "participants": 1128,
    "location": "Online",
    "prize_value": 1007085
   },
@@ -31,7 +31,7 @@
    "prize": "$ 156,525",
    "deadline": "Oct 01, 2026",
    "domain": "Machine Learning/AI, Social Good, Beginner Friendly",
-   "participants": 857,
+   "participants": 893,
    "location": "Online",
    "prize_value": 156525
   },
@@ -53,20 +53,9 @@
    "prize": "$ 138,000",
    "deadline": "Oct 23, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 3567,
+   "participants": 3806,
    "location": "Online",
    "prize_value": 138000
-  },
-  {
-   "title": "Agentic Cinema: The Blockbuster Hackathon",
-   "platform": "Devpost",
-   "url": "https://agentic-cinema.devpost.com/",
-   "prize": "$ 75,000",
-   "deadline": "Sep 09, 2026",
-   "domain": "Databases, Machine Learning/AI, Open Ended",
-   "participants": 10012,
-   "location": "Online",
-   "prize_value": 75000
   },
   {
    "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -75,7 +64,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 3141,
+   "participants": 3309,
    "location": "Online",
    "prize_value": 50000
   },
@@ -97,7 +86,7 @@
    "prize": "$ 40,000",
    "deadline": "Sep 14, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 8616,
+   "participants": 8985,
    "location": "Online",
    "prize_value": 40000
   },
@@ -119,7 +108,7 @@
    "prize": "$ 35,785",
    "deadline": "Sep 13, 2026",
    "domain": "IoT, Machine Learning/AI, Beginner Friendly",
-   "participants": 2048,
+   "participants": 2061,
    "location": "Online",
    "prize_value": 35785
   },
@@ -130,7 +119,7 @@
    "prize": "$ 33,900",
    "deadline": "Sep 15, 2026",
    "domain": "Machine Learning/AI, Open Ended, Beginner Friendly",
-   "participants": 2993,
+   "participants": 3049,
    "location": "Online",
    "prize_value": 33900
   },
@@ -141,7 +130,7 @@
    "prize": "$ 20,250",
    "deadline": "Oct 27, 2026",
    "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 1348,
+   "participants": 1400,
    "location": "Online",
    "prize_value": 20250
   },
@@ -152,7 +141,7 @@
    "prize": "$ 17,500",
    "deadline": "Sep 18, 2026",
    "domain": "Design, Social Good, Databases",
-   "participants": 409,
+   "participants": 413,
    "location": "Online",
    "prize_value": 17500
   },
@@ -163,20 +152,9 @@
    "prize": "$ 10,000",
    "deadline": "Sep 14, 2026",
    "domain": "Communication, Enterprise, Machine Learning/AI",
-   "participants": 2994,
+   "participants": 3029,
    "location": "Online",
    "prize_value": 10000
-  },
-  {
-   "title": "Hack The Future 3.0 – National Hackathon | Tula’s University",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/hack-the-future-3o-tulas-university-1748989",
-   "prize": "₹525,000",
-   "deadline": "2026-09-16",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 326,
-   "location": "India",
-   "prize_value": 6176
   },
   {
    "title": "OpenSearch Agent Skills Hackathon",
@@ -196,7 +174,7 @@
    "prize": "$ 2,944",
    "deadline": "Oct 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 612,
+   "participants": 617,
    "location": "Online",
    "prize_value": 2944
   },
@@ -205,9 +183,9 @@
    "platform": "Unstop",
    "url": "https://unstop.com/hackathons/mst-blockchain-newrro-bmsc-24-hour-buildathon-bms-college-of-engineering-1750981",
    "prize": "₹250,000",
-   "deadline": "2026-09-16",
+   "deadline": "2026-09-18",
    "domain": "All",
-   "participants": 9,
+   "participants": 62,
    "location": "India",
    "prize_value": 2941
   },
@@ -218,18 +196,29 @@
    "prize": "₹225,000",
    "deadline": "2026-09-20",
    "domain": "Engineering Students, Postgraduate, Undergraduate",
-   "participants": 4229,
+   "participants": 8066,
    "location": "India",
    "prize_value": 2647
+  },
+  {
+   "title": "AI Content Engine Hackathon",
+   "platform": "Devpost",
+   "url": "https://ai-content-engine-hacks.devpost.com/",
+   "prize": "$ 2,000",
+   "deadline": "Sep 10, 2026",
+   "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
+   "participants": 266,
+   "location": "Online",
+   "prize_value": 2000
   },
   {
    "title": "NextStep Hacks 2026",
    "platform": "Devpost",
    "url": "https://nextstep2026.devpost.com/",
    "prize": "$ 1,750",
-   "deadline": "Sep 13, 2026",
+   "deadline": "Sep 20, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 643,
+   "participants": 681,
    "location": "Online",
    "prize_value": 1750
   },
@@ -240,7 +229,7 @@
    "prize": "$ 1,710",
    "deadline": "Sep 14, 2026",
    "domain": "IoT, Machine Learning/AI, Social Good",
-   "participants": 296,
+   "participants": 322,
    "location": "Online",
    "prize_value": 1710
   },
@@ -251,7 +240,7 @@
    "prize": "₹125,000",
    "deadline": "2026-09-24",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 22,
+   "participants": 42,
    "location": "India",
    "prize_value": 1470
   },
@@ -262,7 +251,7 @@
    "prize": "$ 1,247",
    "deadline": "Sep 17, 2026",
    "domain": "Blockchain, Machine Learning/AI, Cybersecurity",
-   "participants": 312,
+   "participants": 321,
    "location": "Online",
    "prize_value": 1247
   },
@@ -273,7 +262,7 @@
    "prize": "₹80,000",
    "deadline": "2026-09-19",
    "domain": "All",
-   "participants": 93,
+   "participants": 803,
    "location": "India",
    "prize_value": 941
   },
@@ -284,7 +273,7 @@
    "prize": "₹60,000",
    "deadline": "2026-09-13",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Arts, Commerce, Sciences & Others",
-   "participants": 24,
+   "participants": 58,
    "location": "India",
    "prize_value": 705
   },
@@ -295,7 +284,7 @@
    "prize": "₹60,000",
    "deadline": "2026-09-30",
    "domain": "Undergraduate, Postgraduate, Engineering Students, Management",
-   "participants": 77,
+   "participants": 89,
    "location": "India",
    "prize_value": 705
   },
@@ -306,7 +295,7 @@
    "prize": "₹40,000",
    "deadline": "2026-09-18",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 36,
+   "participants": 56,
    "location": "India",
    "prize_value": 470
   },
@@ -317,7 +306,7 @@
    "prize": "$ 275",
    "deadline": "Oct 15, 2026",
    "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 205,
+   "participants": 209,
    "location": "Online",
    "prize_value": 275
   },
@@ -328,18 +317,40 @@
    "prize": "₹22,000",
    "deadline": "2026-09-15",
    "domain": "All",
-   "participants": 400,
+   "participants": 555,
    "location": "India",
    "prize_value": 258
+  },
+  {
+   "title": "Global SDG & AI Hackathon 2026",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/global-sdg-ai-hackathon-2026-bharati-vidyapeeth-college-of-engineering-pune-1748511",
+   "prize": "₹15,000",
+   "deadline": "2026-09-15",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 26,
+   "location": "India",
+   "prize_value": 176
+  },
+  {
+   "title": "Renu Innovation Hackathon 2026",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/renu-innovation-hackathon-2026-shri-phanishwar-nath-renu-engineering-college-araria-1751477",
+   "prize": "₹10,000",
+   "deadline": "2026-09-14",
+   "domain": "All",
+   "participants": 84,
+   "location": "India",
+   "prize_value": 117
   },
   {
    "title": "AI Skill Sprint 1.0",
    "platform": "Unstop",
    "url": "https://unstop.com/hackathons/ai-skill-sprint-10-chandigarh-university-cu-ajitgarh-punjab-1749909",
    "prize": "₹10,000",
-   "deadline": "2026-09-11",
+   "deadline": "2026-09-20",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 70,
+   "participants": 109,
    "location": "India",
    "prize_value": 117
   },
@@ -348,22 +359,11 @@
    "platform": "Devpost",
    "url": "https://hack2heal.devpost.com/",
    "prize": "$ 100",
-   "deadline": "Sep 10, 2026",
+   "deadline": "Sep 18, 2026",
    "domain": "Health, Machine Learning/AI, Beginner Friendly",
-   "participants": 298,
+   "participants": 336,
    "location": "Online",
    "prize_value": 100
-  },
-  {
-   "title": "WebCMD Campus Hackathon - MAIT Edition",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/webcmd-campus-hackathon-mait-edition-maharaja-agrasen-institute-of-technology-mait-delhi-1751407",
-   "prize": "₹5,000",
-   "deadline": "2026-09-09",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, Fresher",
-   "participants": 45,
-   "location": "India",
-   "prize_value": 58
   },
   {
    "title": "Zero Origin",
@@ -372,7 +372,7 @@
    "prize": "₹ 2,500",
    "deadline": "Sep 26, 2026",
    "domain": "Fintech, Machine Learning/AI, Beginner Friendly",
-   "participants": 256,
+   "participants": 276,
    "location": "Online",
    "prize_value": 29
   },
@@ -383,7 +383,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 324,
+   "participants": 330,
    "location": "Online",
    "prize_value": 0
   },
@@ -394,7 +394,7 @@
    "prize": "$ 0",
    "deadline": "Sep 22, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 258,
+   "participants": 263,
    "location": "Online",
    "prize_value": 0
   },
@@ -405,7 +405,7 @@
    "prize": "$ 0",
    "deadline": "Sep 20, 2026",
    "domain": "Databases, Machine Learning/AI, Web",
-   "participants": 229,
+   "participants": 234,
    "location": "Online",
    "prize_value": 0
   },
