@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-09-14T08:04:31.791270+00:00",
- "count": 36,
+ "fetched_at": "2026-09-15T07:59:04.780937+00:00",
+ "count": 37,
  "competitions": [
   {
    "title": "ARC Prize 2026 — ARC-AGI-2 (code competition)",
@@ -20,7 +20,7 @@
    "prize": "$ 156,525",
    "deadline": "Oct 01, 2026",
    "domain": "Machine Learning/AI, Social Good, Beginner Friendly",
-   "participants": 1000,
+   "participants": 1051,
    "location": "Online",
    "prize_value": 156525
   },
@@ -42,7 +42,7 @@
    "prize": "$ 138,000",
    "deadline": "Oct 23, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 6221,
+   "participants": 6884,
    "location": "Online",
    "prize_value": 138000
   },
@@ -53,7 +53,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 5121,
+   "participants": 5562,
    "location": "Online",
    "prize_value": 50000
   },
@@ -69,13 +69,13 @@
    "prize_value": 50000
   },
   {
-   "title": "Agents for Humans Hackathon",
+   "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
    "platform": "Devpost",
-   "url": "https://agentsforhumans.devpost.com/",
+   "url": "https://aws-cds-partner.devpost.com/",
    "prize": "$ 40,000",
-   "deadline": "Sep 14, 2026",
-   "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 9764,
+   "deadline": "Oct 28, 2026",
+   "domain": "Communication, Mobile, Machine Learning/AI",
+   "participants": 78,
    "location": "Online",
    "prize_value": 40000
   },
@@ -97,7 +97,7 @@
    "prize": "$ 33,900",
    "deadline": "Sep 15, 2026",
    "domain": "Machine Learning/AI, Open Ended, Beginner Friendly",
-   "participants": 3303,
+   "participants": 3411,
    "location": "Online",
    "prize_value": 33900
   },
@@ -108,7 +108,7 @@
    "prize": "$ 20,250",
    "deadline": "Oct 27, 2026",
    "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 1581,
+   "participants": 1642,
    "location": "Online",
    "prize_value": 20250
   },
@@ -119,7 +119,7 @@
    "prize": "$ 17,500",
    "deadline": "Sep 18, 2026",
    "domain": "Design, Social Good, Databases",
-   "participants": 432,
+   "participants": 439,
    "location": "Online",
    "prize_value": 17500
   },
@@ -130,20 +130,9 @@
    "prize": "$ 14,944",
    "deadline": "Oct 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 644,
+   "participants": 657,
    "location": "Online",
    "prize_value": 14944
-  },
-  {
-   "title": "CALL-E: Your Code Is Calling",
-   "platform": "Devpost",
-   "url": "https://call-e.devpost.com/",
-   "prize": "$ 10,000",
-   "deadline": "Sep 14, 2026",
-   "domain": "Communication, Enterprise, Machine Learning/AI",
-   "participants": 3200,
-   "location": "Online",
-   "prize_value": 10000
   },
   {
    "title": "OpenSearch Agent Skills Hackathon",
@@ -157,13 +146,24 @@
    "prize_value": 5000
   },
   {
+   "title": "OneAquaHealth IEEE Global Hackathon",
+   "platform": "Devpost",
+   "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
+   "prize": "$ 3,500",
+   "deadline": "Oct 01, 2026",
+   "domain": "Health, Machine Learning/AI, Social Good",
+   "participants": 745,
+   "location": "Online",
+   "prize_value": 3500
+  },
+  {
    "title": "Navonmesh 26 - A National Level Hackathon (In Collaboration with Qualcomm)",
    "platform": "Unstop",
    "url": "https://unstop.com/hackathons/navonmesh-26-a-national-level-hackathon-shri-shankaracharya-institute-of-professional-management-and-technolo-1748402",
    "prize": "₹275,000",
    "deadline": "2026-09-29",
    "domain": "All",
-   "participants": 55,
+   "participants": 71,
    "location": "India",
    "prize_value": 3235
   },
@@ -174,7 +174,7 @@
    "prize": "₹200,000",
    "deadline": "2026-10-17",
    "domain": "All",
-   "participants": 343,
+   "participants": 477,
    "location": "India",
    "prize_value": 2352
   },
@@ -185,7 +185,7 @@
    "prize": "₹155,000",
    "deadline": "2026-09-25",
    "domain": "All",
-   "participants": 75,
+   "participants": 113,
    "location": "India",
    "prize_value": 1823
   },
@@ -196,20 +196,9 @@
    "prize": "$ 1,750",
    "deadline": "Sep 20, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 777,
+   "participants": 815,
    "location": "Online",
    "prize_value": 1750
-  },
-  {
-   "title": "Hyperbloom September - AI/ML",
-   "platform": "Devpost",
-   "url": "https://hyperbloom-september.devpost.com/",
-   "prize": "$ 1,710",
-   "deadline": "Sep 14, 2026",
-   "domain": "IoT, Machine Learning/AI, Social Good",
-   "participants": 428,
-   "location": "Online",
-   "prize_value": 1710
   },
   {
    "title": "COMPSPHERE 12",
@@ -218,7 +207,7 @@
    "prize": "$ 1,247",
    "deadline": "Sep 17, 2026",
    "domain": "Blockchain, Machine Learning/AI, Cybersecurity",
-   "participants": 359,
+   "participants": 369,
    "location": "Online",
    "prize_value": 1247
   },
@@ -229,7 +218,7 @@
    "prize": "₹100,000",
    "deadline": "2026-09-30",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 515,
+   "participants": 645,
    "location": "India",
    "prize_value": 1176
   },
@@ -240,7 +229,7 @@
    "prize": "$ 750",
    "deadline": "Sep 27, 2026",
    "domain": "Blockchain, Open Ended, Web",
-   "participants": 184,
+   "participants": 191,
    "location": "Online",
    "prize_value": 750
   },
@@ -249,9 +238,9 @@
    "platform": "Unstop",
    "url": "https://unstop.com/hackathons/software-hackathon-convergence-2k26-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-techno-1750788",
    "prize": "₹60,000",
-   "deadline": "2026-09-14",
+   "deadline": "2026-09-15",
    "domain": "Engineering Students, Undergraduate",
-   "participants": 965,
+   "participants": 1329,
    "location": "India",
    "prize_value": 705
   },
@@ -262,9 +251,20 @@
    "prize": "₹59,500",
    "deadline": "2026-09-26",
    "domain": "All",
-   "participants": 1031,
+   "participants": 1243,
    "location": "India",
    "prize_value": 700
+  },
+  {
+   "title": "Smart City Hackathon Lahore",
+   "platform": "Devpost",
+   "url": "https://smart-city-hackathon-lahore.devpost.com/",
+   "prize": "$ 642",
+   "deadline": "Sep 19, 2026",
+   "domain": "Communication, Design, Social Good",
+   "participants": 177,
+   "location": "Lahore Garrison University",
+   "prize_value": 642
   },
   {
    "title": "IGNITRRON'26 - Project J.A.R.V.I.S (24 HR HACKATHON )",
@@ -273,7 +273,7 @@
    "prize": "₹50,000",
    "deadline": "2026-09-18",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 38,
+   "participants": 66,
    "location": "India",
    "prize_value": 588
   },
@@ -284,7 +284,7 @@
    "prize": "$ 400",
    "deadline": "Oct 05, 2026",
    "domain": "Beginner Friendly, Education, Social Good",
-   "participants": 222,
+   "participants": 229,
    "location": "Online",
    "prize_value": 400
   },
@@ -295,7 +295,7 @@
    "prize": "₹25,000",
    "deadline": "2026-09-19",
    "domain": "Engineering Students, Undergraduate, Management, Arts, Commerce, Sciences & Others",
-   "participants": 66,
+   "participants": 173,
    "location": "India",
    "prize_value": 294
   },
@@ -306,7 +306,7 @@
    "prize": "$ 275",
    "deadline": "Oct 15, 2026",
    "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 247,
+   "participants": 256,
    "location": "Online",
    "prize_value": 275
   },
@@ -317,9 +317,20 @@
    "prize": "$ 100",
    "deadline": "Sep 18, 2026",
    "domain": "Health, Machine Learning/AI, Beginner Friendly",
-   "participants": 410,
+   "participants": 452,
    "location": "Online",
    "prize_value": 100
+  },
+  {
+   "title": "DataHeist",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/dataheist-ieee-day-2026-dtu-new-delhi-1755310",
+   "prize": "₹6,000",
+   "deadline": "2026-10-15",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 60,
+   "location": "India",
+   "prize_value": 70
   },
   {
    "title": "Hackathon",
@@ -339,7 +350,7 @@
    "prize": "₹ 2,500",
    "deadline": "Sep 26, 2026",
    "domain": "Fintech, Machine Learning/AI, Beginner Friendly",
-   "participants": 355,
+   "participants": 379,
    "location": "Online",
    "prize_value": 29
   },
@@ -350,7 +361,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 367,
+   "participants": 371,
    "location": "Online",
    "prize_value": 0
   },
@@ -361,7 +372,7 @@
    "prize": "$ 0",
    "deadline": "Sep 22, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 277,
+   "participants": 283,
    "location": "Online",
    "prize_value": 0
   },
@@ -372,7 +383,7 @@
    "prize": "$ 0",
    "deadline": "Sep 20, 2026",
    "domain": "Databases, Machine Learning/AI, Web",
-   "participants": 267,
+   "participants": 275,
    "location": "Online",
    "prize_value": 0
   },
@@ -383,7 +394,7 @@
    "prize": "$ 0",
    "deadline": "Jan 14, 2027",
    "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 210,
+   "participants": 217,
    "location": "Online",
    "prize_value": 0
   },
