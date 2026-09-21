@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-09-20T07:53:31.004936+00:00",
- "count": 33,
+ "fetched_at": "2026-09-21T08:09:52.288528+00:00",
+ "count": 34,
  "competitions": [
   {
    "title": "ARC Prize 2026 — ARC-AGI-2 (code competition)",
@@ -12,17 +12,6 @@
    "location": "Online",
    "note": "seed: Kaggle API needs auth; check page for exact split",
    "prize_value": 1000000
-  },
-  {
-   "title": "TLN Hackathon 2026",
-   "platform": "Devpost",
-   "url": "https://tln-cybersecurity-challenge.devpost.com/",
-   "prize": "$ 207,193",
-   "deadline": "Sep 20, 2026",
-   "domain": "Beginner Friendly, Cybersecurity, Machine Learning/AI",
-   "participants": 462,
-   "location": "Online",
-   "prize_value": 207193
   },
   {
    "title": "ARC White-Box Estimation Challenge 2026 (Alignment Research Center)",
@@ -42,7 +31,7 @@
    "prize": "$ 138,000",
    "deadline": "Oct 23, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 10046,
+   "participants": 10538,
    "location": "Online",
    "prize_value": 138000
   },
@@ -53,7 +42,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 8568,
+   "participants": 9093,
    "location": "Online",
    "prize_value": 50000
   },
@@ -75,7 +64,7 @@
    "prize": "$ 40,000",
    "deadline": "Oct 28, 2026",
    "domain": "Communication, Mobile, Machine Learning/AI",
-   "participants": 254,
+   "participants": 272,
    "location": "Online",
    "prize_value": 40000
   },
@@ -97,7 +86,7 @@
    "prize": "$ 20,250",
    "deadline": "Oct 27, 2026",
    "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 2036,
+   "participants": 2154,
    "location": "Online",
    "prize_value": 20250
   },
@@ -108,7 +97,7 @@
    "prize": "$ 14,944",
    "deadline": "Oct 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 722,
+   "participants": 728,
    "location": "Online",
    "prize_value": 14944
   },
@@ -130,20 +119,9 @@
    "prize": "$ 3,500",
    "deadline": "Oct 01, 2026",
    "domain": "Health, Machine Learning/AI, Social Good",
-   "participants": 905,
+   "participants": 945,
    "location": "Online",
    "prize_value": 3500
-  },
-  {
-   "title": "NextStep Hacks 2026",
-   "platform": "Devpost",
-   "url": "https://nextstep2026.devpost.com/",
-   "prize": "$ 1,750",
-   "deadline": "Sep 20, 2026",
-   "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 993,
-   "location": "Online",
-   "prize_value": 1750
   },
   {
    "title": "COMPSPHERE 12",
@@ -152,31 +130,20 @@
    "prize": "$ 1,247",
    "deadline": "Sep 22, 2026",
    "domain": "Blockchain, Machine Learning/AI, Cybersecurity",
-   "participants": 465,
+   "participants": 476,
    "location": "Online",
    "prize_value": 1247
   },
   {
-   "title": "Solve - a - Thon | National Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/solve-a-thon-national-hackathon-swami-rama-himalayan-university-srhu-baksar-wala-uttarakhand-1755466",
-   "prize": "₹93,000",
-   "deadline": "2026-10-15",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 23,
-   "location": "India",
-   "prize_value": 1094
-  },
-  {
-   "title": "YC Fall 2026 x Moss: The Zero Latency Builder Sprint",
+   "title": "3rd-Web-Hack",
    "platform": "Devpost",
-   "url": "https://yc-fall-2026-x-moss.devpost.com/",
-   "prize": "₹ 50,000",
-   "deadline": "Sep 20, 2026",
-   "domain": "Machine Learning/AI",
-   "participants": 250,
-   "location": "Bengaluru, India",
-   "prize_value": 588
+   "url": "https://3rd-web-hack.devpost.com/",
+   "prize": "$ 750",
+   "deadline": "Sep 27, 2026",
+   "domain": "Blockchain, Open Ended, Web",
+   "participants": 257,
+   "location": "Online",
+   "prize_value": 750
   },
   {
    "title": "Hack-the-issue'26 Hackathon",
@@ -185,7 +152,7 @@
    "prize": "₹40,000",
    "deadline": "2026-10-19",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 0,
+   "participants": 2,
    "location": "India",
    "prize_value": 470
   },
@@ -196,7 +163,7 @@
    "prize": "$ 400",
    "deadline": "Oct 05, 2026",
    "domain": "Beginner Friendly, Education, Social Good",
-   "participants": 305,
+   "participants": 312,
    "location": "Online",
    "prize_value": 400
   },
@@ -207,29 +174,18 @@
    "prize": "$ 275",
    "deadline": "Oct 15, 2026",
    "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 308,
+   "participants": 317,
    "location": "Online",
    "prize_value": 275
   },
   {
-   "title": "Q Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/q-hackathon-quantum-university-roorkee-1757858",
-   "prize": "₹22,500",
-   "deadline": "2026-10-02",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, School Students",
-   "participants": 108,
-   "location": "India",
-   "prize_value": 264
-  },
-  {
-   "title": "PROJECT : ECLIPSE - AI & Automation Hackathon",
+   "title": "Genie X Hub represents Project : Eclipse Hackathon",
    "platform": "Unstop",
    "url": "https://unstop.com/hackathons/project-eclipse-ai-automation-hackathon-agni-college-of-technology-act-chennai-1758549",
    "prize": "₹20,000",
    "deadline": "2026-09-30",
    "domain": "All",
-   "participants": 37,
+   "participants": 313,
    "location": "India",
    "prize_value": 235
   },
@@ -240,9 +196,20 @@
    "prize": "₹18,000",
    "deadline": "2026-09-26",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Fresher",
-   "participants": 39,
+   "participants": 173,
    "location": "India",
    "prize_value": 211
+  },
+  {
+   "title": "Junior Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/junior-hackathon-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749752",
+   "prize": "₹15,000",
+   "deadline": "2026-10-19",
+   "domain": "School Students",
+   "participants": 0,
+   "location": "India",
+   "prize_value": 176
   },
   {
    "title": "Nakshatra - The Aerospace Hackathon 2026",
@@ -251,7 +218,7 @@
    "prize": "₹10,000",
    "deadline": "2026-09-26",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 0,
+   "participants": 3,
    "location": "India",
    "prize_value": 117
   },
@@ -262,7 +229,7 @@
    "prize": "$ 100",
    "deadline": "Sep 30, 2026",
    "domain": "Health, Machine Learning/AI, Beginner Friendly",
-   "participants": 663,
+   "participants": 669,
    "location": "Online",
    "prize_value": 100
   },
@@ -273,7 +240,7 @@
    "prize": "₹6,700",
    "deadline": "2026-09-28",
    "domain": "Engineering Students, Postgraduate, Undergraduate, School Students",
-   "participants": 0,
+   "participants": 1,
    "location": "India",
    "prize_value": 78
   },
@@ -284,7 +251,7 @@
    "prize": "₹ 2,500",
    "deadline": "Sep 26, 2026",
    "domain": "Fintech, Machine Learning/AI, Beginner Friendly",
-   "participants": 523,
+   "participants": 564,
    "location": "Online",
    "prize_value": 29
   },
@@ -295,7 +262,7 @@
    "prize": "₹150",
    "deadline": "2026-10-16",
    "domain": "All",
-   "participants": 71,
+   "participants": 531,
    "location": "India",
    "prize_value": 1
   },
@@ -306,7 +273,7 @@
    "prize": "$ 0",
    "deadline": "Oct 01, 2026",
    "domain": "Machine Learning/AI, Social Good, Beginner Friendly",
-   "participants": 1327,
+   "participants": 1372,
    "location": "Online",
    "prize_value": 0
   },
@@ -317,7 +284,7 @@
    "prize": "$ 0",
    "deadline": "Oct 16, 2026",
    "domain": "Databases, Machine Learning/AI",
-   "participants": 819,
+   "participants": 825,
    "location": "Online",
    "prize_value": 0
   },
@@ -339,7 +306,7 @@
    "prize": "$ 0",
    "deadline": "Sep 22, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 339,
+   "participants": 356,
    "location": "Online",
    "prize_value": 0
   },
@@ -350,8 +317,52 @@
    "prize": "$ 0",
    "deadline": "Sep 30, 2026",
    "domain": "Databases, Machine Learning/AI, Web",
-   "participants": 320,
+   "participants": 325,
    "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "Syntax Summit",
+   "platform": "Devpost",
+   "url": "https://syntax-summit.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Jan 14, 2027",
+   "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
+   "participants": 234,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "LUMA Hackathon (September 20th - 28th)",
+   "platform": "Devpost",
+   "url": "https://luma-hackathon-fall.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Sep 28, 2026",
+   "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
+   "participants": 185,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "InfinityX Global Hackathon 2K26",
+   "platform": "Devpost",
+   "url": "https://infinityx-2k26.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Sep 25, 2026",
+   "domain": "Machine Learning/AI, Open Ended, Web",
+   "participants": 176,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "Databricks AI Social Impact (DAISI) Challenge - Singapore",
+   "platform": "Devpost",
+   "url": "https://daisisg26.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Oct 06, 2026",
+   "domain": "Education, Machine Learning/AI, Social Good",
+   "participants": 140,
+   "location": "Databricks Singapore",
    "prize_value": 0
   },
   {
