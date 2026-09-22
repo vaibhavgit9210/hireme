@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-09-21T08:09:52.288528+00:00",
- "count": 34,
+ "fetched_at": "2026-09-22T07:55:18.292155+00:00",
+ "count": 35,
  "competitions": [
   {
    "title": "ARC Prize 2026 — ARC-AGI-2 (code competition)",
@@ -31,7 +31,7 @@
    "prize": "$ 138,000",
    "deadline": "Oct 23, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 10538,
+   "participants": 11119,
    "location": "Online",
    "prize_value": 138000
   },
@@ -42,7 +42,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 9093,
+   "participants": 9906,
    "location": "Online",
    "prize_value": 50000
   },
@@ -64,7 +64,7 @@
    "prize": "$ 40,000",
    "deadline": "Oct 28, 2026",
    "domain": "Communication, Mobile, Machine Learning/AI",
-   "participants": 272,
+   "participants": 318,
    "location": "Online",
    "prize_value": 40000
   },
@@ -86,7 +86,7 @@
    "prize": "$ 20,250",
    "deadline": "Oct 27, 2026",
    "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 2154,
+   "participants": 2274,
    "location": "Online",
    "prize_value": 20250
   },
@@ -97,7 +97,7 @@
    "prize": "$ 14,944",
    "deadline": "Oct 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 728,
+   "participants": 745,
    "location": "Online",
    "prize_value": 14944
   },
@@ -119,7 +119,7 @@
    "prize": "$ 3,500",
    "deadline": "Oct 01, 2026",
    "domain": "Health, Machine Learning/AI, Social Good",
-   "participants": 945,
+   "participants": 967,
    "location": "Online",
    "prize_value": 3500
   },
@@ -130,7 +130,7 @@
    "prize": "$ 1,247",
    "deadline": "Sep 22, 2026",
    "domain": "Blockchain, Machine Learning/AI, Cybersecurity",
-   "participants": 476,
+   "participants": 504,
    "location": "Online",
    "prize_value": 1247
   },
@@ -141,7 +141,7 @@
    "prize": "$ 750",
    "deadline": "Sep 27, 2026",
    "domain": "Blockchain, Open Ended, Web",
-   "participants": 257,
+   "participants": 268,
    "location": "Online",
    "prize_value": 750
   },
@@ -163,9 +163,20 @@
    "prize": "$ 400",
    "deadline": "Oct 05, 2026",
    "domain": "Beginner Friendly, Education, Social Good",
-   "participants": 312,
+   "participants": 327,
    "location": "Online",
    "prize_value": 400
+  },
+  {
+   "title": "Pixel Paranoia - 6 Hours UI/UX Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/pixel-paranoia-6-hours-uiux-hackathon-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-enginee-1759594",
+   "prize": "₹30,000",
+   "deadline": "2026-10-05",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 56,
+   "location": "India",
+   "prize_value": 352
   },
   {
    "title": "Next Founders Hackathon",
@@ -174,7 +185,7 @@
    "prize": "$ 275",
    "deadline": "Oct 15, 2026",
    "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 317,
+   "participants": 333,
    "location": "Online",
    "prize_value": 275
   },
@@ -185,7 +196,7 @@
    "prize": "₹20,000",
    "deadline": "2026-09-30",
    "domain": "All",
-   "participants": 313,
+   "participants": 409,
    "location": "India",
    "prize_value": 235
   },
@@ -196,7 +207,7 @@
    "prize": "₹18,000",
    "deadline": "2026-09-26",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Fresher",
-   "participants": 173,
+   "participants": 625,
    "location": "India",
    "prize_value": 211
   },
@@ -216,9 +227,9 @@
    "platform": "Unstop",
    "url": "https://unstop.com/hackathons/nakshatra-the-aerospace-hackathon-2026-madhav-institute-of-technology-and-science-mits-gwalior-1751540",
    "prize": "₹10,000",
-   "deadline": "2026-09-26",
+   "deadline": "2026-09-29",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 3,
+   "participants": 17,
    "location": "India",
    "prize_value": 117
   },
@@ -229,20 +240,9 @@
    "prize": "$ 100",
    "deadline": "Sep 30, 2026",
    "domain": "Health, Machine Learning/AI, Beginner Friendly",
-   "participants": 669,
+   "participants": 684,
    "location": "Online",
    "prize_value": 100
-  },
-  {
-   "title": "Datathon 26",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/datathon-26-symbiosis-university-of-applied-sciences-suas-indore-madhya-pradesh-1758550",
-   "prize": "₹6,700",
-   "deadline": "2026-09-28",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, School Students",
-   "participants": 1,
-   "location": "India",
-   "prize_value": 78
   },
   {
    "title": "Zero Origin",
@@ -251,7 +251,7 @@
    "prize": "₹ 2,500",
    "deadline": "Sep 26, 2026",
    "domain": "Fintech, Machine Learning/AI, Beginner Friendly",
-   "participants": 564,
+   "participants": 625,
    "location": "Online",
    "prize_value": 29
   },
@@ -260,9 +260,9 @@
    "platform": "Unstop",
    "url": "https://unstop.com/hackathons/babys-first-website-hackathon-hax-baby-1758510",
    "prize": "₹150",
-   "deadline": "2026-10-16",
+   "deadline": "2026-10-15",
    "domain": "All",
-   "participants": 531,
+   "participants": 800,
    "location": "India",
    "prize_value": 1
   },
@@ -273,7 +273,7 @@
    "prize": "$ 0",
    "deadline": "Oct 01, 2026",
    "domain": "Machine Learning/AI, Social Good, Beginner Friendly",
-   "participants": 1372,
+   "participants": 1397,
    "location": "Online",
    "prize_value": 0
   },
@@ -284,7 +284,7 @@
    "prize": "$ 0",
    "deadline": "Oct 16, 2026",
    "domain": "Databases, Machine Learning/AI",
-   "participants": 825,
+   "participants": 827,
    "location": "Online",
    "prize_value": 0
   },
@@ -295,7 +295,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 397,
+   "participants": 405,
    "location": "Online",
    "prize_value": 0
   },
@@ -306,7 +306,7 @@
    "prize": "$ 0",
    "deadline": "Sep 22, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 356,
+   "participants": 381,
    "location": "Online",
    "prize_value": 0
   },
@@ -317,7 +317,18 @@
    "prize": "$ 0",
    "deadline": "Sep 30, 2026",
    "domain": "Databases, Machine Learning/AI, Web",
-   "participants": 325,
+   "participants": 332,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "ML Empowerment Build Challenge 3.0 - FREE Prizes for EVERYONE",
+   "platform": "Devpost",
+   "url": "https://ml-build-challenge-3.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Oct 05, 2026",
+   "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
+   "participants": 264,
    "location": "Online",
    "prize_value": 0
   },
@@ -328,18 +339,7 @@
    "prize": "$ 0",
    "deadline": "Jan 14, 2027",
    "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 234,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "LUMA Hackathon (September 20th - 28th)",
-   "platform": "Devpost",
-   "url": "https://luma-hackathon-fall.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Sep 28, 2026",
-   "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 185,
+   "participants": 237,
    "location": "Online",
    "prize_value": 0
   },
@@ -350,7 +350,18 @@
    "prize": "$ 0",
    "deadline": "Sep 25, 2026",
    "domain": "Machine Learning/AI, Open Ended, Web",
-   "participants": 176,
+   "participants": 210,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "LUMA Hackathon (September 20th - 28th)",
+   "platform": "Devpost",
+   "url": "https://luma-hackathon-fall.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Sep 28, 2026",
+   "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
+   "participants": 188,
    "location": "Online",
    "prize_value": 0
   },
@@ -361,7 +372,7 @@
    "prize": "$ 0",
    "deadline": "Oct 06, 2026",
    "domain": "Education, Machine Learning/AI, Social Good",
-   "participants": 140,
+   "participants": 159,
    "location": "Databricks Singapore",
    "prize_value": 0
   },
