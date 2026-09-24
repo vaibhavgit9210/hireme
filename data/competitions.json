@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-23T07:55:46.212735+00:00",
+ "fetched_at": "2026-09-24T07:46:15.397706+00:00",
  "count": 33,
  "competitions": [
   {
@@ -31,7 +31,7 @@
    "prize": "$ 138,000",
    "deadline": "Oct 23, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 11897,
+   "participants": 12879,
    "location": "Online",
    "prize_value": 138000
   },
@@ -42,7 +42,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 10579,
+   "participants": 11042,
    "location": "Online",
    "prize_value": 50000
   },
@@ -64,7 +64,7 @@
    "prize": "$ 40,000",
    "deadline": "Oct 28, 2026",
    "domain": "Communication, Mobile, Machine Learning/AI",
-   "participants": 356,
+   "participants": 387,
    "location": "Online",
    "prize_value": 40000
   },
@@ -86,7 +86,7 @@
    "prize": "$ 20,250",
    "deadline": "Oct 27, 2026",
    "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 2426,
+   "participants": 2518,
    "location": "Online",
    "prize_value": 20250
   },
@@ -97,7 +97,7 @@
    "prize": "$ 14,944",
    "deadline": "Oct 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 765,
+   "participants": 773,
    "location": "Online",
    "prize_value": 14944
   },
@@ -119,7 +119,7 @@
    "prize": "$ 3,500",
    "deadline": "Oct 01, 2026",
    "domain": "Health, Machine Learning/AI, Social Good",
-   "participants": 998,
+   "participants": 1023,
    "location": "Online",
    "prize_value": 3500
   },
@@ -130,7 +130,7 @@
    "prize": "$ 2,500",
    "deadline": "Oct 26, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Education",
-   "participants": 160,
+   "participants": 605,
    "location": "Online",
    "prize_value": 2500
   },
@@ -141,9 +141,20 @@
    "prize": "$ 1,247",
    "deadline": "Sep 30, 2026",
    "domain": "Blockchain, Machine Learning/AI, Cybersecurity",
-   "participants": 522,
+   "participants": 530,
    "location": "Online",
    "prize_value": 1247
+  },
+  {
+   "title": "Narayana National Hackathon 2026",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/narayana-national-hackathon-2026-jai-narayan-vidya-mandir-kanpur-uttar-pradesh-1760310",
+   "prize": "₹100,000",
+   "deadline": "2026-09-30",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 291,
+   "location": "India",
+   "prize_value": 1176
   },
   {
    "title": "Multimodal AI Hackathon 2026",
@@ -151,8 +162,8 @@
    "url": "https://unstop.com/hackathons/multimodal-ai-hackathon-2026-iit-mandi-1755408",
    "prize": "₹100,000",
    "deadline": "2026-10-13",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 35,
+   "domain": "All",
+   "participants": 267,
    "location": "India",
    "prize_value": 1176
   },
@@ -163,7 +174,7 @@
    "prize": "$ 750",
    "deadline": "Sep 27, 2026",
    "domain": "Blockchain, Open Ended, Web",
-   "participants": 280,
+   "participants": 290,
    "location": "Online",
    "prize_value": 750
   },
@@ -174,7 +185,7 @@
    "prize": "$ 400",
    "deadline": "Oct 05, 2026",
    "domain": "Beginner Friendly, Education, Social Good",
-   "participants": 334,
+   "participants": 362,
    "location": "Online",
    "prize_value": 400
   },
@@ -185,7 +196,7 @@
    "prize": "₹30,000",
    "deadline": "2026-10-04",
    "domain": "Engineering Students, Postgraduate, Undergraduate",
-   "participants": 1,
+   "participants": 14,
    "location": "India",
    "prize_value": 352
   },
@@ -196,9 +207,20 @@
    "prize": "₹30,000",
    "deadline": "2026-10-05",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 107,
+   "participants": 125,
    "location": "India",
    "prize_value": 352
+  },
+  {
+   "title": "Hack The Weather",
+   "platform": "Devpost",
+   "url": "https://hack-the-weather.devpost.com/",
+   "prize": "$ 309",
+   "deadline": "Sep 25, 2026",
+   "domain": "Machine Learning/AI, Open Ended, Social Good",
+   "participants": 170,
+   "location": "Online",
+   "prize_value": 309
   },
   {
    "title": "Next Founders Hackathon",
@@ -207,31 +229,9 @@
    "prize": "$ 275",
    "deadline": "Oct 15, 2026",
    "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 347,
+   "participants": 424,
    "location": "Online",
    "prize_value": 275
-  },
-  {
-   "title": "Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/technorazz-2026-jaipur-national-university-jnu-jaipur-1757968",
-   "prize": "₹20,000",
-   "deadline": "2026-09-28",
-   "domain": "All",
-   "participants": 36,
-   "location": "India",
-   "prize_value": 235
-  },
-  {
-   "title": "Junior Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/junior-hackathon-techtrix26-navrachna-foundation-for-entrepreneurship-development-1749752",
-   "prize": "₹15,000",
-   "deadline": "2026-10-19",
-   "domain": "School Students",
-   "participants": 1,
-   "location": "India",
-   "prize_value": 176
   },
   {
    "title": "Hack2Heal 2.0 - Global Healthcare Innovation Hackathon",
@@ -240,7 +240,7 @@
    "prize": "$ 100",
    "deadline": "Sep 30, 2026",
    "domain": "Health, Machine Learning/AI, Beginner Friendly",
-   "participants": 700,
+   "participants": 777,
    "location": "Online",
    "prize_value": 100
   },
@@ -251,7 +251,7 @@
    "prize": "₹ 2,500",
    "deadline": "Sep 26, 2026",
    "domain": "Fintech, Machine Learning/AI, Beginner Friendly",
-   "participants": 673,
+   "participants": 726,
    "location": "Online",
    "prize_value": 29
   },
@@ -262,7 +262,7 @@
    "prize": "$ 0",
    "deadline": "Oct 01, 2026",
    "domain": "Machine Learning/AI, Social Good, Beginner Friendly",
-   "participants": 1424,
+   "participants": 1481,
    "location": "Online",
    "prize_value": 0
   },
@@ -273,73 +273,7 @@
    "prize": "$ 0",
    "deadline": "Oct 16, 2026",
    "domain": "Databases, Machine Learning/AI",
-   "participants": 831,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "Code for Humanity",
-   "platform": "Devpost",
-   "url": "https://code-for-humanity.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Jan 15, 2027",
-   "domain": "Education, Machine Learning/AI, Web",
-   "participants": 409,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "BunnieX Hackathon",
-   "platform": "Devpost",
-   "url": "https://buuniex-hackathon.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Sep 23, 2026",
-   "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 398,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "Evorozen Apex: NextGen AI Buildathon",
-   "platform": "Devpost",
-   "url": "https://evorozen-apex.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Sep 30, 2026",
-   "domain": "Databases, Machine Learning/AI, Web",
-   "participants": 337,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "ML Empowerment Build Challenge 3.0 - FREE Prizes for EVERYONE",
-   "platform": "Devpost",
-   "url": "https://ml-build-challenge-3.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Oct 05, 2026",
-   "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 281,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "Syntax Summit",
-   "platform": "Devpost",
-   "url": "https://syntax-summit.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Jan 14, 2027",
-   "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 240,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "InfinityX Global Hackathon 2K26",
-   "platform": "Devpost",
-   "url": "https://infinityx-2k26.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Sep 25, 2026",
-   "domain": "Machine Learning/AI, Open Ended, Web",
-   "participants": 231,
+   "participants": 869,
    "location": "Online",
    "prize_value": 0
   },
@@ -350,8 +284,74 @@
    "prize": "$ 0",
    "deadline": "Oct 06, 2026",
    "domain": "Education, Machine Learning/AI, Social Good",
-   "participants": 217,
+   "participants": 415,
    "location": "Databricks Singapore",
+   "prize_value": 0
+  },
+  {
+   "title": "Code for Humanity",
+   "platform": "Devpost",
+   "url": "https://code-for-humanity.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Jan 15, 2027",
+   "domain": "Education, Machine Learning/AI, Web",
+   "participants": 415,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "Evorozen Apex: NextGen AI Buildathon",
+   "platform": "Devpost",
+   "url": "https://evorozen-apex.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Sep 30, 2026",
+   "domain": "Databases, Machine Learning/AI, Web",
+   "participants": 353,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "ML Empowerment Build Challenge 3.0 - (55k in prizes!)",
+   "platform": "Devpost",
+   "url": "https://ml-build-challenge-3.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Oct 05, 2026",
+   "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
+   "participants": 301,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "InfinityX Global Hackathon 2K26",
+   "platform": "Devpost",
+   "url": "https://infinityx-2k26.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Sep 25, 2026",
+   "domain": "Machine Learning/AI, Open Ended, Web",
+   "participants": 252,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "Syntax Summit",
+   "platform": "Devpost",
+   "url": "https://syntax-summit.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Jan 14, 2027",
+   "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
+   "participants": 242,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "LUMA Hackathon (September 20th - 28th)",
+   "platform": "Devpost",
+   "url": "https://luma-hackathon-fall.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Sep 28, 2026",
+   "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
+   "participants": 190,
+   "location": "Online",
    "prize_value": 0
   },
   {
