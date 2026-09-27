@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-09-26T07:57:28.582085+00:00",
- "count": 35,
+ "fetched_at": "2026-09-27T08:30:15.923042+00:00",
+ "count": 33,
  "competitions": [
   {
    "title": "Meta VR Start Developer Competition 2026",
@@ -9,7 +9,7 @@
    "prize": "$ 1,000,000",
    "deadline": "Nov 18, 2026",
    "domain": "AR/VR, Machine Learning/AI, Web",
-   "participants": 357,
+   "participants": 518,
    "location": "Online",
    "prize_value": 1000000
   },
@@ -42,7 +42,7 @@
    "prize": "$ 138,000",
    "deadline": "Oct 23, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 14710,
+   "participants": 15692,
    "location": "Online",
    "prize_value": 138000
   },
@@ -53,7 +53,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 12069,
+   "participants": 12525,
    "location": "Online",
    "prize_value": 50000
   },
@@ -75,7 +75,7 @@
    "prize": "$ 40,000",
    "deadline": "Oct 28, 2026",
    "domain": "Communication, Mobile, Machine Learning/AI",
-   "participants": 440,
+   "participants": 444,
    "location": "Online",
    "prize_value": 40000
   },
@@ -97,7 +97,7 @@
    "prize": "$ 20,250",
    "deadline": "Oct 27, 2026",
    "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 2738,
+   "participants": 2844,
    "location": "Online",
    "prize_value": 20250
   },
@@ -108,7 +108,7 @@
    "prize": "$ 14,644",
    "deadline": "Oct 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 795,
+   "participants": 804,
    "location": "Online",
    "prize_value": 14644
   },
@@ -128,9 +128,9 @@
    "platform": "Devpost",
    "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
    "prize": "$ 3,500",
-   "deadline": "Oct 01, 2026",
+   "deadline": "Oct 05, 2026",
    "domain": "Health, Machine Learning/AI, Social Good",
-   "participants": 1068,
+   "participants": 1097,
    "location": "Online",
    "prize_value": 3500
   },
@@ -141,7 +141,7 @@
    "prize": "$ 2,500",
    "deadline": "Oct 26, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Education",
-   "participants": 933,
+   "participants": 1051,
    "location": "Online",
    "prize_value": 2500
   },
@@ -163,7 +163,7 @@
    "prize": "₹175,000",
    "deadline": "2026-10-11",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 105,
+   "participants": 272,
    "location": "India",
    "prize_value": 2058
   },
@@ -174,9 +174,20 @@
    "prize": "$ 1,247",
    "deadline": "Sep 30, 2026",
    "domain": "Blockchain, Machine Learning/AI, Cybersecurity",
-   "participants": 546,
+   "participants": 554,
    "location": "Online",
    "prize_value": 1247
+  },
+  {
+   "title": "AI-Manthan 2.0",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/ai-manthan-20-acropolis-institute-of-technology-and-research-indore-1751106",
+   "prize": "₹100,000",
+   "deadline": "2026-10-10",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 40,
+   "location": "India",
+   "prize_value": 1176
   },
   {
    "title": "HACK ON TRACK (24-Hour National Hackathon)",
@@ -185,7 +196,7 @@
    "prize": "₹100,000",
    "deadline": "2026-10-10",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 3,
+   "participants": 22,
    "location": "India",
    "prize_value": 1176
   },
@@ -196,31 +207,20 @@
    "prize": "₹100,000",
    "deadline": "2026-10-03",
    "domain": "All",
-   "participants": 297,
+   "participants": 339,
    "location": "India",
    "prize_value": 1176
   },
   {
-   "title": "Narayana National Hackathon 2026",
+   "title": "Techashy 2.0 Hackathon 2026",
    "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/narayana-national-hackathon-2026-jai-narayan-vidya-mandir-kanpur-uttar-pradesh-1760310",
-   "prize": "₹100,000",
-   "deadline": "2026-09-30",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 709,
+   "url": "https://unstop.com/hackathons/techashy-20-hackathon-2026-indian-institute-of-information-technology-iiit-kottayam-1761959",
+   "prize": "₹60,606",
+   "deadline": "2026-10-03",
+   "domain": "Engineering Students, Undergraduate, Medical, Arts, Commerce, Sciences & Others",
+   "participants": 58,
    "location": "India",
-   "prize_value": 1176
-  },
-  {
-   "title": "3rd-Web-Hack",
-   "platform": "Devpost",
-   "url": "https://3rd-web-hack.devpost.com/",
-   "prize": "$ 750",
-   "deadline": "Sep 27, 2026",
-   "domain": "Blockchain, Open Ended, Web",
-   "participants": 329,
-   "location": "Online",
-   "prize_value": 750
+   "prize_value": 713
   },
   {
    "title": "CSC Back-to-School Hackathon",
@@ -229,7 +229,7 @@
    "prize": "$ 400",
    "deadline": "Oct 05, 2026",
    "domain": "Beginner Friendly, Education, Social Good",
-   "participants": 389,
+   "participants": 413,
    "location": "Online",
    "prize_value": 400
   },
@@ -240,7 +240,7 @@
    "prize": "$ 275",
    "deadline": "Oct 15, 2026",
    "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 449,
+   "participants": 462,
    "location": "Online",
    "prize_value": 275
   },
@@ -251,7 +251,7 @@
    "prize": "₹15,000",
    "deadline": "2026-10-14",
    "domain": "All",
-   "participants": 452,
+   "participants": 805,
    "location": "India",
    "prize_value": 176
   },
@@ -262,7 +262,7 @@
    "prize": "$ 100",
    "deadline": "Sep 30, 2026",
    "domain": "Health, Machine Learning/AI, Beginner Friendly",
-   "participants": 811,
+   "participants": 831,
    "location": "Online",
    "prize_value": 100
   },
@@ -273,20 +273,9 @@
    "prize": "₹3,000",
    "deadline": "2026-10-25",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 180,
+   "participants": 325,
    "location": "India",
    "prize_value": 35
-  },
-  {
-   "title": "Zero Origin",
-   "platform": "Devpost",
-   "url": "https://zero-origin.devpost.com/",
-   "prize": "₹ 2,500",
-   "deadline": "Sep 26, 2026",
-   "domain": "Fintech, Machine Learning/AI, Beginner Friendly",
-   "participants": 899,
-   "location": "Online",
-   "prize_value": 29
   },
   {
    "title": "Global Innovation Build Challenge V2",
@@ -295,7 +284,7 @@
    "prize": "$ 0",
    "deadline": "Oct 01, 2026",
    "domain": "Machine Learning/AI, Social Good, Beginner Friendly",
-   "participants": 1521,
+   "participants": 1553,
    "location": "Online",
    "prize_value": 0
   },
@@ -306,7 +295,7 @@
    "prize": "$ 0",
    "deadline": "Oct 16, 2026",
    "domain": "Databases, Machine Learning/AI",
-   "participants": 877,
+   "participants": 884,
    "location": "Online",
    "prize_value": 0
   },
@@ -317,7 +306,7 @@
    "prize": "$ 0",
    "deadline": "Oct 06, 2026",
    "domain": "Education, Machine Learning/AI, Social Good",
-   "participants": 503,
+   "participants": 518,
    "location": "Databricks Singapore",
    "prize_value": 0
   },
@@ -328,7 +317,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 427,
+   "participants": 431,
    "location": "Online",
    "prize_value": 0
   },
@@ -339,18 +328,18 @@
    "prize": "$ 0",
    "deadline": "Sep 30, 2026",
    "domain": "Databases, Machine Learning/AI, Web",
-   "participants": 367,
+   "participants": 373,
    "location": "Online",
    "prize_value": 0
   },
   {
-   "title": "ML Empowerment Build Challenge 3.0 - (67k in prizes!)",
+   "title": "ML Empowerment Build Challenge 3.0 - ($80,000 in prizes!)",
    "platform": "Devpost",
    "url": "https://ml-build-challenge-3.devpost.com/",
    "prize": "$ 0",
    "deadline": "Oct 06, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 339,
+   "participants": 364,
    "location": "Online",
    "prize_value": 0
   },
@@ -361,18 +350,7 @@
    "prize": "$ 0",
    "deadline": "Jan 14, 2027",
    "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 249,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "LUMA Hackathon (September 20th - 28th)",
-   "platform": "Devpost",
-   "url": "https://luma-hackathon-fall.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Sep 28, 2026",
-   "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 198,
+   "participants": 251,
    "location": "Online",
    "prize_value": 0
   },
