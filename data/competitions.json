@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-09-27T08:30:15.923042+00:00",
- "count": 33,
+ "fetched_at": "2026-09-28T08:54:55.259863+00:00",
+ "count": 37,
  "competitions": [
   {
    "title": "Meta VR Start Developer Competition 2026",
@@ -9,7 +9,7 @@
    "prize": "$ 1,000,000",
    "deadline": "Nov 18, 2026",
    "domain": "AR/VR, Machine Learning/AI, Web",
-   "participants": 518,
+   "participants": 871,
    "location": "Online",
    "prize_value": 1000000
   },
@@ -42,7 +42,7 @@
    "prize": "$ 138,000",
    "deadline": "Oct 23, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 15692,
+   "participants": 17019,
    "location": "Online",
    "prize_value": 138000
   },
@@ -53,7 +53,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 12525,
+   "participants": 13211,
    "location": "Online",
    "prize_value": 50000
   },
@@ -75,7 +75,7 @@
    "prize": "$ 40,000",
    "deadline": "Oct 28, 2026",
    "domain": "Communication, Mobile, Machine Learning/AI",
-   "participants": 444,
+   "participants": 465,
    "location": "Online",
    "prize_value": 40000
   },
@@ -97,7 +97,7 @@
    "prize": "$ 20,250",
    "deadline": "Oct 27, 2026",
    "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 2844,
+   "participants": 3033,
    "location": "Online",
    "prize_value": 20250
   },
@@ -108,7 +108,7 @@
    "prize": "$ 14,644",
    "deadline": "Oct 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 804,
+   "participants": 812,
    "location": "Online",
    "prize_value": 14644
   },
@@ -130,7 +130,7 @@
    "prize": "$ 3,500",
    "deadline": "Oct 05, 2026",
    "domain": "Health, Machine Learning/AI, Social Good",
-   "participants": 1097,
+   "participants": 1129,
    "location": "Online",
    "prize_value": 3500
   },
@@ -141,31 +141,9 @@
    "prize": "$ 2,500",
    "deadline": "Oct 26, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Education",
-   "participants": 1051,
+   "participants": 1180,
    "location": "Online",
    "prize_value": 2500
-  },
-  {
-   "title": "Mozilla CHRIST Human Scale AI Buildathon 2026",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/mozilla-christ-human-scale-ai-buildathon-2026-christ-deemed-to-be-university-1759745",
-   "prize": "₹175,000",
-   "deadline": "2026-10-05",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 10,
-   "location": "India",
-   "prize_value": 2058
-  },
-  {
-   "title": "Computer Vision AI Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/computer-vision-ai-hackathon-e-cell-iit-bombay-1760776",
-   "prize": "₹175,000",
-   "deadline": "2026-10-11",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 272,
-   "location": "India",
-   "prize_value": 2058
   },
   {
    "title": "COMPSPHERE 12",
@@ -174,7 +152,7 @@
    "prize": "$ 1,247",
    "deadline": "Sep 30, 2026",
    "domain": "Blockchain, Machine Learning/AI, Cybersecurity",
-   "participants": 554,
+   "participants": 566,
    "location": "Online",
    "prize_value": 1247
   },
@@ -185,29 +163,7 @@
    "prize": "₹100,000",
    "deadline": "2026-10-10",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 40,
-   "location": "India",
-   "prize_value": 1176
-  },
-  {
-   "title": "HACK ON TRACK (24-Hour National Hackathon)",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/hack-on-track-24-hour-national-hackathon-fr-c-rodrigues-institute-of-technology-fcrit-navi-mumbai-1758208",
-   "prize": "₹100,000",
-   "deadline": "2026-10-10",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 22,
-   "location": "India",
-   "prize_value": 1176
-  },
-  {
-   "title": "Elevate 1.0 - National Level Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/elevate-10-national-level-hackathon-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineeri-1757480",
-   "prize": "₹100,000",
-   "deadline": "2026-10-03",
-   "domain": "All",
-   "participants": 339,
+   "participants": 58,
    "location": "India",
    "prize_value": 1176
   },
@@ -218,9 +174,20 @@
    "prize": "₹60,606",
    "deadline": "2026-10-03",
    "domain": "Engineering Students, Undergraduate, Medical, Arts, Commerce, Sciences & Others",
-   "participants": 58,
+   "participants": 150,
    "location": "India",
    "prize_value": 713
+  },
+  {
+   "title": "Next Gen Hackathon 2026 -Bengaluru",
+   "platform": "Devpost",
+   "url": "https://next-gen-hackathon.devpost.com/",
+   "prize": "₹ 50,000",
+   "deadline": "Oct 23, 2026",
+   "domain": "AR/VR, IoT, Machine Learning/AI",
+   "participants": 172,
+   "location": "Tripura Vasini Palace Grounds, Bengaluru",
+   "prize_value": 588
   },
   {
    "title": "CSC Back-to-School Hackathon",
@@ -229,9 +196,20 @@
    "prize": "$ 400",
    "deadline": "Oct 05, 2026",
    "domain": "Beginner Friendly, Education, Social Good",
-   "participants": 413,
+   "participants": 425,
    "location": "Online",
    "prize_value": 400
+  },
+  {
+   "title": "Xtract 5.0",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/xtract-50-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1762239",
+   "prize": "₹32,000",
+   "deadline": "2026-10-10",
+   "domain": "On Campus Quiz, Coding Challenge, Treasure Hunt, Data Science",
+   "participants": 29,
+   "location": "India",
+   "prize_value": 376
   },
   {
    "title": "Next Founders Hackathon",
@@ -240,9 +218,31 @@
    "prize": "$ 275",
    "deadline": "Oct 15, 2026",
    "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 462,
+   "participants": 482,
    "location": "Online",
    "prize_value": 275
+  },
+  {
+   "title": "LovHack Season 3",
+   "platform": "Devpost",
+   "url": "https://lovhack-season-3.devpost.com/",
+   "prize": "$ 250",
+   "deadline": "Oct 04, 2026",
+   "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
+   "participants": 189,
+   "location": "Online",
+   "prize_value": 250
+  },
+  {
+   "title": "Namo Bharat – 30-Hour National Hackathon 2026",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/namo-bharat-30-hour-national-hackathon-2026-sanskriti-university-1762223",
+   "prize": "₹15,000",
+   "deadline": "2026-10-11",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 82,
+   "location": "India",
+   "prize_value": 176
   },
   {
    "title": "Hack-A-Throne | National Hackathon 2026",
@@ -251,9 +251,31 @@
    "prize": "₹15,000",
    "deadline": "2026-10-14",
    "domain": "All",
-   "participants": 805,
+   "participants": 1132,
    "location": "India",
    "prize_value": 176
+  },
+  {
+   "title": "Cortex Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/cortex-hackathon-mit-world-peace-university-pune-maharashtra-1762303",
+   "prize": "₹10,000",
+   "deadline": "2026-10-05",
+   "domain": "Engineering Students, Postgraduate, Undergraduate",
+   "participants": 22,
+   "location": "India",
+   "prize_value": 117
+  },
+  {
+   "title": "IEEE Synapse Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/ieee-synapse-hackathon-aissms-ioit-pune-1761309",
+   "prize": "₹10,000",
+   "deadline": "2026-10-07",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 11,
+   "location": "India",
+   "prize_value": 117
   },
   {
    "title": "Hack2Heal 2.0 - Global Healthcare Innovation Hackathon",
@@ -262,7 +284,18 @@
    "prize": "$ 100",
    "deadline": "Sep 30, 2026",
    "domain": "Health, Machine Learning/AI, Beginner Friendly",
-   "participants": 831,
+   "participants": 841,
+   "location": "Online",
+   "prize_value": 100
+  },
+  {
+   "title": "Next Byte Hacks: V4",
+   "platform": "Devpost",
+   "url": "https://next-byte-hacks-v4.devpost.com/",
+   "prize": "$ 100",
+   "deadline": "Sep 30, 2026",
+   "domain": "Beginner Friendly, Education, Machine Learning/AI",
+   "participants": 182,
    "location": "Online",
    "prize_value": 100
   },
@@ -273,7 +306,7 @@
    "prize": "₹3,000",
    "deadline": "2026-10-25",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 325,
+   "participants": 389,
    "location": "India",
    "prize_value": 35
   },
@@ -284,7 +317,7 @@
    "prize": "$ 0",
    "deadline": "Oct 01, 2026",
    "domain": "Machine Learning/AI, Social Good, Beginner Friendly",
-   "participants": 1553,
+   "participants": 1587,
    "location": "Online",
    "prize_value": 0
   },
@@ -295,7 +328,7 @@
    "prize": "$ 0",
    "deadline": "Oct 16, 2026",
    "domain": "Databases, Machine Learning/AI",
-   "participants": 884,
+   "participants": 891,
    "location": "Online",
    "prize_value": 0
   },
@@ -306,7 +339,7 @@
    "prize": "$ 0",
    "deadline": "Oct 06, 2026",
    "domain": "Education, Machine Learning/AI, Social Good",
-   "participants": 518,
+   "participants": 533,
    "location": "Databricks Singapore",
    "prize_value": 0
   },
@@ -317,18 +350,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 431,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "Evorozen Apex: NextGen AI Buildathon",
-   "platform": "Devpost",
-   "url": "https://evorozen-apex.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Sep 30, 2026",
-   "domain": "Databases, Machine Learning/AI, Web",
-   "participants": 373,
+   "participants": 447,
    "location": "Online",
    "prize_value": 0
   },
@@ -339,7 +361,18 @@
    "prize": "$ 0",
    "deadline": "Oct 06, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 364,
+   "participants": 399,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "Evorozen Apex: NextGen AI Buildathon",
+   "platform": "Devpost",
+   "url": "https://evorozen-apex.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Sep 30, 2026",
+   "domain": "Databases, Machine Learning/AI, Web",
+   "participants": 386,
    "location": "Online",
    "prize_value": 0
   },
@@ -350,7 +383,18 @@
    "prize": "$ 0",
    "deadline": "Jan 14, 2027",
    "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 251,
+   "participants": 258,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "LUMA Hackathon (September 20th - 28th)",
+   "platform": "Devpost",
+   "url": "https://luma-hackathon-fall.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Sep 28, 2026",
+   "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
+   "participants": 209,
    "location": "Online",
    "prize_value": 0
   },
