@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-10-02T08:53:18.616711+00:00",
- "count": 29,
+ "fetched_at": "2026-10-03T08:30:15.206147+00:00",
+ "count": 31,
  "competitions": [
   {
    "title": "Meta VR Start Developer Competition 2026",
@@ -9,7 +9,7 @@
    "prize": "$ 1,000,000",
    "deadline": "Nov 18, 2026",
    "domain": "AR/VR, Machine Learning/AI, Web",
-   "participants": 1797,
+   "participants": 1965,
    "location": "Online",
    "prize_value": 1000000
   },
@@ -28,12 +28,12 @@
    "title": "ForgeHacks Online 2026",
    "platform": "Devpost",
    "url": "https://forgehacks-2026.devpost.com/",
-   "prize": "$ 672,570",
+   "prize": "$ 868,165",
    "deadline": "Oct 10, 2026",
    "domain": "Beginner Friendly, Lifehacks, Machine Learning/AI",
-   "participants": 895,
+   "participants": 1078,
    "location": "Online",
-   "prize_value": 672570
+   "prize_value": 868165
   },
   {
    "title": "ARC White-Box Estimation Challenge 2026 (Alignment Research Center)",
@@ -53,7 +53,7 @@
    "prize": "$ 138,000",
    "deadline": "Oct 23, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 31642,
+   "participants": 33705,
    "location": "Online",
    "prize_value": 138000
   },
@@ -64,7 +64,7 @@
    "prize": "$ 67,500",
    "deadline": "Nov 12, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Web",
-   "participants": 732,
+   "participants": 3119,
    "location": "Online",
    "prize_value": 67500
   },
@@ -75,7 +75,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 15826,
+   "participants": 16570,
    "location": "Online",
    "prize_value": 50000
   },
@@ -97,7 +97,7 @@
    "prize": "$ 40,000",
    "deadline": "Oct 28, 2026",
    "domain": "Communication, Mobile, Machine Learning/AI",
-   "participants": 603,
+   "participants": 626,
    "location": "Online",
    "prize_value": 40000
   },
@@ -119,7 +119,7 @@
    "prize": "$ 25,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI",
-   "participants": 179,
+   "participants": 269,
    "location": "Online",
    "prize_value": 25000
   },
@@ -130,7 +130,7 @@
    "prize": "$ 20,250",
    "deadline": "Oct 27, 2026",
    "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 3658,
+   "participants": 3761,
    "location": "Online",
    "prize_value": 20250
   },
@@ -141,7 +141,7 @@
    "prize": "$ 14,644",
    "deadline": "Oct 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 879,
+   "participants": 888,
    "location": "Online",
    "prize_value": 14644
   },
@@ -152,7 +152,7 @@
    "prize": "€ 10,680",
    "deadline": "Oct 16, 2026",
    "domain": "Education, Machine Learning/AI, Social Good",
-   "participants": 633,
+   "participants": 654,
    "location": "Grand Finals 2027 ",
    "prize_value": 10680
   },
@@ -163,7 +163,7 @@
    "prize": "$ 6,000",
    "deadline": "Nov 02, 2026",
    "domain": "AR/VR, E-commerce/Retail, Machine Learning/AI",
-   "participants": 550,
+   "participants": 592,
    "location": "Online",
    "prize_value": 6000
   },
@@ -185,7 +185,7 @@
    "prize": "$ 3,500",
    "deadline": "Oct 05, 2026",
    "domain": "Health, Machine Learning/AI, Social Good",
-   "participants": 1262,
+   "participants": 1300,
    "location": "Online",
    "prize_value": 3500
   },
@@ -196,7 +196,7 @@
    "prize": "$ 2,500",
    "deadline": "Oct 26, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Education",
-   "participants": 1977,
+   "participants": 2148,
    "location": "Online",
    "prize_value": 2500
   },
@@ -207,8 +207,19 @@
    "prize": "₹ 100,000",
    "deadline": "Oct 14, 2026",
    "domain": "Machine Learning/AI",
-   "participants": 1753,
+   "participants": 1909,
    "location": "Online",
+   "prize_value": 1176
+  },
+  {
+   "title": "CodeAstra 2.0 – 24-Hour Offline Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/codeastra-20-24-hour-offline-hackathon-association-of-budding-information-technocrats-abit-rgit-1764841",
+   "prize": "₹100,000",
+   "deadline": "2026-10-08",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 10,
+   "location": "India",
    "prize_value": 1176
   },
   {
@@ -218,7 +229,7 @@
    "prize": "$ 400",
    "deadline": "Oct 05, 2026",
    "domain": "Beginner Friendly, Education, Social Good",
-   "participants": 489,
+   "participants": 513,
    "location": "Online",
    "prize_value": 400
   },
@@ -229,20 +240,20 @@
    "prize": "$ 275",
    "deadline": "Oct 15, 2026",
    "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 581,
+   "participants": 595,
    "location": "Online",
    "prize_value": 275
   },
   {
-   "title": "Global Innovation Build Challenge V2",
-   "platform": "Devpost",
-   "url": "https://gibc-v2.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Oct 02, 2026",
-   "domain": "Machine Learning/AI, Social Good, Beginner Friendly",
-   "participants": 1727,
-   "location": "Online",
-   "prize_value": 0
+   "title": "Medha AI ML Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/medha-ai-ml-hackathon-national-institute-of-technology-nit-delhi-1760434",
+   "prize": "₹10,000",
+   "deadline": "2026-10-09",
+   "domain": "Engineering Students, Undergraduate",
+   "participants": 7,
+   "location": "India",
+   "prize_value": 117
   },
   {
    "title": "WarriorHacks 2.0",
@@ -251,7 +262,7 @@
    "prize": "$ 0",
    "deadline": "Oct 14, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 1307,
+   "participants": 1337,
    "location": "Online",
    "prize_value": 0
   },
@@ -262,7 +273,7 @@
    "prize": "$ 0",
    "deadline": "Oct 16, 2026",
    "domain": "Databases, Machine Learning/AI",
-   "participants": 928,
+   "participants": 930,
    "location": "Online",
    "prize_value": 0
   },
@@ -273,7 +284,7 @@
    "prize": "$ 0",
    "deadline": "Oct 06, 2026",
    "domain": "Education, Machine Learning/AI, Social Good",
-   "participants": 613,
+   "participants": 627,
    "location": "Databricks Singapore",
    "prize_value": 0
   },
@@ -284,7 +295,7 @@
    "prize": "$ 0",
    "deadline": "Oct 10, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 530,
+   "participants": 551,
    "location": "Online",
    "prize_value": 0
   },
@@ -295,7 +306,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 485,
+   "participants": 491,
    "location": "Online",
    "prize_value": 0
   },
@@ -306,7 +317,18 @@
    "prize": "$ 0",
    "deadline": "Oct 04, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 298,
+   "participants": 321,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "Syntax Summit",
+   "platform": "Devpost",
+   "url": "https://syntax-summit.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Jan 14, 2027",
+   "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
+   "participants": 280,
    "location": "Online",
    "prize_value": 0
   },
