@@ -1,29 +1,7 @@
 {
- "fetched_at": "2026-10-06T09:18:45.746422+00:00",
- "count": 32,
+ "fetched_at": "2026-10-07T09:09:22.311659+00:00",
+ "count": 8,
  "competitions": [
-  {
-   "title": "ForgeHacks Online 2026",
-   "platform": "Devpost",
-   "url": "https://forgehacks-2026.devpost.com/",
-   "prize": "$ 1,218,635",
-   "deadline": "Oct 10, 2026",
-   "domain": "Beginner Friendly, Lifehacks, Machine Learning/AI",
-   "participants": 1563,
-   "location": "Online",
-   "prize_value": 1218635
-  },
-  {
-   "title": "Meta VR Start Developer Competition 2026",
-   "platform": "Devpost",
-   "url": "https://start-developer-competition-26.devpost.com/",
-   "prize": "$ 1,000,000",
-   "deadline": "Nov 18, 2026",
-   "domain": "AR/VR, Machine Learning/AI, Web",
-   "participants": 2287,
-   "location": "Online",
-   "prize_value": 1000000
-  },
   {
    "title": "ARC Prize 2026 — ARC-AGI-2 (code competition)",
    "platform": "Kaggle",
@@ -47,39 +25,6 @@
    "prize_value": 150000
   },
   {
-   "title": "Build, Ship, Shape: Amazon Developer Hackathon",
-   "platform": "Devpost",
-   "url": "https://amazonappdev2026.devpost.com/",
-   "prize": "$ 138,000",
-   "deadline": "Oct 23, 2026",
-   "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 46582,
-   "location": "Online",
-   "prize_value": 138000
-  },
-  {
-   "title": "PayPal AI Hackathon",
-   "platform": "Devpost",
-   "url": "https://paypalaihackathon.devpost.com/",
-   "prize": "$ 67,500",
-   "deadline": "Nov 12, 2026",
-   "domain": "Low/No Code, Machine Learning/AI, Web",
-   "participants": 7266,
-   "location": "Online",
-   "prize_value": 67500
-  },
-  {
-   "title": "Nebius x NVIDIA Global AI Hackathon",
-   "platform": "Devpost",
-   "url": "https://nebiusglobalaihackathon.devpost.com/",
-   "prize": "$ 50,000",
-   "deadline": "Oct 30, 2026",
-   "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 18664,
-   "location": "Online",
-   "prize_value": 50000
-  },
-  {
    "title": "Trace the Ace — National Tutoring Observatory",
    "platform": "DrivenData",
    "url": "https://www.drivendata.org/competitions/",
@@ -89,28 +34,6 @@
    "location": "Online",
    "note": "seed: DrivenData has no API",
    "prize_value": 50000
-  },
-  {
-   "title": "Life After Code",
-   "platform": "Devpost",
-   "url": "https://gitlab-transcend.devpost.com/",
-   "prize": "$ 45,000",
-   "deadline": "Oct 27, 2026",
-   "domain": "DevOps, Machine Learning/AI, Productivity",
-   "participants": 740,
-   "location": "Online",
-   "prize_value": 45000
-  },
-  {
-   "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-   "platform": "Devpost",
-   "url": "https://aws-cds-partner.devpost.com/",
-   "prize": "$ 40,000",
-   "deadline": "Oct 28, 2026",
-   "domain": "Communication, Mobile, Machine Learning/AI",
-   "participants": 723,
-   "location": "Online",
-   "prize_value": 40000
   },
   {
    "title": "ARC Prize — ARC-AGI-3 Agents track",
@@ -124,61 +47,6 @@
    "prize_value": 37500
   },
   {
-   "title": "Qloo Agentic Hackathon",
-   "platform": "Devpost",
-   "url": "https://qloo.devpost.com/",
-   "prize": "$ 25,000",
-   "deadline": "Oct 30, 2026",
-   "domain": "Machine Learning/AI",
-   "participants": 575,
-   "location": "Online",
-   "prize_value": 25000
-  },
-  {
-   "title": "OpenCV AI Competition 2026, powered by AWS",
-   "platform": "Devpost",
-   "url": "https://opencv26.devpost.com/",
-   "prize": "$ 20,250",
-   "deadline": "Oct 27, 2026",
-   "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 4087,
-   "location": "Online",
-   "prize_value": 20250
-  },
-  {
-   "title": "Galuxium Nexus V2",
-   "platform": "Devpost",
-   "url": "https://galuxium-nexus-v2-29411.devpost.com/",
-   "prize": "$ 14,644",
-   "deadline": "Oct 31, 2026",
-   "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 921,
-   "location": "Online",
-   "prize_value": 14644
-  },
-  {
-   "title": "Hack Apertus",
-   "platform": "Devpost",
-   "url": "https://hackapertus.devpost.com/",
-   "prize": "€ 10,680",
-   "deadline": "Oct 16, 2026",
-   "domain": "Education, Machine Learning/AI, Social Good",
-   "participants": 728,
-   "location": "Grand Finals 2027 ",
-   "prize_value": 10680
-  },
-  {
-   "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
-   "platform": "Devpost",
-   "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
-   "prize": "$ 6,000",
-   "deadline": "Nov 02, 2026",
-   "domain": "AR/VR, E-commerce/Retail, Machine Learning/AI",
-   "participants": 671,
-   "location": "Online",
-   "prize_value": 6000
-  },
-  {
    "title": "OpenSearch Agent Skills Hackathon",
    "platform": "OpenSearch",
    "url": "https://opensearch.org/blog/agent-skills-hackathon/",
@@ -190,81 +58,15 @@
    "prize_value": 5000
   },
   {
-   "title": "IEEE ClimateChain Global Hackathon",
-   "platform": "Devpost",
-   "url": "https://ieee-climatechain-hack.devpost.com/",
-   "prize": "$ 3,000",
-   "deadline": "Oct 25, 2026",
-   "domain": "Blockchain, Machine Learning/AI, Social Good",
-   "participants": 562,
-   "location": "Online",
-   "prize_value": 3000
-  },
-  {
-   "title": "Build With AI: Basics",
-   "platform": "Devpost",
-   "url": "https://learn-ai-basics.devpost.com/",
-   "prize": "$ 2,500",
-   "deadline": "Oct 26, 2026",
-   "domain": "Machine Learning/AI, Beginner Friendly, Education",
-   "participants": 2538,
-   "location": "Online",
-   "prize_value": 2500
-  },
-  {
-   "title": "Multimodal AI Hackathon 2026",
-   "platform": "Devpost",
-   "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
-   "prize": "₹ 100,000",
-   "deadline": "Oct 14, 2026",
-   "domain": "Machine Learning/AI",
-   "participants": 2615,
-   "location": "Online",
-   "prize_value": 1176
-  },
-  {
    "title": "Jammu Smart City Hackathon",
    "platform": "Unstop",
    "url": "https://unstop.com/hackathons/jammu-smart-city-hackathon-jammu-smart-city-hackathon-lead-1766040",
    "prize": "₹100,000",
    "deadline": "2026-10-20",
    "domain": "All",
-   "participants": 117,
+   "participants": 335,
    "location": "India",
    "prize_value": 1176
-  },
-  {
-   "title": "The DevForge - Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/the-devforge-hackathon-scaler-school-of-technology-bengaluru-karnataka-1765465",
-   "prize": "₹50,000",
-   "deadline": "2026-11-09",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 99,
-   "location": "India",
-   "prize_value": 588
-  },
-  {
-   "title": "Next Founders Hackathon",
-   "platform": "Devpost",
-   "url": "https://next-founders.devpost.com/",
-   "prize": "$ 275",
-   "deadline": "Oct 15, 2026",
-   "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 669,
-   "location": "Online",
-   "prize_value": 275
-  },
-  {
-   "title": "Hackathon: Qiskit Fall Fest x IIIT Delhi",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/hackathon-qiskit-fall-fest-x-iiit-delhi-iiitd-indraprastha-institute-of-information-technology-delhi-1765560",
-   "prize": "₹15,000",
-   "deadline": "2026-10-08",
-   "domain": "All",
-   "participants": 651,
-   "location": "India",
-   "prize_value": 176
   },
   {
    "title": "Commit to Change: Hackathon",
@@ -273,75 +75,9 @@
    "prize": "₹10,000",
    "deadline": "2026-10-13",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 64,
+   "participants": 76,
    "location": "India",
    "prize_value": 117
-  },
-  {
-   "title": "WarriorHacks 2.0",
-   "platform": "Devpost",
-   "url": "https://warriorhacks-2-0.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Oct 14, 2026",
-   "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 1819,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "MLAI Hackathon 2026",
-   "platform": "Devpost",
-   "url": "https://mlai-hackathon.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Oct 16, 2026",
-   "domain": "Databases, Machine Learning/AI",
-   "participants": 955,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "Databricks AI Social Impact (DAISI) Challenge - Singapore",
-   "platform": "Devpost",
-   "url": "https://daisisg26.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Oct 06, 2026",
-   "domain": "Education, Machine Learning/AI, Social Good",
-   "participants": 725,
-   "location": "Databricks Singapore",
-   "prize_value": 0
-  },
-  {
-   "title": "ML Empowerment Build Challenge 3.0 - ($400,000 in prizes!)",
-   "platform": "Devpost",
-   "url": "https://ml-build-challenge-3.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Oct 10, 2026",
-   "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 676,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "Code for Humanity",
-   "platform": "Devpost",
-   "url": "https://code-for-humanity.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Jan 15, 2027",
-   "domain": "Education, Machine Learning/AI, Web",
-   "participants": 509,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "Syntax Summit",
-   "platform": "Devpost",
-   "url": "https://syntax-summit.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Jan 14, 2027",
-   "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 295,
-   "location": "Online",
-   "prize_value": 0
   },
   {
    "title": "Archestra MCP Apps Hackathon",
