@@ -1,18 +1,7 @@
 {
- "fetched_at": "2026-10-10T08:52:39.293884+00:00",
- "count": 31,
+ "fetched_at": "2026-10-11T09:13:50.742367+00:00",
+ "count": 30,
  "competitions": [
-  {
-   "title": "ForgeHacks Online 2026",
-   "platform": "Devpost",
-   "url": "https://forgehacks-2026.devpost.com/",
-   "prize": "$ 1,382,700",
-   "deadline": "Oct 10, 2026",
-   "domain": "Beginner Friendly, Lifehacks, Machine Learning/AI",
-   "participants": 3212,
-   "location": "Online",
-   "prize_value": 1382700
-  },
   {
    "title": "Meta VR Start Developer Competition 2026",
    "platform": "Devpost",
@@ -20,7 +9,7 @@
    "prize": "$ 1,000,000",
    "deadline": "Nov 18, 2026",
    "domain": "AR/VR, Machine Learning/AI, Web",
-   "participants": 2792,
+   "participants": 2859,
    "location": "Online",
    "prize_value": 1000000
   },
@@ -53,7 +42,7 @@
    "prize": "$ 138,000",
    "deadline": "Oct 23, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 52671,
+   "participants": 53208,
    "location": "Online",
    "prize_value": 138000
   },
@@ -64,7 +53,7 @@
    "prize": "$ 67,500",
    "deadline": "Nov 12, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Web",
-   "participants": 10676,
+   "participants": 11282,
    "location": "Online",
    "prize_value": 67500
   },
@@ -75,7 +64,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 20492,
+   "participants": 20921,
    "location": "Online",
    "prize_value": 50000
   },
@@ -97,7 +86,7 @@
    "prize": "$ 45,000",
    "deadline": "Oct 27, 2026",
    "domain": "DevOps, Machine Learning/AI, Productivity",
-   "participants": 1484,
+   "participants": 1607,
    "location": "Online",
    "prize_value": 45000
   },
@@ -108,7 +97,7 @@
    "prize": "$ 40,000",
    "deadline": "Oct 28, 2026",
    "domain": "Communication, Mobile, Machine Learning/AI",
-   "participants": 841,
+   "participants": 844,
    "location": "Online",
    "prize_value": 40000
   },
@@ -130,7 +119,7 @@
    "prize": "$ 25,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI",
-   "participants": 915,
+   "participants": 1011,
    "location": "Online",
    "prize_value": 25000
   },
@@ -141,7 +130,7 @@
    "prize": "$ 20,250",
    "deadline": "Oct 27, 2026",
    "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 4532,
+   "participants": 4618,
    "location": "Online",
    "prize_value": 20250
   },
@@ -152,9 +141,20 @@
    "prize": "$ 14,644",
    "deadline": "Oct 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 957,
+   "participants": 973,
    "location": "Online",
    "prize_value": 14644
+  },
+  {
+   "title": "Hacklanta '26",
+   "platform": "Devpost",
+   "url": "https://hacklanta.devpost.com/",
+   "prize": "$ 14,000",
+   "deadline": "Oct 11, 2026",
+   "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
+   "participants": 374,
+   "location": "Student Center East Ballroom GSU",
+   "prize_value": 14000
   },
   {
    "title": "Hack Apertus",
@@ -163,7 +163,7 @@
    "prize": "€ 10,680",
    "deadline": "Oct 16, 2026",
    "domain": "Education, Machine Learning/AI, Social Good",
-   "participants": 801,
+   "participants": 820,
    "location": "Grand Finals 2027 ",
    "prize_value": 10680
   },
@@ -174,7 +174,7 @@
    "prize": "$ 6,000",
    "deadline": "Nov 02, 2026",
    "domain": "AR/VR, E-commerce/Retail, Machine Learning/AI",
-   "participants": 759,
+   "participants": 797,
    "location": "Online",
    "prize_value": 6000
   },
@@ -196,7 +196,7 @@
    "prize": "$ 3,000",
    "deadline": "Oct 25, 2026",
    "domain": "Blockchain, Machine Learning/AI, Social Good",
-   "participants": 673,
+   "participants": 688,
    "location": "Online",
    "prize_value": 3000
   },
@@ -207,9 +207,20 @@
    "prize": "$ 2,500",
    "deadline": "Oct 26, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Education",
-   "participants": 2915,
+   "participants": 3039,
    "location": "Online",
    "prize_value": 2500
+  },
+  {
+   "title": "Cascade’26 — Flagship Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/cascade26-flagship-hackathon-tantrafiesta26-iiitn-1766233",
+   "prize": "₹200,000",
+   "deadline": "2026-10-20",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, School Students",
+   "participants": 16,
+   "location": "India",
+   "prize_value": 2352
   },
   {
    "title": "Build for Bharat 2026 | Software + Hardware Hackathon",
@@ -218,7 +229,7 @@
    "prize": "₹120,000",
    "deadline": "2026-10-15",
    "domain": "All",
-   "participants": 70,
+   "participants": 101,
    "location": "India",
    "prize_value": 1411
   },
@@ -229,7 +240,7 @@
    "prize": "₹ 100,000",
    "deadline": "Oct 14, 2026",
    "domain": "Machine Learning/AI",
-   "participants": 3202,
+   "participants": 3325,
    "location": "Online",
    "prize_value": 1176
   },
@@ -240,7 +251,7 @@
    "prize": "₹50,000",
    "deadline": "2026-10-20",
    "domain": "All",
-   "participants": 297,
+   "participants": 438,
    "location": "India",
    "prize_value": 588
   },
@@ -251,7 +262,7 @@
    "prize": "₹45,000",
    "deadline": "2026-11-01",
    "domain": "Engineering Students, Postgraduate, Undergraduate",
-   "participants": 2,
+   "participants": 6,
    "location": "India",
    "prize_value": 529
   },
@@ -262,20 +273,9 @@
    "prize": "$ 500",
    "deadline": "Oct 12, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Web",
-   "participants": 434,
+   "participants": 504,
    "location": "Online",
    "prize_value": 500
-  },
-  {
-   "title": "DataOps Innovation Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/dataops-innovation-hackathon-hackthecore-1765313",
-   "prize": "₹30,000",
-   "deadline": "2026-11-01",
-   "domain": "All",
-   "participants": 271,
-   "location": "India",
-   "prize_value": 352
   },
   {
    "title": "Next Founders Hackathon",
@@ -284,7 +284,7 @@
    "prize": "$ 275",
    "deadline": "Oct 15, 2026",
    "domain": "Beginner Friendly, Low/No Code, Open Ended",
-   "participants": 735,
+   "participants": 766,
    "location": "Online",
    "prize_value": 275
   },
@@ -295,7 +295,7 @@
    "prize": "$ 0",
    "deadline": "Oct 14, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 2258,
+   "participants": 2299,
    "location": "Online",
    "prize_value": 0
   },
@@ -306,7 +306,7 @@
    "prize": "$ 0",
    "deadline": "Oct 16, 2026",
    "domain": "Databases, Machine Learning/AI",
-   "participants": 971,
+   "participants": 976,
    "location": "Online",
    "prize_value": 0
   },
@@ -317,18 +317,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 547,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "Syntax Summit",
-   "platform": "Devpost",
-   "url": "https://syntax-summit.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Jan 14, 2027",
-   "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 314,
+   "participants": 553,
    "location": "Online",
    "prize_value": 0
   },
