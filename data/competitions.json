@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-10-18T07:23:26.271593+00:00",
- "count": 32,
+ "fetched_at": "2026-10-19T08:02:23.359926+00:00",
+ "count": 30,
  "competitions": [
   {
    "title": "Meta VR Start Developer Competition 2026",
@@ -9,7 +9,7 @@
    "prize": "$ 1,000,000",
    "deadline": "Nov 18, 2026",
    "domain": "AR/VR, Machine Learning/AI, Web",
-   "participants": 3365,
+   "participants": 3410,
    "location": "Online",
    "prize_value": 1000000
   },
@@ -42,7 +42,7 @@
    "prize": "$ 138,000",
    "deadline": "Oct 23, 2026",
    "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 56559,
+   "participants": 56975,
    "location": "Online",
    "prize_value": 138000
   },
@@ -53,7 +53,7 @@
    "prize": "$ 67,500",
    "deadline": "Nov 12, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Web",
-   "participants": 16345,
+   "participants": 16842,
    "location": "Online",
    "prize_value": 67500
   },
@@ -64,7 +64,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 24507,
+   "participants": 24796,
    "location": "Online",
    "prize_value": 50000
   },
@@ -86,7 +86,7 @@
    "prize": "$ 45,000",
    "deadline": "Oct 27, 2026",
    "domain": "DevOps, Machine Learning/AI, Productivity",
-   "participants": 2527,
+   "participants": 2632,
    "location": "Online",
    "prize_value": 45000
   },
@@ -97,7 +97,7 @@
    "prize": "$ 40,000",
    "deadline": "Oct 28, 2026",
    "domain": "Communication, Mobile, Machine Learning/AI",
-   "participants": 936,
+   "participants": 945,
    "location": "Online",
    "prize_value": 40000
   },
@@ -119,7 +119,7 @@
    "prize": "$ 25,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI",
-   "participants": 1728,
+   "participants": 1807,
    "location": "Online",
    "prize_value": 25000
   },
@@ -130,7 +130,7 @@
    "prize": "$ 20,250",
    "deadline": "Oct 27, 2026",
    "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 5122,
+   "participants": 5176,
    "location": "Online",
    "prize_value": 20250
   },
@@ -141,31 +141,9 @@
    "prize": "$ 14,644",
    "deadline": "Oct 31, 2026",
    "domain": "Enterprise, Machine Learning/AI, Productivity",
-   "participants": 1034,
+   "participants": 1045,
    "location": "Online",
    "prize_value": 14644
-  },
-  {
-   "title": "SwampHacks XII",
-   "platform": "Devpost",
-   "url": "https://swamphacks-xii.devpost.com/",
-   "prize": "$ 9,500",
-   "deadline": "Oct 18, 2026",
-   "domain": "Beginner Friendly, Fintech, Machine Learning/AI",
-   "participants": 376,
-   "location": "University of Florida - Reitz Union",
-   "prize_value": 9500
-  },
-  {
-   "title": "Hack the Valley 11",
-   "platform": "Devpost",
-   "url": "https://hack-the-valley-11.devpost.com/",
-   "prize": "$CAD 6,700",
-   "deadline": "Oct 18, 2026",
-   "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
-   "participants": 400,
-   "location": "University of Toronto Scarborough",
-   "prize_value": 6700
   },
   {
    "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
@@ -174,7 +152,7 @@
    "prize": "$ 6,000",
    "deadline": "Nov 02, 2026",
    "domain": "AR/VR, E-commerce/Retail, Machine Learning/AI",
-   "participants": 1006,
+   "participants": 1039,
    "location": "Online",
    "prize_value": 6000
   },
@@ -196,7 +174,7 @@
    "prize": "$ 3,000",
    "deadline": "Oct 25, 2026",
    "domain": "Blockchain, Machine Learning/AI, Social Good",
-   "participants": 911,
+   "participants": 943,
    "location": "Online",
    "prize_value": 3000
   },
@@ -207,7 +185,7 @@
    "prize": "$ 2,500",
    "deadline": "Oct 26, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Education",
-   "participants": 4031,
+   "participants": 4162,
    "location": "Online",
    "prize_value": 2500
   },
@@ -218,29 +196,29 @@
    "prize": "$ 2,500",
    "deadline": "Nov 09, 2026",
    "domain": "AR/VR, Machine Learning/AI, Design",
-   "participants": 357,
+   "participants": 388,
    "location": "Online",
    "prize_value": 2500
   },
   {
-   "title": "Speed Demon | 72-Hour Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/speed-demon-72-hour-hackathon-hackathon-raptors-1770904",
-   "prize": "₹180,000",
-   "deadline": "2026-10-30",
-   "domain": "All",
-   "participants": 176,
-   "location": "India",
-   "prize_value": 2117
+   "title": "HackFW: MADE Challenge",
+   "platform": "Devpost",
+   "url": "https://hackfw.devpost.com/",
+   "prize": "$ 1,900",
+   "deadline": "Oct 30, 2026",
+   "domain": "IoT, Machine Learning/AI, Robotic Process Automation",
+   "participants": 136,
+   "location": "Fort Worth",
+   "prize_value": 1900
   },
   {
-   "title": "Datanyx'26",
+   "title": "DataNyx'26",
    "platform": "Unstop",
    "url": "https://unstop.com/hackathons/datanyx26-muffakham-jah-college-of-engineering-and-technology-mjcet-hyderabad-1771537",
    "prize": "₹100,000",
    "deadline": "2026-11-18",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 17,
+   "participants": 47,
    "location": "India",
    "prize_value": 1176
   },
@@ -251,18 +229,7 @@
    "prize": "₹90,000",
    "deadline": "2026-10-25",
    "domain": "All",
-   "participants": 210,
-   "location": "India",
-   "prize_value": 1058
-  },
-  {
-   "title": "Agentic AI Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1771078",
-   "prize": "₹90,000",
-   "deadline": "2026-10-24",
-   "domain": "All",
-   "participants": 353,
+   "participants": 371,
    "location": "India",
    "prize_value": 1058
   },
@@ -273,7 +240,7 @@
    "prize": "₹ 40,000",
    "deadline": "Oct 23, 2026",
    "domain": "AR/VR, IoT, Machine Learning/AI",
-   "participants": 365,
+   "participants": 369,
    "location": "Tripura Vasini Palace Grounds, Bengaluru",
    "prize_value": 470
   },
@@ -289,24 +256,13 @@
    "prize_value": 470
   },
   {
-   "title": "Omnirush Agentic Buildathon 2026",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/omnirush-agentic-buildathon-2026-omnirush-1769914",
-   "prize": "₹30,000",
-   "deadline": "2026-10-20",
-   "domain": "All",
-   "participants": 2201,
-   "location": "India",
-   "prize_value": 352
-  },
-  {
    "title": "Designathon - CAD & PCB Hackathon",
    "platform": "Unstop",
    "url": "https://unstop.com/hackathons/designathon-cad-pcb-hackathon-karuyantra-carnival-2026-university-school-of-automation-robotics-delhi-1769998",
    "prize": "₹21,000",
    "deadline": "2026-10-22",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 18,
+   "participants": 27,
    "location": "India",
    "prize_value": 247
   },
@@ -317,9 +273,20 @@
    "prize": "₹15,000",
    "deadline": "2026-11-14",
    "domain": "All",
-   "participants": 0,
+   "participants": 259,
    "location": "India",
    "prize_value": 176
+  },
+  {
+   "title": "InternWell Hack2.0",
+   "platform": "Devpost",
+   "url": "https://interwell-hack2-0.devpost.com/",
+   "prize": "₹ 1,000",
+   "deadline": "Oct 31, 2026",
+   "domain": "Communication, Machine Learning/AI, Web",
+   "participants": 169,
+   "location": "Online",
+   "prize_value": 11
   },
   {
    "title": "Code for Humanity",
@@ -328,7 +295,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 606,
+   "participants": 620,
    "location": "Online",
    "prize_value": 0
   },
@@ -339,7 +306,18 @@
    "prize": "$ 0",
    "deadline": "Jan 14, 2027",
    "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 337,
+   "participants": 339,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "2026 International CodeTheCure Hackathon",
+   "platform": "Devpost",
+   "url": "https://codethecure-hackathon-26.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Oct 28, 2026",
+   "domain": "Beginner Friendly, Education, Health",
+   "participants": 189,
    "location": "Online",
    "prize_value": 0
   },
