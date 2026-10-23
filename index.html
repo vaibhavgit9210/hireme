@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="color-scheme" content="dark">
 <meta name="theme-color" content="#0b0e14">
-<title>hireme — what should I apply to today</title>
+<title>hireme · what should I apply to today</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23060a13'/%3E%3Ctext x='32' y='46' font-size='38' text-anchor='middle'%3E%F0%9F%92%BC%3C/text%3E%3C/svg%3E">
 <style>
   :root {
@@ -220,7 +220,7 @@
   <div class="tiles" id="tiles"></div>
 
   <div class="searchrow">
-    <input id="kw" type="search" placeholder="keyword — e.g. AI engineer, forward deployed, evals…" autocomplete="off">
+    <input id="kw" type="search" placeholder="keyword, e.g. AI engineer, forward deployed, evals…" autocomplete="off">
     <button class="primary" id="livebtn" title="Query free job APIs live from your browser">Search live</button>
   </div>
   <div class="chips" id="rolechips"></div>
@@ -253,7 +253,7 @@
   <section id="tab-comps" hidden>
     <div class="section-note">Cash-prize competitions in your domain (LLM / agents / evals / ML / data), biggest prizes first. Refreshed daily from Devpost, HackerEarth &amp; Unstop.</div>
     <div class="comp-grid" id="complist"></div>
-    <div class="section-note" style="margin-top:18px">These platforms block bots — worth a manual look weekly:
+    <div class="section-note" style="margin-top:18px">These platforms block bots. Worth a manual look weekly:
       <a href="https://www.kaggle.com/competitions?sortOption=prize" target="_blank" rel="noopener">Kaggle</a> ·
       <a href="https://lablab.ai/event" target="_blank" rel="noopener">lablab.ai</a> ·
       <a href="https://machinehack.com/hackathons" target="_blank" rel="noopener">MachineHack</a> ·
@@ -274,7 +274,7 @@
 
   <footer>
     Free sources: Remotive · RemoteOK · Arbeitnow · Jobicy · Himalayas · HN Who's Hiring · 32 Greenhouse/Lever/Ashby company boards · Devpost · HackerEarth · Unstop.
-    Data refreshes daily via GitHub Actions. “Search live” hits the CORS-open APIs directly from your browser — no keys, no tracking, applied-status lives in your localStorage only.
+    Data refreshes daily via GitHub Actions. “Search live” hits the CORS-open APIs directly from your browser: no keys, no tracking, applied-status lives in your localStorage only.
     <a href="https://github.com/vaibhavgit9210/hireme">source</a>
   </footer>
 </div>
@@ -334,7 +334,7 @@ const LIVE_SOURCES = [
       const d = await (await fetch("https://jobicy.com/api/v2/remote-jobs?count=40&tag=" + encodeURIComponent(kw))).json();
       return (d.jobs || []).map(j => ({ title: j.jobTitle, company: j.companyName, location: j.jobGeo || "Remote",
         url: j.url, source: "Jobicy", posted_at: j.pubDate,
-        salary: j.annualSalaryMin ? `${j.salaryCurrency || "USD"} ${Math.round(j.annualSalaryMin/1000)}k–${Math.round((j.annualSalaryMax || j.annualSalaryMin)/1000)}k` : null,
+        salary: j.annualSalaryMin ? `${j.salaryCurrency || "USD"} ${Math.round(j.annualSalaryMin/1000)}k-${Math.round((j.annualSalaryMax || j.annualSalaryMin)/1000)}k` : null,
         desc: stripHtml(j.jobExcerpt || "").slice(0, 500), tags: j.jobIndustry || [] }));
   }},
   { name: "HN Who's Hiring", fn: async kw => {
@@ -474,7 +474,7 @@ function renderComps() {
       ${dl ? `<div class="deadline ${cls}">${dl}</div>` : ""}
     </div>`;
   }).join("");
-  $("#complist").innerHTML = cards || `<div class="empty">No competitions loaded yet — data refreshes daily.</div>`;
+  $("#complist").innerHTML = cards || `<div class="empty">No competitions loaded yet. Data refreshes daily.</div>`;
   $("#ncomps").textContent = COMPS.length;
 }
 
@@ -486,7 +486,7 @@ function renderTiles(all, done) {
     <div class="tile"><div class="label">Strong matches to apply</div><div class="value">${top}</div><div class="sub">score ≥ 50, not applied</div></div>
     <div class="tile"><div class="label">New in last 48h</div><div class="value">${newToday}</div><div class="sub">across all sources</div></div>
     <div class="tile"><div class="label">Open competitions</div><div class="value">${COMPS.length}</div><div class="sub">in your domain</div></div>
-    <div class="tile"><div class="label">Prize pool</div><div class="value prize">${prizePool >= 1e6 ? "$" + (prizePool / 1e6).toFixed(1) + "M+" : prizePool ? "$" + Math.round(prizePool / 1000) + "k+" : "—"}</div><div class="sub">cash across open comps</div></div>
+    <div class="tile"><div class="label">Prize pool</div><div class="value prize">${prizePool >= 1e6 ? "$" + (prizePool / 1e6).toFixed(1) + "M+" : prizePool ? "$" + Math.round(prizePool / 1000) + "k+" : "-"}</div><div class="sub">cash across open comps</div></div>
     <div class="tile"><div class="label">Applied</div><div class="value">${done.length}</div><div class="sub">tracked in this browser</div></div>`;
 }
 
@@ -570,7 +570,7 @@ async function boot() {
     el.textContent = "data refreshed " + (h < 1.5 ? "just now" : h < 30 ? Math.round(h) + "h ago" : Math.round(h / 24) + "d ago");
     if (h > 48) el.classList.add("stale");
   } else {
-    $("#freshness").textContent = "no baked data yet — use Search live";
+    $("#freshness").textContent = "no baked data yet, use Search live";
   }
 
   render();

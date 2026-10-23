@@ -110,7 +110,7 @@ def fetch_remoteok(keyword):
         if all(w in blob for w in kw.split()):
             sal = None
             if j.get("salary_min"):
-                sal = f"${int(j['salary_min']/1000)}k–${int((j.get('salary_max') or j['salary_min'])/1000)}k"
+                sal = f"${int(j['salary_min']/1000)}k-${int((j.get('salary_max') or j['salary_min'])/1000)}k"
             yield norm(j.get("position"), j.get("company"), j.get("location") or "Remote",
                        j.get("url") or ("https://remoteok.com" + j.get("slug", "")), "RemoteOK",
                        j.get("date"), sal, j.get("description"), j.get("tags") or [])
@@ -139,7 +139,7 @@ def fetch_jobicy(keyword):
     for j in (d or {}).get("jobs", []):
         sal = None
         if j.get("annualSalaryMin"):
-            sal = f"{j.get('salaryCurrency','USD')} {int(j['annualSalaryMin']/1000)}k–{int((j.get('annualSalaryMax') or j['annualSalaryMin'])/1000)}k"
+            sal = f"{j.get('salaryCurrency','USD')} {int(j['annualSalaryMin']/1000)}k-{int((j.get('annualSalaryMax') or j['annualSalaryMin'])/1000)}k"
         yield norm(j.get("jobTitle"), j.get("companyName"), j.get("jobGeo") or "Remote",
                    j.get("url"), "Jobicy", j.get("pubDate"), sal, j.get("jobExcerpt"),
                    j.get("jobIndustry") or [])
@@ -157,7 +157,7 @@ def fetch_himalayas(keyword):
                 posted = datetime.fromtimestamp(j["pubDate"], tz=timezone.utc).isoformat()
             sal = None
             if j.get("minSalary"):
-                sal = f"{j.get('salaryCurrency','USD')} {int(j['minSalary']/1000)}k–{int((j.get('maxSalary') or j['minSalary'])/1000)}k"
+                sal = f"{j.get('salaryCurrency','USD')} {int(j['minSalary']/1000)}k-{int((j.get('maxSalary') or j['minSalary'])/1000)}k"
             yield norm(j.get("title"), j.get("companyName"), ", ".join(j.get("locationRestrictions") or []) or "Remote",
                        j.get("applicationLink") or j.get("guid"), "Himalayas", posted, sal,
                        j.get("excerpt"), j.get("categories") or [])
