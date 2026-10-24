@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-10-23T07:52:23.613124+00:00",
- "count": 36,
+ "fetched_at": "2026-10-24T07:33:16.280244+00:00",
+ "count": 41,
  "competitions": [
   {
    "title": "Meta VR Start Developer Competition 2026",
@@ -9,7 +9,7 @@
    "prize": "$ 1,000,000",
    "deadline": "Nov 18, 2026",
    "domain": "AR/VR, Machine Learning/AI, Web",
-   "participants": 3703,
+   "participants": 3782,
    "location": "Online",
    "prize_value": 1000000
   },
@@ -36,24 +36,13 @@
    "prize_value": 150000
   },
   {
-   "title": "Build, Ship, Shape: Amazon Developer Hackathon",
-   "platform": "Devpost",
-   "url": "https://amazonappdev2026.devpost.com/",
-   "prize": "$ 138,000",
-   "deadline": "Oct 23, 2026",
-   "domain": "Machine Learning/AI, Open Ended, Productivity",
-   "participants": 63685,
-   "location": "Online",
-   "prize_value": 138000
-  },
-  {
    "title": "PayPal AI Hackathon",
    "platform": "Devpost",
    "url": "https://paypalaihackathon.devpost.com/",
    "prize": "$ 67,500",
    "deadline": "Nov 12, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Web",
-   "participants": 19164,
+   "participants": 20004,
    "location": "Online",
    "prize_value": 67500
   },
@@ -64,7 +53,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 26098,
+   "participants": 26580,
    "location": "Online",
    "prize_value": 50000
   },
@@ -86,7 +75,7 @@
    "prize": "$ 46,000",
    "deadline": "Nov 16, 2026",
    "domain": "Lifehacks, Machine Learning/AI, Productivity",
-   "participants": 103,
+   "participants": 236,
    "location": "Online",
    "prize_value": 46000
   },
@@ -97,7 +86,7 @@
    "prize": "$ 45,000",
    "deadline": "Oct 27, 2026",
    "domain": "DevOps, Machine Learning/AI, Productivity",
-   "participants": 2940,
+   "participants": 3023,
    "location": "Online",
    "prize_value": 45000
   },
@@ -108,7 +97,7 @@
    "prize": "$ 40,000",
    "deadline": "Oct 28, 2026",
    "domain": "Communication, Mobile, Machine Learning/AI",
-   "participants": 990,
+   "participants": 1005,
    "location": "Online",
    "prize_value": 40000
   },
@@ -130,7 +119,18 @@
    "prize": "$ 25,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI",
-   "participants": 2210,
+   "participants": 2281,
+   "location": "Online",
+   "prize_value": 25000
+  },
+  {
+   "title": "Codex x TwitchCon Hackathon",
+   "platform": "Devpost",
+   "url": "https://twitchcon-codex.devpost.com/",
+   "prize": "$ 25,000",
+   "deadline": "Nov 02, 2026",
+   "domain": "Communication, Gaming, Machine Learning/AI",
+   "participants": 223,
    "location": "Online",
    "prize_value": 25000
   },
@@ -141,7 +141,7 @@
    "prize": "$ 20,250",
    "deadline": "Oct 27, 2026",
    "domain": "IoT, Machine Learning/AI, Serverless",
-   "participants": 5630,
+   "participants": 5828,
    "location": "Online",
    "prize_value": 20250
   },
@@ -152,7 +152,7 @@
    "prize": "$ 7,800",
    "deadline": "Dec 21, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 457,
+   "participants": 496,
    "location": "Online",
    "prize_value": 7800
   },
@@ -163,8 +163,19 @@
    "prize": "$ 6,000",
    "deadline": "Nov 02, 2026",
    "domain": "AR/VR, E-commerce/Retail, Machine Learning/AI",
-   "participants": 1162,
+   "participants": 1210,
    "location": "Online",
+   "prize_value": 6000
+  },
+  {
+   "title": "Gator Hack V - AI Days 2026",
+   "platform": "Devpost",
+   "url": "https://gatorhack2026.devpost.com/",
+   "prize": "$ 6,000",
+   "deadline": "Oct 25, 2026",
+   "domain": "Education",
+   "participants": 249,
+   "location": "Newell Hall, University of Florida",
    "prize_value": 6000
   },
   {
@@ -185,7 +196,7 @@
    "prize": "$ 3,000",
    "deadline": "Oct 25, 2026",
    "domain": "Blockchain, Machine Learning/AI, Social Good",
-   "participants": 1085,
+   "participants": 1124,
    "location": "Online",
    "prize_value": 3000
   },
@@ -196,7 +207,7 @@
    "prize": "$ 2,500",
    "deadline": "Oct 26, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Education",
-   "participants": 4612,
+   "participants": 4713,
    "location": "Online",
    "prize_value": 2500
   },
@@ -207,7 +218,7 @@
    "prize": "$ 2,500",
    "deadline": "Nov 09, 2026",
    "domain": "AR/VR, Machine Learning/AI, Design",
-   "participants": 603,
+   "participants": 640,
    "location": "Online",
    "prize_value": 2500
   },
@@ -218,7 +229,7 @@
    "prize": "$ 1,900",
    "deadline": "Oct 30, 2026",
    "domain": "IoT, Machine Learning/AI, Robotic Process Automation",
-   "participants": 146,
+   "participants": 150,
    "location": "Fort Worth",
    "prize_value": 1900
   },
@@ -229,18 +240,29 @@
    "prize": "₹150,000",
    "deadline": "2026-12-31",
    "domain": "All",
-   "participants": 14,
+   "participants": 133,
    "location": "India",
    "prize_value": 1764
+  },
+  {
+   "title": "Gen-AI Product Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/gen-ai-product-hackathon-product-space-1774085",
+   "prize": "₹100,000",
+   "deadline": "2026-10-31",
+   "domain": "All",
+   "participants": 41,
+   "location": "India",
+   "prize_value": 1176
   },
   {
    "title": "AI Tech Ideathon ",
    "platform": "Unstop",
    "url": "https://unstop.com/hackathons/ai-tech-ideathon-kr-mangalam-university-1773114",
    "prize": "₹100,000",
-   "deadline": "2026-10-24",
+   "deadline": "2026-10-25",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Fresher",
-   "participants": 15,
+   "participants": 19,
    "location": "India",
    "prize_value": 1176
   },
@@ -251,7 +273,7 @@
    "prize": "₹ 75,000",
    "deadline": "Oct 31, 2026",
    "domain": "Machine Learning/AI, Fintech, Health",
-   "participants": 204,
+   "participants": 244,
    "location": "SSM cultural centre",
    "prize_value": 882
   },
@@ -262,7 +284,7 @@
    "prize": "₹70,000",
    "deadline": "2026-11-01",
    "domain": "Data Science, Programming, Product Focused, Data Analytics",
-   "participants": 338,
+   "participants": 420,
    "location": "India",
    "prize_value": 823
   },
@@ -273,7 +295,7 @@
    "prize": "₹50,000",
    "deadline": "2026-10-31",
    "domain": "All",
-   "participants": 146,
+   "participants": 218,
    "location": "India",
    "prize_value": 588
   },
@@ -289,13 +311,24 @@
    "prize_value": 470
   },
   {
+   "title": "AI BuildFest 2026",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/ai-buildfest-2026-frontend-arena-1774417",
+   "prize": "₹28,500",
+   "deadline": "2026-12-08",
+   "domain": "All",
+   "participants": 23,
+   "location": "India",
+   "prize_value": 335
+  },
+  {
    "title": "MST Blockchain Buildathon | From Idea to MVP",
    "platform": "Unstop",
    "url": "https://unstop.com/hackathons/mst-blockchain-buildathon-from-idea-to-mvp-mst-blockchain-1772228",
    "prize": "₹25,000",
    "deadline": "2026-10-26",
    "domain": "Experienced Professionals, Engineering Students, Postgraduate, Undergraduate",
-   "participants": 162,
+   "participants": 213,
    "location": "India",
    "prize_value": 294
   },
@@ -306,7 +339,7 @@
    "prize": "₹22,000",
    "deadline": "2026-10-30",
    "domain": "All",
-   "participants": 47,
+   "participants": 60,
    "location": "India",
    "prize_value": 258
   },
@@ -317,7 +350,7 @@
    "prize": "₹3,000",
    "deadline": "2026-11-01",
    "domain": "All",
-   "participants": 248,
+   "participants": 331,
    "location": "India",
    "prize_value": 35
   },
@@ -328,7 +361,7 @@
    "prize": "₹1,750",
    "deadline": "2026-11-10",
    "domain": "All",
-   "participants": 13,
+   "participants": 27,
    "location": "India",
    "prize_value": 20
   },
@@ -339,19 +372,8 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 653,
+   "participants": 660,
    "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "Next Gen Hackathon 2026 -Bengaluru",
-   "platform": "Devpost",
-   "url": "https://next-gen-hackathon.devpost.com/",
-   "prize": "₹ 0",
-   "deadline": "Oct 23, 2026",
-   "domain": "AR/VR, IoT, Machine Learning/AI",
-   "participants": 401,
-   "location": "Tripura Vasini Palace Grounds, Bengaluru",
    "prize_value": 0
   },
   {
@@ -361,7 +383,7 @@
    "prize": "$ 0",
    "deadline": "Jan 14, 2027",
    "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 361,
+   "participants": 363,
    "location": "Online",
    "prize_value": 0
   },
@@ -372,19 +394,52 @@
    "prize": "$ 0",
    "deadline": "Oct 28, 2026",
    "domain": "Beginner Friendly, Education, Health",
-   "participants": 218,
+   "participants": 226,
    "location": "Online",
    "prize_value": 0
   },
   {
-   "title": "HTCJ × PROOF Aviation Futures Challenge",
+   "title": "SpartHill Hacks 2026: IBM AI Challenge",
    "platform": "Devpost",
-   "url": "https://htcj-aviation-futures.devpost.com/",
+   "url": "https://sparthill-ibm-2026.devpost.com/",
    "prize": "$ 0",
-   "deadline": "Oct 27, 2026",
-   "domain": "Enterprise, Machine Learning/AI, Social Good",
-   "participants": 122,
-   "location": "Boston Venture Week",
+   "deadline": "Oct 24, 2026",
+   "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
+   "participants": 166,
+   "location": "SJSU - Spartan Complex",
+   "prize_value": 0
+  },
+  {
+   "title": "Agentic Banking Hackathon",
+   "platform": "HackerEarth",
+   "url": "https://www.hackerearth.com/challenges/hackathon/agentic-banking-hackathon-2/",
+   "prize": "see page",
+   "deadline": "Nov 13, 2026",
+   "domain": "Monthly Challenges",
+   "participants": null,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "MKS AI & Data Hackathon",
+   "platform": "HackerEarth",
+   "url": "https://www.hackerearth.com/challenges/competitive/mks-inc-hackathon/",
+   "prize": "see page",
+   "deadline": "Nov 04, 2026",
+   "domain": "Monthly Challenges",
+   "participants": null,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "GoDaddy Inclusive Innovation Hackathon 2026",
+   "platform": "HackerEarth",
+   "url": "https://www.hackerearth.com/challenges/competitive/godaddy-inclusive-innovation-challenge-2026/",
+   "prize": "see page",
+   "deadline": "Nov 01, 2026",
+   "domain": "Monthly Challenges",
+   "participants": null,
+   "location": "Online",
    "prize_value": 0
   },
   {
