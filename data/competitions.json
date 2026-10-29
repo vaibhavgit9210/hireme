@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-10-28T08:54:55.193404+00:00",
- "count": 39,
+ "fetched_at": "2026-10-29T08:49:30.523769+00:00",
+ "count": 36,
  "competitions": [
   {
    "title": "Meta VR Start Developer Competition 2026",
@@ -9,7 +9,7 @@
    "prize": "$ 1,000,000",
    "deadline": "Nov 18, 2026",
    "domain": "AR/VR, Machine Learning/AI, Web",
-   "participants": 4308,
+   "participants": 4424,
    "location": "Online",
    "prize_value": 1000000
   },
@@ -42,7 +42,7 @@
    "prize": "$ 120,000",
    "deadline": "Dec 22, 2026",
    "domain": "Machine Learning/AI, Enterprise, Productivity",
-   "participants": 199,
+   "participants": 379,
    "location": "Online",
    "prize_value": 120000
   },
@@ -53,7 +53,7 @@
    "prize": "$ 67,500",
    "deadline": "Nov 12, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Web",
-   "participants": 23081,
+   "participants": 23670,
    "location": "Online",
    "prize_value": 67500
   },
@@ -64,7 +64,7 @@
    "prize": "$ 50,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI, Beginner Friendly, Robotic Process Automation",
-   "participants": 28544,
+   "participants": 28986,
    "location": "Online",
    "prize_value": 50000
   },
@@ -86,20 +86,9 @@
    "prize": "$ 46,000",
    "deadline": "Nov 16, 2026",
    "domain": "Lifehacks, Machine Learning/AI, Productivity",
-   "participants": 615,
+   "participants": 682,
    "location": "Online",
    "prize_value": 46000
-  },
-  {
-   "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-   "platform": "Devpost",
-   "url": "https://aws-cds-partner.devpost.com/",
-   "prize": "$ 40,000",
-   "deadline": "Oct 28, 2026",
-   "domain": "Communication, Mobile, Machine Learning/AI",
-   "participants": 1087,
-   "location": "Online",
-   "prize_value": 40000
   },
   {
    "title": "ARC Prize — ARC-AGI-3 Agents track",
@@ -119,7 +108,7 @@
    "prize": "$ 25,000",
    "deadline": "Oct 30, 2026",
    "domain": "Machine Learning/AI",
-   "participants": 2677,
+   "participants": 2774,
    "location": "Online",
    "prize_value": 25000
   },
@@ -130,7 +119,7 @@
    "prize": "$ 25,000",
    "deadline": "Nov 02, 2026",
    "domain": "Communication, Gaming, Machine Learning/AI",
-   "participants": 1435,
+   "participants": 1541,
    "location": "Online",
    "prize_value": 25000
   },
@@ -141,7 +130,7 @@
    "prize": "₹1,246,000",
    "deadline": "2026-11-20",
    "domain": "All",
-   "participants": 97,
+   "participants": 178,
    "location": "India",
    "prize_value": 14658
   },
@@ -152,7 +141,7 @@
    "prize": "$ 7,800",
    "deadline": "Dec 21, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 645,
+   "participants": 684,
    "location": "Online",
    "prize_value": 7800
   },
@@ -163,9 +152,20 @@
    "prize": "$ 6,000",
    "deadline": "Nov 02, 2026",
    "domain": "AR/VR, E-commerce/Retail, Machine Learning/AI",
-   "participants": 1380,
+   "participants": 1424,
    "location": "Online",
    "prize_value": 6000
+  },
+  {
+   "title": "HackWithAditya",
+   "platform": "Devpost",
+   "url": "https://hackwithaditya.devpost.com/",
+   "prize": "₹ 500,000",
+   "deadline": "Nov 25, 2026",
+   "domain": "Education, Health, Machine Learning/AI",
+   "participants": 101,
+   "location": "Online",
+   "prize_value": 5882
   },
   {
    "title": "OpenSearch Agent Skills Hackathon",
@@ -185,7 +185,7 @@
    "prize": "₹300,000",
    "deadline": "2026-10-29",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 160,
+   "participants": 312,
    "location": "India",
    "prize_value": 3529
   },
@@ -196,7 +196,7 @@
    "prize": "$ 2,500",
    "deadline": "Nov 09, 2026",
    "domain": "AR/VR, Machine Learning/AI, Design",
-   "participants": 878,
+   "participants": 917,
    "location": "Online",
    "prize_value": 2500
   },
@@ -207,20 +207,20 @@
    "prize": "$ 1,900",
    "deadline": "Oct 30, 2026",
    "domain": "IoT, Machine Learning/AI, Robotic Process Automation",
-   "participants": 175,
+   "participants": 177,
    "location": "Fort Worth",
    "prize_value": 1900
   },
   {
-   "title": "Gen-AI Product Hackathon",
+   "title": "Product Verse Hackathon",
    "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/gen-ai-product-hackathon-product-space-1774085",
-   "prize": "₹100,000",
+   "url": "https://unstop.com/hackathons/product-verse-hackathon-product-space-1782516",
+   "prize": "₹110,000",
    "deadline": "2026-10-31",
    "domain": "All",
-   "participants": 640,
+   "participants": 146,
    "location": "India",
-   "prize_value": 1176
+   "prize_value": 1294
   },
   {
    "title": "MineArena 1.0",
@@ -229,7 +229,7 @@
    "prize": "₹ 75,000",
    "deadline": "Oct 31, 2026",
    "domain": "Machine Learning/AI, Fintech, Health",
-   "participants": 422,
+   "participants": 488,
    "location": "SSM cultural centre",
    "prize_value": 882
   },
@@ -240,20 +240,9 @@
    "prize": "₹65,000",
    "deadline": "2026-11-20",
    "domain": "All",
-   "participants": 317,
+   "participants": 407,
    "location": "India",
    "prize_value": 764
-  },
-  {
-   "title": "AI BuildFest 2026",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/ai-buildfest-2026-frontend-arena-1774417",
-   "prize": "₹28,500",
-   "deadline": "2026-12-08",
-   "domain": "All",
-   "participants": 316,
-   "location": "India",
-   "prize_value": 335
   },
   {
    "title": "Srujana AI 2026 Hackathon",
@@ -262,7 +251,7 @@
    "prize": "₹25,000",
    "deadline": "2026-10-29",
    "domain": "Engineering Students, Undergraduate, Fresher",
-   "participants": 13,
+   "participants": 32,
    "location": "India",
    "prize_value": 294
   },
@@ -273,7 +262,7 @@
    "prize": "₹18,000",
    "deadline": "2026-11-05",
    "domain": "All",
-   "participants": 57,
+   "participants": 64,
    "location": "India",
    "prize_value": 211
   },
@@ -284,31 +273,31 @@
    "prize": "₹15,000",
    "deadline": "2026-11-14",
    "domain": "All",
-   "participants": 1416,
+   "participants": 1567,
    "location": "India",
    "prize_value": 176
+  },
+  {
+   "title": "Out of Bounds - Web Game Development Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/out-of-bounds-web-game-development-hackathon-code-variant-1773229",
+   "prize": "₹11,500",
+   "deadline": "2026-11-20",
+   "domain": "All",
+   "participants": 110,
+   "location": "India",
+   "prize_value": 135
   },
   {
    "title": "Chaitanya CTF 2026",
    "platform": "Unstop",
    "url": "https://unstop.com/hackathons/chaitanya-ctf-2026-chaitanya-ctf-2026-himachal-pradesh-technical-university-hptu-1775832",
    "prize": "₹7,500",
-   "deadline": "2026-10-28",
+   "deadline": "2026-10-31",
    "domain": "All",
-   "participants": 25,
+   "participants": 32,
    "location": "India",
    "prize_value": 88
-  },
-  {
-   "title": "Lumina'26 Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/lumina26-hackathon-ieee-student-branch-jiit-noida-1780917",
-   "prize": "₹5,000",
-   "deadline": "2026-10-28",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 124,
-   "location": "India",
-   "prize_value": 58
   },
   {
    "title": "Portfolio Design Hackathon 2026 – Build, Deploy & Showcase Your Creative",
@@ -317,20 +306,9 @@
    "prize": "₹5,000",
    "deadline": "2026-10-31",
    "domain": "All",
-   "participants": 486,
+   "participants": 593,
    "location": "India",
    "prize_value": 58
-  },
-  {
-   "title": "Out of Bounds - Web Game Development Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/out-of-bounds-web-game-development-hackathon-code-variant-1773229",
-   "prize": "₹4,500",
-   "deadline": "2026-11-20",
-   "domain": "All",
-   "participants": 98,
-   "location": "India",
-   "prize_value": 52
   },
   {
    "title": "AQX Sports Analytics Data Bowl 4.0",
@@ -339,7 +317,7 @@
    "prize": "$ 50",
    "deadline": "Nov 01, 2026",
    "domain": "Beginner Friendly, Databases, Gaming",
-   "participants": 147,
+   "participants": 159,
    "location": "Online",
    "prize_value": 50
   },
@@ -350,7 +328,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 701,
+   "participants": 709,
    "location": "Online",
    "prize_value": 0
   },
@@ -361,18 +339,7 @@
    "prize": "$ 0",
    "deadline": "Jan 14, 2027",
    "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 383,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "2026 International CodeTheCure Hackathon",
-   "platform": "Devpost",
-   "url": "https://codethecure-hackathon-26.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Oct 28, 2026",
-   "domain": "Beginner Friendly, Education, Health",
-   "participants": 269,
+   "participants": 386,
    "location": "Online",
    "prize_value": 0
   },
@@ -383,7 +350,7 @@
    "prize": "$ 0",
    "deadline": "Nov 21, 2026",
    "domain": "Beginner Friendly, Education, Web",
-   "participants": 181,
+   "participants": 207,
    "location": "Online",
    "prize_value": 0
   },
@@ -394,7 +361,7 @@
    "prize": "$ 0",
    "deadline": "Nov 15, 2026",
    "domain": "Communication, Cybersecurity, Machine Learning/AI",
-   "participants": 101,
+   "participants": 106,
    "location": "Online",
    "prize_value": 0
   },
