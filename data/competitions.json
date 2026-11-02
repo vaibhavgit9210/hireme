@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-01T09:36:06.447069+00:00",
- "count": 29,
+ "fetched_at": "2026-11-02T09:52:08.005948+00:00",
+ "count": 30,
  "competitions": [
   {
    "title": "Meta VR Start Developer Competition 2026",
@@ -9,7 +9,7 @@
    "prize": "$ 1,000,000",
    "deadline": "Nov 18, 2026",
    "domain": "AR/VR, Machine Learning/AI, Web",
-   "participants": 4739,
+   "participants": 4826,
    "location": "Online",
    "prize_value": 1000000
   },
@@ -42,7 +42,7 @@
    "prize": "$ 120,000",
    "deadline": "Dec 22, 2026",
    "domain": "Machine Learning/AI, Enterprise, Productivity",
-   "participants": 1040,
+   "participants": 1236,
    "location": "Online",
    "prize_value": 120000
   },
@@ -53,7 +53,7 @@
    "prize": "$ 100,000",
    "deadline": "Dec 04, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 5159,
+   "participants": 6055,
    "location": "Online",
    "prize_value": 100000
   },
@@ -64,7 +64,7 @@
    "prize": "$ 67,500",
    "deadline": "Nov 12, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Web",
-   "participants": 26029,
+   "participants": 26812,
    "location": "Online",
    "prize_value": 67500
   },
@@ -86,7 +86,7 @@
    "prize": "$ 46,000",
    "deadline": "Nov 16, 2026",
    "domain": "Lifehacks, Machine Learning/AI, Productivity",
-   "participants": 984,
+   "participants": 1068,
    "location": "Online",
    "prize_value": 46000
   },
@@ -108,7 +108,7 @@
    "prize": "$ 25,000",
    "deadline": "Nov 02, 2026",
    "domain": "Communication, Gaming, Machine Learning/AI",
-   "participants": 1963,
+   "participants": 2081,
    "location": "Online",
    "prize_value": 25000
   },
@@ -119,9 +119,20 @@
    "prize": "₹1,246,000",
    "deadline": "2026-11-20",
    "domain": "All",
-   "participants": 341,
+   "participants": 419,
    "location": "India",
    "prize_value": 14658
+  },
+  {
+   "title": "EthnoHack",
+   "platform": "Devpost",
+   "url": "https://ethnohack2026.devpost.com/",
+   "prize": "€ 8,000",
+   "deadline": "Nov 08, 2026",
+   "domain": "Databases, Health, Machine Learning/AI",
+   "participants": 219,
+   "location": "Online",
+   "prize_value": 8000
   },
   {
    "title": "Arbiter Hacks V1",
@@ -130,7 +141,7 @@
    "prize": "$ 7,800",
    "deadline": "Dec 21, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 765,
+   "participants": 796,
    "location": "Online",
    "prize_value": 7800
   },
@@ -141,20 +152,9 @@
    "prize": "$ 6,000",
    "deadline": "Nov 02, 2026",
    "domain": "AR/VR, E-commerce/Retail, Machine Learning/AI",
-   "participants": 1603,
+   "participants": 1674,
    "location": "Online",
    "prize_value": 6000
-  },
-  {
-   "title": "HackWithAditya",
-   "platform": "Devpost",
-   "url": "https://hackwithaditya.devpost.com/",
-   "prize": "₹ 500,000",
-   "deadline": "Nov 25, 2026",
-   "domain": "Education, Health, Machine Learning/AI",
-   "participants": 124,
-   "location": "Online",
-   "prize_value": 5882
   },
   {
    "title": "OpenSearch Agent Skills Hackathon",
@@ -174,7 +174,7 @@
    "prize": "$ 2,500",
    "deadline": "Nov 09, 2026",
    "domain": "AR/VR, Machine Learning/AI, Design",
-   "participants": 1029,
+   "participants": 1056,
    "location": "Online",
    "prize_value": 2500
   },
@@ -185,7 +185,7 @@
    "prize": "₹ 200,000",
    "deadline": "Nov 10, 2026",
    "domain": "Beginner Friendly, Blockchain, Open Ended",
-   "participants": 142,
+   "participants": 156,
    "location": "Online",
    "prize_value": 2352
   },
@@ -196,7 +196,7 @@
    "prize": "$ 480",
    "deadline": "Nov 10, 2026",
    "domain": "Machine Learning/AI, Open Ended, Web",
-   "participants": 125,
+   "participants": 148,
    "location": "Online",
    "prize_value": 480
   },
@@ -207,7 +207,7 @@
    "prize": "₹15,000",
    "deadline": "2026-11-14",
    "domain": "All",
-   "participants": 1960,
+   "participants": 2089,
    "location": "India",
    "prize_value": 176
   },
@@ -218,7 +218,7 @@
    "prize": "₹5,000",
    "deadline": "2026-11-07",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 16,
+   "participants": 19,
    "location": "India",
    "prize_value": 58
   },
@@ -229,7 +229,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 741,
+   "participants": 759,
    "location": "Online",
    "prize_value": 0
   },
@@ -240,7 +240,7 @@
    "prize": "$ 0",
    "deadline": "Jan 14, 2027",
    "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 395,
+   "participants": 403,
    "location": "Online",
    "prize_value": 0
   },
@@ -251,7 +251,7 @@
    "prize": "$ 0",
    "deadline": "Nov 05, 2026",
    "domain": "Education, Low/No Code, Machine Learning/AI",
-   "participants": 390,
+   "participants": 401,
    "location": "Online",
    "prize_value": 0
   },
@@ -262,29 +262,18 @@
    "prize": "$ 0",
    "deadline": "Nov 21, 2026",
    "domain": "Beginner Friendly, Education, Web",
-   "participants": 270,
+   "participants": 282,
    "location": "Online",
    "prize_value": 0
   },
   {
-   "title": "STEMergent Hacks 2026",
+   "title": "BDBI x SpaceXSI Grokathon",
    "platform": "Devpost",
-   "url": "https://stemergent-hacks.devpost.com/",
+   "url": "https://bdbi-x-spacexsi.devpost.com/",
    "prize": "$ 0",
-   "deadline": "Nov 15, 2026",
-   "domain": "Low/No Code, Machine Learning/AI, Social Good",
-   "participants": 205,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "Mathematics for systems security",
-   "platform": "Devpost",
-   "url": "https://mathematics-systems-security.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Nov 15, 2026",
-   "domain": "Communication, Cybersecurity, Machine Learning/AI",
-   "participants": 138,
+   "deadline": "Nov 02, 2026",
+   "domain": "Machine Learning/AI, Open Ended, Social Good",
+   "participants": 245,
    "location": "Online",
    "prize_value": 0
   },
@@ -295,7 +284,29 @@
    "prize": "$ 0",
    "deadline": "Nov 27, 2026",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 134,
+   "participants": 234,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "STEMergent Hacks 2026",
+   "platform": "Devpost",
+   "url": "https://stemergent-hacks.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Nov 15, 2026",
+   "domain": "Low/No Code, Machine Learning/AI, Social Good",
+   "participants": 214,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "Mathematics for systems security",
+   "platform": "Devpost",
+   "url": "https://mathematics-systems-security.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Nov 15, 2026",
+   "domain": "Communication, Cybersecurity, Machine Learning/AI",
+   "participants": 152,
    "location": "Online",
    "prize_value": 0
   },
