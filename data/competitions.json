@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-02T09:52:08.005948+00:00",
- "count": 30,
+ "fetched_at": "2026-11-03T09:56:20.892790+00:00",
+ "count": 29,
  "competitions": [
   {
    "title": "Meta VR Start Developer Competition 2026",
@@ -9,7 +9,7 @@
    "prize": "$ 1,000,000",
    "deadline": "Nov 18, 2026",
    "domain": "AR/VR, Machine Learning/AI, Web",
-   "participants": 4826,
+   "participants": 4971,
    "location": "Online",
    "prize_value": 1000000
   },
@@ -42,7 +42,7 @@
    "prize": "$ 120,000",
    "deadline": "Dec 22, 2026",
    "domain": "Machine Learning/AI, Enterprise, Productivity",
-   "participants": 1236,
+   "participants": 1426,
    "location": "Online",
    "prize_value": 120000
   },
@@ -53,7 +53,7 @@
    "prize": "$ 100,000",
    "deadline": "Dec 04, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 6055,
+   "participants": 7583,
    "location": "Online",
    "prize_value": 100000
   },
@@ -64,9 +64,31 @@
    "prize": "$ 67,500",
    "deadline": "Nov 12, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Web",
-   "participants": 26812,
+   "participants": 27625,
    "location": "Online",
    "prize_value": 67500
+  },
+  {
+   "title": "AWS MSP AI Hackathon",
+   "platform": "Devpost",
+   "url": "https://aws-agentic-msp.devpost.com/",
+   "prize": "$ 64,000",
+   "deadline": "Dec 11, 2026",
+   "domain": "Machine Learning/AI, Productivity, Web",
+   "participants": 46,
+   "location": "Online",
+   "prize_value": 64000
+  },
+  {
+   "title": "QNX Global Hackathon",
+   "platform": "Devpost",
+   "url": "https://qnx.devpost.com/",
+   "prize": "$ 50,000",
+   "deadline": "Dec 15, 2026",
+   "domain": "IoT, Machine Learning/AI, Open Ended",
+   "participants": 179,
+   "location": "Online",
+   "prize_value": 50000
   },
   {
    "title": "Trace the Ace — National Tutoring Observatory",
@@ -86,7 +108,7 @@
    "prize": "$ 46,000",
    "deadline": "Nov 16, 2026",
    "domain": "Lifehacks, Machine Learning/AI, Productivity",
-   "participants": 1068,
+   "participants": 1151,
    "location": "Online",
    "prize_value": 46000
   },
@@ -102,35 +124,13 @@
    "prize_value": 37500
   },
   {
-   "title": "Codex x TwitchCon Hackathon",
-   "platform": "Devpost",
-   "url": "https://twitchcon-codex.devpost.com/",
-   "prize": "$ 25,000",
-   "deadline": "Nov 02, 2026",
-   "domain": "Communication, Gaming, Machine Learning/AI",
-   "participants": 2081,
-   "location": "Online",
-   "prize_value": 25000
-  },
-  {
-   "title": "Orbix - 48-Hour Global Open Innovation Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/orbix-48-hour-global-open-innovation-hackathon-makers-need-more-mnm-1780048",
-   "prize": "₹1,246,000",
-   "deadline": "2026-11-20",
-   "domain": "All",
-   "participants": 419,
-   "location": "India",
-   "prize_value": 14658
-  },
-  {
    "title": "EthnoHack",
    "platform": "Devpost",
    "url": "https://ethnohack2026.devpost.com/",
    "prize": "€ 8,000",
    "deadline": "Nov 08, 2026",
    "domain": "Databases, Health, Machine Learning/AI",
-   "participants": 219,
+   "participants": 258,
    "location": "Online",
    "prize_value": 8000
   },
@@ -141,20 +141,9 @@
    "prize": "$ 7,800",
    "deadline": "Dec 21, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 796,
+   "participants": 827,
    "location": "Online",
    "prize_value": 7800
-  },
-  {
-   "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
-   "platform": "Devpost",
-   "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
-   "prize": "$ 6,000",
-   "deadline": "Nov 02, 2026",
-   "domain": "AR/VR, E-commerce/Retail, Machine Learning/AI",
-   "participants": 1674,
-   "location": "Online",
-   "prize_value": 6000
   },
   {
    "title": "OpenSearch Agent Skills Hackathon",
@@ -174,7 +163,7 @@
    "prize": "$ 2,500",
    "deadline": "Nov 09, 2026",
    "domain": "AR/VR, Machine Learning/AI, Design",
-   "participants": 1056,
+   "participants": 1090,
    "location": "Online",
    "prize_value": 2500
   },
@@ -185,7 +174,7 @@
    "prize": "₹ 200,000",
    "deadline": "Nov 10, 2026",
    "domain": "Beginner Friendly, Blockchain, Open Ended",
-   "participants": 156,
+   "participants": 173,
    "location": "Online",
    "prize_value": 2352
   },
@@ -196,20 +185,31 @@
    "prize": "$ 480",
    "deadline": "Nov 10, 2026",
    "domain": "Machine Learning/AI, Open Ended, Web",
-   "participants": 148,
+   "participants": 164,
    "location": "Online",
    "prize_value": 480
   },
   {
-   "title": "Catalyst - Solo AI Hackathon",
+   "title": "Neural Storm",
+   "platform": "Devpost",
+   "url": "https://neuralstorm.devpost.com/",
+   "prize": "₹ 20,000",
+   "deadline": "Nov 04, 2026",
+   "domain": "Beginner Friendly, Machine Learning/AI",
+   "participants": 149,
+   "location": "Online",
+   "prize_value": 235
+  },
+  {
+   "title": "Cognition- AI Hackathon",
    "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798",
-   "prize": "₹15,000",
-   "deadline": "2026-11-14",
-   "domain": "All",
-   "participants": 2089,
+   "url": "https://unstop.com/hackathons/cognition-ai-hackathon-techtonics-sri-guru-gobind-singh-college-of-commerce-sggscc-new-delhi-1790269",
+   "prize": "₹10,000",
+   "deadline": "2026-11-11",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 23,
    "location": "India",
-   "prize_value": 176
+   "prize_value": 117
   },
   {
    "title": "COBOT-EX 2026 | Inter-College Hackathon",
@@ -218,7 +218,7 @@
    "prize": "₹5,000",
    "deadline": "2026-11-07",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 19,
+   "participants": 32,
    "location": "India",
    "prize_value": 58
   },
@@ -229,7 +229,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 759,
+   "participants": 770,
    "location": "Online",
    "prize_value": 0
   },
@@ -240,7 +240,7 @@
    "prize": "$ 0",
    "deadline": "Jan 14, 2027",
    "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 403,
+   "participants": 407,
    "location": "Online",
    "prize_value": 0
   },
@@ -251,7 +251,7 @@
    "prize": "$ 0",
    "deadline": "Nov 05, 2026",
    "domain": "Education, Low/No Code, Machine Learning/AI",
-   "participants": 401,
+   "participants": 403,
    "location": "Online",
    "prize_value": 0
   },
@@ -262,18 +262,7 @@
    "prize": "$ 0",
    "deadline": "Nov 21, 2026",
    "domain": "Beginner Friendly, Education, Web",
-   "participants": 282,
-   "location": "Online",
-   "prize_value": 0
-  },
-  {
-   "title": "BDBI x SpaceXSI Grokathon",
-   "platform": "Devpost",
-   "url": "https://bdbi-x-spacexsi.devpost.com/",
-   "prize": "$ 0",
-   "deadline": "Nov 02, 2026",
-   "domain": "Machine Learning/AI, Open Ended, Social Good",
-   "participants": 245,
+   "participants": 302,
    "location": "Online",
    "prize_value": 0
   },
@@ -284,7 +273,7 @@
    "prize": "$ 0",
    "deadline": "Nov 27, 2026",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 234,
+   "participants": 265,
    "location": "Online",
    "prize_value": 0
   },
@@ -295,7 +284,7 @@
    "prize": "$ 0",
    "deadline": "Nov 15, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Social Good",
-   "participants": 214,
+   "participants": 220,
    "location": "Online",
    "prize_value": 0
   },
@@ -306,7 +295,7 @@
    "prize": "$ 0",
    "deadline": "Nov 15, 2026",
    "domain": "Communication, Cybersecurity, Machine Learning/AI",
-   "participants": 152,
+   "participants": 155,
    "location": "Online",
    "prize_value": 0
   },
