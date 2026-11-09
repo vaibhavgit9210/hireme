@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T09:24:04.610588+00:00",
+ "fetched_at": "2026-11-09T10:11:18.259669+00:00",
  "count": 37,
  "competitions": [
   {
@@ -9,7 +9,7 @@
    "prize": "$ 1,000,000",
    "deadline": "Nov 18, 2026",
    "domain": "AR/VR, Machine Learning/AI, Web",
-   "participants": 5440,
+   "participants": 5528,
    "location": "Online",
    "prize_value": 1000000
   },
@@ -42,7 +42,7 @@
    "prize": "$ 120,000",
    "deadline": "Dec 22, 2026",
    "domain": "Machine Learning/AI, Enterprise, Productivity",
-   "participants": 2191,
+   "participants": 2381,
    "location": "Online",
    "prize_value": 120000
   },
@@ -53,7 +53,7 @@
    "prize": "$ 100,000",
    "deadline": "Dec 04, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 10265,
+   "participants": 10724,
    "location": "Online",
    "prize_value": 100000
   },
@@ -64,7 +64,7 @@
    "prize": "$ 67,500",
    "deadline": "Nov 12, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Web",
-   "participants": 30772,
+   "participants": 31882,
    "location": "Online",
    "prize_value": 67500
   },
@@ -75,7 +75,7 @@
    "prize": "$ 64,000",
    "deadline": "Dec 11, 2026",
    "domain": "Machine Learning/AI, Productivity, Web",
-   "participants": 204,
+   "participants": 222,
    "location": "Online",
    "prize_value": 64000
   },
@@ -86,7 +86,7 @@
    "prize": "$ 50,000",
    "deadline": "Dec 15, 2026",
    "domain": "IoT, Machine Learning/AI, Open Ended",
-   "participants": 793,
+   "participants": 913,
    "location": "Online",
    "prize_value": 50000
   },
@@ -108,7 +108,7 @@
    "prize": "$ 46,000",
    "deadline": "Nov 16, 2026",
    "domain": "Lifehacks, Machine Learning/AI, Productivity",
-   "participants": 1661,
+   "participants": 1814,
    "location": "Online",
    "prize_value": 46000
   },
@@ -124,35 +124,13 @@
    "prize_value": 37500
   },
   {
-   "title": "Sheridan Datathon 2026",
-   "platform": "Devpost",
-   "url": "https://sheridandatathon2026.devpost.com/",
-   "prize": "$CAD 12,000",
-   "deadline": "Nov 08, 2026",
-   "domain": "Beginner Friendly, Databases, Machine Learning/AI",
-   "participants": 266,
-   "location": "Sheridan College Hazel McCallion Campus",
-   "prize_value": 12000
-  },
-  {
-   "title": "EthnoHack",
-   "platform": "Devpost",
-   "url": "https://ethnohack2026.devpost.com/",
-   "prize": "€ 8,000",
-   "deadline": "Nov 08, 2026",
-   "domain": "Databases, Health, Machine Learning/AI",
-   "participants": 404,
-   "location": "Online",
-   "prize_value": 8000
-  },
-  {
    "title": "Arbiter Hacks V1",
    "platform": "Devpost",
    "url": "https://arbiter-hacks-v1.devpost.com/",
    "prize": "$ 7,800",
    "deadline": "Dec 21, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 942,
+   "participants": 964,
    "location": "Online",
    "prize_value": 7800
   },
@@ -174,7 +152,7 @@
    "prize": "$ 2,500",
    "deadline": "Nov 09, 2026",
    "domain": "AR/VR, Machine Learning/AI, Design",
-   "participants": 1192,
+   "participants": 1228,
    "location": "Online",
    "prize_value": 2500
   },
@@ -185,7 +163,7 @@
    "prize": "₹ 200,000",
    "deadline": "Nov 10, 2026",
    "domain": "Beginner Friendly, Blockchain, Open Ended",
-   "participants": 243,
+   "participants": 253,
    "location": "Online",
    "prize_value": 2352
   },
@@ -196,7 +174,7 @@
    "prize": "₹200,000",
    "deadline": "2026-11-14",
    "domain": "All",
-   "participants": 43,
+   "participants": 195,
    "location": "India",
    "prize_value": 2352
   },
@@ -207,20 +185,20 @@
    "prize": "₹200,000",
    "deadline": "2026-11-14",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 119,
+   "participants": 170,
    "location": "India",
    "prize_value": 2352
   },
   {
-   "title": "AI Builder Hackathon",
+   "title": "AI Vibeathon 2026: 24-Hour AI Hackathon",
    "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509",
-   "prize": "₹200,000",
-   "deadline": "2026-11-14",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 69,
+   "url": "https://unstop.com/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431",
+   "prize": "₹100,000",
+   "deadline": "2026-11-13",
+   "domain": "All",
+   "participants": 216,
    "location": "India",
-   "prize_value": 2352
+   "prize_value": 1176
   },
   {
    "title": "Agentic AI in BFSI Hackathon",
@@ -229,20 +207,20 @@
    "prize": "₹100,000",
    "deadline": "2026-11-25",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 7,
+   "participants": 38,
    "location": "India",
    "prize_value": 1176
   },
   {
-   "title": "AI Vibeathon 2026: 24-Hour AI Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431",
-   "prize": "₹100,000",
-   "deadline": "2026-11-11",
-   "domain": "All",
-   "participants": 49,
-   "location": "India",
-   "prize_value": 1176
+   "title": "GenHacks",
+   "platform": "Devpost",
+   "url": "https://genhacks-open.devpost.com/",
+   "prize": "$CAD 1,050",
+   "deadline": "Dec 26, 2026",
+   "domain": "Beginner Friendly, IoT, Machine Learning/AI",
+   "participants": 206,
+   "location": "Online",
+   "prize_value": 1050
   },
   {
    "title": "AI Agents for Founders Challenge — HETIC 2026",
@@ -251,9 +229,31 @@
    "prize": "€ 1,000",
    "deadline": "Dec 18, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Productivity",
-   "participants": 243,
+   "participants": 262,
    "location": "Online",
    "prize_value": 1000
+  },
+  {
+   "title": "Dakar Bitcoin Hack by BTrust",
+   "platform": "Devpost",
+   "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+   "prize": "$ 900",
+   "deadline": "Nov 20, 2026",
+   "domain": "Blockchain, Fintech, Machine Learning/AI",
+   "participants": 197,
+   "location": "Online",
+   "prize_value": 900
+  },
+  {
+   "title": "AI Vibeathon 2026 | PromptWars × Echo Engineers",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/ai-vibeathon-2026-promptwars-echo-engineers-echo-engineers-1799092",
+   "prize": "₹50,000",
+   "deadline": "2026-11-25",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 44,
+   "location": "India",
+   "prize_value": 588
   },
   {
    "title": "Data Analytics Hackathon",
@@ -262,7 +262,7 @@
    "prize": "₹50,000",
    "deadline": "2026-11-15",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 197,
+   "participants": 326,
    "location": "India",
    "prize_value": 588
   },
@@ -273,7 +273,7 @@
    "prize": "$ 480",
    "deadline": "Nov 10, 2026",
    "domain": "Machine Learning/AI, Open Ended, Web",
-   "participants": 220,
+   "participants": 234,
    "location": "Online",
    "prize_value": 480
   },
@@ -284,7 +284,7 @@
    "prize": "₹30,000",
    "deadline": "2026-12-01",
    "domain": "Engineering Students, Undergraduate, Fresher, Arts, Commerce, Sciences & Others",
-   "participants": 238,
+   "participants": 250,
    "location": "India",
    "prize_value": 352
   },
@@ -295,7 +295,7 @@
    "prize": "₹15,000",
    "deadline": "2027-07-31",
    "domain": "All",
-   "participants": 8,
+   "participants": 23,
    "location": "India",
    "prize_value": 176
   },
@@ -306,20 +306,9 @@
    "prize": "₹10,000",
    "deadline": "2026-12-06",
    "domain": "Experienced Professionals, Engineering Students, Postgraduate, Undergraduate",
-   "participants": 4,
+   "participants": 22,
    "location": "India",
    "prize_value": 117
-  },
-  {
-   "title": "Remote Robotics Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/remote-robotics-hackathon-pes-university-pesu-bengaluru-1795134",
-   "prize": "₹7,000",
-   "deadline": "2026-11-18",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 13,
-   "location": "India",
-   "prize_value": 82
   },
   {
    "title": "Agentware | 72-Hour Hackathon",
@@ -328,7 +317,7 @@
    "prize": "₹1,600",
    "deadline": "2026-11-27",
    "domain": "All",
-   "participants": 77,
+   "participants": 135,
    "location": "India",
    "prize_value": 18
   },
@@ -339,7 +328,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 822,
+   "participants": 828,
    "location": "Online",
    "prize_value": 0
   },
@@ -361,7 +350,7 @@
    "prize": "$ 0",
    "deadline": "Nov 27, 2026",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 404,
+   "participants": 419,
    "location": "Online",
    "prize_value": 0
   },
@@ -372,7 +361,7 @@
    "prize": "$ 0",
    "deadline": "Nov 21, 2026",
    "domain": "Beginner Friendly, Education, Web",
-   "participants": 393,
+   "participants": 405,
    "location": "Online",
    "prize_value": 0
   },
@@ -383,7 +372,18 @@
    "prize": "$ 0",
    "deadline": "Nov 15, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Social Good",
-   "participants": 266,
+   "participants": 269,
+   "location": "Online",
+   "prize_value": 0
+  },
+  {
+   "title": "Mathematics for systems security",
+   "platform": "Devpost",
+   "url": "https://mathematics-systems-security.devpost.com/",
+   "prize": "$ 0",
+   "deadline": "Nov 15, 2026",
+   "domain": "Communication, Cybersecurity, Machine Learning/AI",
+   "participants": 195,
    "location": "Online",
    "prize_value": 0
   },
