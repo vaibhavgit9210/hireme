@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-10T10:16:52.481576+00:00",
- "count": 37,
+ "fetched_at": "2026-11-11T09:46:42.709674+00:00",
+ "count": 38,
  "competitions": [
   {
    "title": "Meta VR Start Developer Competition 2026",
@@ -9,7 +9,7 @@
    "prize": "$ 1,000,000",
    "deadline": "Nov 18, 2026",
    "domain": "AR/VR, Machine Learning/AI, Web",
-   "participants": 5661,
+   "participants": 5774,
    "location": "Online",
    "prize_value": 1000000
   },
@@ -42,7 +42,7 @@
    "prize": "$ 120,000",
    "deadline": "Dec 22, 2026",
    "domain": "Machine Learning/AI, Enterprise, Productivity",
-   "participants": 2591,
+   "participants": 2761,
    "location": "Online",
    "prize_value": 120000
   },
@@ -53,7 +53,7 @@
    "prize": "$ 100,000",
    "deadline": "Dec 04, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 11254,
+   "participants": 11898,
    "location": "Online",
    "prize_value": 100000
   },
@@ -64,7 +64,7 @@
    "prize": "$ 67,500",
    "deadline": "Nov 12, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Web",
-   "participants": 32948,
+   "participants": 34137,
    "location": "Online",
    "prize_value": 67500
   },
@@ -75,7 +75,7 @@
    "prize": "$ 64,000",
    "deadline": "Dec 11, 2026",
    "domain": "Machine Learning/AI, Productivity, Web",
-   "participants": 250,
+   "participants": 279,
    "location": "Online",
    "prize_value": 64000
   },
@@ -86,7 +86,7 @@
    "prize": "$ 50,000",
    "deadline": "Dec 15, 2026",
    "domain": "IoT, Machine Learning/AI, Open Ended",
-   "participants": 1043,
+   "participants": 1192,
    "location": "Online",
    "prize_value": 50000
   },
@@ -108,7 +108,7 @@
    "prize": "$ 46,000",
    "deadline": "Nov 16, 2026",
    "domain": "Lifehacks, Machine Learning/AI, Productivity",
-   "participants": 1983,
+   "participants": 2099,
    "location": "Online",
    "prize_value": 46000
   },
@@ -124,15 +124,26 @@
    "prize_value": 37500
   },
   {
-   "title": "Ctrl+V Hackathon",
+   "title": "Deck the Pixels",
    "platform": "Devpost",
-   "url": "https://ctrl-v-hackathon-31831.devpost.com/",
-   "prize": "$ 28,000",
-   "deadline": "Nov 10, 2026",
-   "domain": "Beginner Friendly, Machine Learning/AI, Social Good",
+   "url": "https://deckthepixels.devpost.com/",
+   "prize": "$ 25,000",
+   "deadline": "Dec 07, 2026",
+   "domain": "Design, Machine Learning/AI, Low/No Code",
    "participants": 202,
    "location": "Online",
-   "prize_value": 28000
+   "prize_value": 25000
+  },
+  {
+   "title": "Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395",
+   "prize": "₹1,500,000",
+   "deadline": "2027-07-31",
+   "domain": "All",
+   "participants": 64,
+   "location": "India",
+   "prize_value": 17647
   },
   {
    "title": "Arbiter Hacks V1",
@@ -141,7 +152,7 @@
    "prize": "$ 7,800",
    "deadline": "Dec 21, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 994,
+   "participants": 1021,
    "location": "Online",
    "prize_value": 7800
   },
@@ -157,15 +168,15 @@
    "prize_value": 5000
   },
   {
-   "title": "Herhack",
+   "title": "Learn AR with SPECS",
    "platform": "Devpost",
-   "url": "https://herhack.devpost.com/",
-   "prize": "₹ 200,000",
-   "deadline": "Nov 10, 2026",
-   "domain": "Beginner Friendly, Blockchain, Open Ended",
-   "participants": 274,
+   "url": "https://learn-specs.devpost.com/",
+   "prize": "$ 2,500",
+   "deadline": "Dec 07, 2026",
+   "domain": "AR/VR, Design, Machine Learning/AI",
+   "participants": 30,
    "location": "Online",
-   "prize_value": 2352
+   "prize_value": 2500
   },
   {
    "title": "NextGen AI Hackathon",
@@ -174,9 +185,20 @@
    "prize": "₹200,000",
    "deadline": "2026-11-21",
    "domain": "All",
-   "participants": 353,
+   "participants": 467,
    "location": "India",
    "prize_value": 2352
+  },
+  {
+   "title": "Agentware | 72-Hour Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/agentware-72-hour-hackathon-hackathon-raptors-1800324",
+   "prize": "₹160,000",
+   "deadline": "2026-11-27",
+   "domain": "All",
+   "participants": 251,
+   "location": "India",
+   "prize_value": 1882
   },
   {
    "title": "AI Vibeathon 2026: 24-Hour AI Hackathon",
@@ -185,7 +207,7 @@
    "prize": "₹100,000",
    "deadline": "2026-11-13",
    "domain": "All",
-   "participants": 356,
+   "participants": 516,
    "location": "India",
    "prize_value": 1176
   },
@@ -196,7 +218,7 @@
    "prize": "₹100,000",
    "deadline": "2026-11-25",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 56,
+   "participants": 81,
    "location": "India",
    "prize_value": 1176
   },
@@ -207,7 +229,7 @@
    "prize": "$CAD 1,050",
    "deadline": "Dec 26, 2026",
    "domain": "Beginner Friendly, IoT, Machine Learning/AI",
-   "participants": 235,
+   "participants": 266,
    "location": "Online",
    "prize_value": 1050
   },
@@ -218,7 +240,7 @@
    "prize": "€ 1,000",
    "deadline": "Dec 18, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Productivity",
-   "participants": 278,
+   "participants": 299,
    "location": "Online",
    "prize_value": 1000
   },
@@ -229,18 +251,29 @@
    "prize": "$ 900",
    "deadline": "Nov 20, 2026",
    "domain": "Blockchain, Fintech, Machine Learning/AI",
-   "participants": 215,
+   "participants": 226,
    "location": "Online",
    "prize_value": 900
+  },
+  {
+   "title": "AI Vibeathon 1.0",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/ai-vibeathon-2026-promptwars-echo-engineers-echo-engineers-1799092",
+   "prize": "₹50,000",
+   "deadline": "2026-12-17",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 114,
+   "location": "India",
+   "prize_value": 588
   },
   {
    "title": "Agentic Hackathon",
    "platform": "Devpost",
    "url": "https://agentic-hackathon.devpost.com/",
    "prize": "$ 480",
-   "deadline": "Nov 10, 2026",
+   "deadline": "Nov 11, 2026",
    "domain": "Machine Learning/AI, Open Ended, Web",
-   "participants": 252,
+   "participants": 269,
    "location": "Online",
    "prize_value": 480
   },
@@ -251,7 +284,7 @@
    "prize": "₹30,000",
    "deadline": "2026-12-01",
    "domain": "Engineering Students, Undergraduate, Fresher, Arts, Commerce, Sciences & Others",
-   "participants": 266,
+   "participants": 276,
    "location": "India",
    "prize_value": 352
   },
@@ -262,20 +295,9 @@
    "prize": "₹20,000",
    "deadline": "2026-11-16",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 8,
+   "participants": 20,
    "location": "India",
    "prize_value": 235
-  },
-  {
-   "title": "Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395",
-   "prize": "₹15,000",
-   "deadline": "2027-07-31",
-   "domain": "All",
-   "participants": 46,
-   "location": "India",
-   "prize_value": 176
   },
   {
    "title": "Adaption Dataset Challenge",
@@ -284,7 +306,7 @@
    "prize": "₹10,000",
    "deadline": "2026-12-06",
    "domain": "Experienced Professionals, Engineering Students, Postgraduate, Undergraduate",
-   "participants": 38,
+   "participants": 47,
    "location": "India",
    "prize_value": 117
   },
@@ -295,7 +317,7 @@
    "prize": "₹8,000",
    "deadline": "2026-11-23",
    "domain": "All",
-   "participants": 6,
+   "participants": 94,
    "location": "India",
    "prize_value": 94
   },
@@ -311,24 +333,13 @@
    "prize_value": 82
   },
   {
-   "title": "Agentware | 72-Hour Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/agentware-72-hour-hackathon-hackathon-raptors-1800324",
-   "prize": "₹1,600",
-   "deadline": "2026-11-27",
-   "domain": "All",
-   "participants": 204,
-   "location": "India",
-   "prize_value": 18
-  },
-  {
    "title": "Code for Humanity",
    "platform": "Devpost",
    "url": "https://code-for-humanity.devpost.com/",
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 839,
+   "participants": 852,
    "location": "Online",
    "prize_value": 0
   },
@@ -339,7 +350,7 @@
    "prize": "$ 0",
    "deadline": "Nov 27, 2026",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 449,
+   "participants": 471,
    "location": "Online",
    "prize_value": 0
   },
@@ -350,7 +361,7 @@
    "prize": "$ 0",
    "deadline": "Nov 21, 2026",
    "domain": "Beginner Friendly, Education, Web",
-   "participants": 424,
+   "participants": 433,
    "location": "Online",
    "prize_value": 0
   },
@@ -361,7 +372,7 @@
    "prize": "$ 0",
    "deadline": "Jan 14, 2027",
    "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 424,
+   "participants": 426,
    "location": "Online",
    "prize_value": 0
   },
@@ -372,7 +383,7 @@
    "prize": "$ 0",
    "deadline": "Nov 15, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Social Good",
-   "participants": 277,
+   "participants": 297,
    "location": "Online",
    "prize_value": 0
   },
@@ -383,7 +394,7 @@
    "prize": "$ 0",
    "deadline": "Nov 15, 2026",
    "domain": "Communication, Cybersecurity, Machine Learning/AI",
-   "participants": 201,
+   "participants": 207,
    "location": "Online",
    "prize_value": 0
   },
