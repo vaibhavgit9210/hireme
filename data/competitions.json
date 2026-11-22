@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-21T10:06:42.984745+00:00",
- "count": 38,
+ "fetched_at": "2026-11-22T10:09:36.387217+00:00",
+ "count": 39,
  "competitions": [
   {
    "title": "ARC Prize 2026 — ARC-AGI-2 (code competition)",
@@ -31,7 +31,7 @@
    "prize": "$ 120,000",
    "deadline": "Dec 22, 2026",
    "domain": "Machine Learning/AI, Enterprise, Productivity",
-   "participants": 4648,
+   "participants": 4802,
    "location": "Online",
    "prize_value": 120000
   },
@@ -42,7 +42,7 @@
    "prize": "$ 100,000",
    "deadline": "Dec 04, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 17973,
+   "participants": 18288,
    "location": "Online",
    "prize_value": 100000
   },
@@ -53,7 +53,7 @@
    "prize": "$ 64,000",
    "deadline": "Dec 11, 2026",
    "domain": "Machine Learning/AI, Productivity, Web",
-   "participants": 494,
+   "participants": 502,
    "location": "Online",
    "prize_value": 64000
   },
@@ -64,7 +64,7 @@
    "prize": "$ 50,000",
    "deadline": "Dec 15, 2026",
    "domain": "IoT, Machine Learning/AI, Open Ended",
-   "participants": 2203,
+   "participants": 2280,
    "location": "Online",
    "prize_value": 50000
   },
@@ -75,7 +75,7 @@
    "prize": "$ 50,000",
    "deadline": "Feb 01, 2027",
    "domain": "AR/VR, Machine Learning/AI, Web",
-   "participants": 187,
+   "participants": 222,
    "location": "Online",
    "prize_value": 50000
   },
@@ -108,7 +108,7 @@
    "prize": "$ 35,000",
    "deadline": "Dec 08, 2026",
    "domain": "Beginner Friendly, Gaming",
-   "participants": 2020,
+   "participants": 2178,
    "location": "Online",
    "prize_value": 35000
   },
@@ -119,7 +119,7 @@
    "prize": "$ 30,000",
    "deadline": "Nov 30, 2026",
    "domain": "Machine Learning/AI, Mobile, Web",
-   "participants": 3862,
+   "participants": 4128,
    "location": "Online",
    "prize_value": 30000
   },
@@ -130,7 +130,7 @@
    "prize": "$ 25,000",
    "deadline": "Dec 07, 2026",
    "domain": "Design, Machine Learning/AI, Low/No Code",
-   "participants": 1365,
+   "participants": 1492,
    "location": "Online",
    "prize_value": 25000
   },
@@ -141,7 +141,7 @@
    "prize": "$ 25,000",
    "deadline": "Jan 12, 2027",
    "domain": "Databases, Gaming, Machine Learning/AI",
-   "participants": 708,
+   "participants": 812,
    "location": "Online",
    "prize_value": 25000
   },
@@ -152,7 +152,7 @@
    "prize": "$ 10,000",
    "deadline": "Jan 11, 2027",
    "domain": "Machine Learning/AI, Web, Social Good",
-   "participants": 1495,
+   "participants": 1596,
    "location": "Online",
    "prize_value": 10000
   },
@@ -163,7 +163,7 @@
    "prize": "$ 7,800",
    "deadline": "Dec 21, 2026",
    "domain": "Beginner Friendly, Machine Learning/AI, Open Ended",
-   "participants": 1309,
+   "participants": 1352,
    "location": "Online",
    "prize_value": 7800
   },
@@ -174,7 +174,7 @@
    "prize": "₹500,000",
    "deadline": "2026-11-24",
    "domain": "All",
-   "participants": 262,
+   "participants": 438,
    "location": "India",
    "prize_value": 5882
   },
@@ -185,7 +185,7 @@
    "prize": "₹500,000",
    "deadline": "2026-11-27",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 967,
+   "participants": 1035,
    "location": "India",
    "prize_value": 5882
   },
@@ -207,20 +207,9 @@
    "prize": "$ 4,500",
    "deadline": "Dec 07, 2026",
    "domain": "Beginner Friendly, Open Ended, Machine Learning/AI",
-   "participants": 485,
+   "participants": 520,
    "location": "Online",
    "prize_value": 4500
-  },
-  {
-   "title": "Agri-Tech Hackathon 2027: 24 Hours to Hack the Harvest",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/agri-tech-hackathon-2027-24-hours-to-hack-the-harvest-k-j-somaiya-college-of-engineering-kjsce-vidyavihar-1792152",
-   "prize": "₹350,000",
-   "deadline": "2026-12-27",
-   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 84,
-   "location": "India",
-   "prize_value": 4117
   },
   {
    "title": "Skill Hackathon 2027",
@@ -229,18 +218,7 @@
    "prize": "₹300,000",
    "deadline": "2027-01-15",
    "domain": "Engineering Students, Postgraduate, Undergraduate, School Students",
-   "participants": 33,
-   "location": "India",
-   "prize_value": 3529
-  },
-  {
-   "title": "Configure 2026: A Mobility Hackathon",
-   "platform": "Unstop",
-   "url": "https://unstop.com/hackathons/configure-2026-a-mobility-hackathon-zeliot-pvt-ltd-1811085",
-   "prize": "₹300,000",
-   "deadline": "2026-11-26",
-   "domain": "All",
-   "participants": 850,
+   "participants": 37,
    "location": "India",
    "prize_value": 3529
   },
@@ -251,7 +229,7 @@
    "prize": "$ 2,500",
    "deadline": "Dec 07, 2026",
    "domain": "AR/VR, Design, Machine Learning/AI",
-   "participants": 423,
+   "participants": 460,
    "location": "Online",
    "prize_value": 2500
   },
@@ -262,7 +240,7 @@
    "prize": "₹200,000",
    "deadline": "2026-12-05",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 167,
+   "participants": 211,
    "location": "India",
    "prize_value": 2352
   },
@@ -273,7 +251,7 @@
    "prize": "₹150,000",
    "deadline": "2026-11-30",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
-   "participants": 80,
+   "participants": 108,
    "location": "India",
    "prize_value": 1764
   },
@@ -284,7 +262,7 @@
    "prize": "$CAD 1,050",
    "deadline": "Dec 26, 2026",
    "domain": "Beginner Friendly, IoT, Machine Learning/AI",
-   "participants": 576,
+   "participants": 613,
    "location": "Online",
    "prize_value": 1050
   },
@@ -295,7 +273,7 @@
    "prize": "€ 1,000",
    "deadline": "Dec 18, 2026",
    "domain": "Low/No Code, Machine Learning/AI, Productivity",
-   "participants": 500,
+   "participants": 509,
    "location": "Online",
    "prize_value": 1000
   },
@@ -305,8 +283,8 @@
    "url": "https://unstop.com/hackathons/sustainiq-vidyavardhaka-college-of-engineering-mysore-1814270",
    "prize": "₹60,000",
    "deadline": "2026-11-27",
-   "domain": "Engineering Students, Undergraduate",
-   "participants": 52,
+   "domain": "Engineering Students, Postgraduate, Undergraduate",
+   "participants": 82,
    "location": "India",
    "prize_value": 705
   },
@@ -317,9 +295,20 @@
    "prize": "₹45,000",
    "deadline": "2027-01-09",
    "domain": "Engineering Students, Postgraduate, Undergraduate, Arts, Commerce, Sciences & Others",
-   "participants": 51,
+   "participants": 100,
    "location": "India",
    "prize_value": 529
+  },
+  {
+   "title": "AI-Powered Career Development Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/ai-powered-career-development-hackathon-unsaidtalks-education-1821954",
+   "prize": "₹40,497",
+   "deadline": "2026-11-28",
+   "domain": "All",
+   "participants": 160,
+   "location": "India",
+   "prize_value": 476
   },
   {
    "title": "Spectrum 1.0 – 24 Hour National Level Hackathon",
@@ -333,13 +322,35 @@
    "prize_value": 470
   },
   {
+   "title": "Buildathon: AI Hackathon",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/buildathon-ai-hackathon-dr-mgr-institute-of-education-and-research-institute-1815227",
+   "prize": "₹13,000",
+   "deadline": "2026-11-23",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 4,
+   "location": "India",
+   "prize_value": 152
+  },
+  {
+   "title": "Data Nilaam",
+   "platform": "Unstop",
+   "url": "https://unstop.com/hackathons/data-nilaam-kernel-10-department-of-information-technology-jadavpur-university-1822546",
+   "prize": "₹6,000",
+   "deadline": "2026-12-05",
+   "domain": "Engineering Students, Postgraduate, Undergraduate, Management",
+   "participants": 3,
+   "location": "India",
+   "prize_value": 70
+  },
+  {
    "title": "Tauras by Revat: Crypto Trading Hackathon | Prove Your Edge, Then Trade It Live",
    "platform": "Unstop",
    "url": "https://unstop.com/hackathons/tauras-by-revat-crypto-trading-hackathon-prove-your-edge-then-trade-it-live-revat-crypto-fund-1820715",
    "prize": "₹1,250",
    "deadline": "2026-12-06",
    "domain": "All",
-   "participants": 3,
+   "participants": 18,
    "location": "India",
    "prize_value": 14
   },
@@ -350,7 +361,7 @@
    "prize": "$ 0",
    "deadline": "Jan 15, 2027",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 968,
+   "participants": 976,
    "location": "Online",
    "prize_value": 0
   },
@@ -361,7 +372,7 @@
    "prize": "$ 0",
    "deadline": "Dec 11, 2026",
    "domain": "Databases, Machine Learning/AI, Productivity",
-   "participants": 656,
+   "participants": 695,
    "location": "Online",
    "prize_value": 0
   },
@@ -372,7 +383,7 @@
    "prize": "$ 0",
    "deadline": "Nov 27, 2026",
    "domain": "Education, Machine Learning/AI, Web",
-   "participants": 698,
+   "participants": 723,
    "location": "Online",
    "prize_value": 0
   },
@@ -383,7 +394,7 @@
    "prize": "$ 0",
    "deadline": "Nov 29, 2026",
    "domain": "Beginner Friendly, Education, Web",
-   "participants": 687,
+   "participants": 720,
    "location": "Online",
    "prize_value": 0
   },
@@ -394,7 +405,7 @@
    "prize": "$ 0",
    "deadline": "Jan 14, 2027",
    "domain": "DevOps, Machine Learning/AI, Robotic Process Automation",
-   "participants": 454,
+   "participants": 455,
    "location": "Online",
    "prize_value": 0
   },
@@ -405,7 +416,7 @@
    "prize": "$ 0",
    "deadline": "Nov 28, 2026",
    "domain": "Machine Learning/AI",
-   "participants": 372,
+   "participants": 416,
    "location": "Online",
    "prize_value": 0
   },
